@@ -5,6 +5,8 @@ import { parseTracklistCues } from './lib/cues.ts'
 interface Artist {
   name: string
   genres: string[]
+  /** Search text; defaults to "<name> set" */
+  query?: string
 }
 
 interface Sources {
@@ -19,7 +21,8 @@ interface Sources {
 
 interface Candidate {
   artists: Artist[]
-  fromChannelList: boolean
+  /** From a curated channel or already in the catalogue: skip the title heuristics */
+  trusted: boolean
 }
 
 interface PlaylistItemsPage {
@@ -97,7 +100,7 @@ function isArtistList(normalizedTitle: string): boolean {
 }
 
 function isArtistSet(title: string, channelTitle: string, candidate: Candidate): boolean {
-  if (candidate.fromChannelList) return true
+  if (candidate.trusted) return true
   if (candidate.artists.some(a => normalize(a.name) === normalize(channelTitle))) return true
   const t = normalize(title)
   return !COMPILATION.test(t) && !isArtistList(t) && candidate.artists.some(a => leadsTitle(title, a))
@@ -126,7 +129,7 @@ async function scanChannel(channel: Sources['channels'][number], match: ReturnTy
       const artists = match(item.snippet.title)
       if (artists.length > 0) {
         hits++
-        found.set(item.snippet.resourceId.videoId, { artists, fromChannelList: true })
+        found.set(item.snippet.resourceId.videoId, { artists, trusted: true })
       }
     }
     pageToken = page.nextPageToken ?? ''
@@ -142,7 +145,7 @@ async function searchArtist(artist: Artist, pages: number, match: ReturnType<typ
       part: 'snippet',
       type: 'video',
       videoDuration: 'long',
-      q: `${artist.name} set`,
+      q: artist.query ?? `${artist.name} set`,
       maxResults: '50',
       ...(pageToken && { pageToken }),
     }, SEARCH_COST)
@@ -150,7 +153,7 @@ async function searchArtist(artist: Artist, pages: number, match: ReturnType<typ
       const artists = match(decodeEntities(item.snippet.title))
       if (artists.length > 0 && !found.has(item.id.videoId)) {
         hits++
-        found.set(item.id.videoId, { artists, fromChannelList: false })
+        found.set(item.id.videoId, { artists, trusted: false })
       }
     }
     pageToken = page.nextPageToken ?? ''
@@ -170,6 +173,16 @@ async function main() {
   const found = new Map<string, Candidate>()
   for (const channel of sources.channels) await scanChannel(channel, match, found)
   for (const artist of sources.artists) await searchArtist(artist, sources.searchPagesPerArtist, match, found)
+
+  const artistsByName = new Map(sources.artists.map(a => [a.name, a]))
+  let kept = 0
+  for (const s of previous) {
+    const artists = s.artist.split(' & ').map(n => artistsByName.get(n)).filter((a): a is Artist => a !== undefined)
+    if (artists.length === 0) continue
+    found.set(s.id, { artists: found.get(s.id)?.artists ?? artists, trusted: true })
+    kept++
+  }
+  console.log(`catalogue: ${kept} existing sets re-checked`)
   for (const id of sources.excludedVideos) found.delete(id)
 
   const minDurationSec = sources.minDurationMin * 60

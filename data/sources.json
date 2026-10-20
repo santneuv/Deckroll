@@ -18,7 +18,15 @@
     "🎧TOP DJ🎧",
     "DJ Tribute Showcase",
     "EDMbooster",
-    "Anson Reed"
+    "Anson Reed",
+    "MusicHub1",
+    "NexusMusic",
+    "Electronic Music Culture",
+    "Ghost ID",
+    "Summer Together",
+    "VOID JOURNEY",
+    "The Game Boys Events",
+    "Phalaina"
   ],
   "channels": [
     {
@@ -103,20 +111,82 @@
       "genres": [
         "Melodic House"
       ]
+    },
+    {
+      "name": "Fisher",
+      "genres": [
+        "Tech House"
+      ]
+    },
+    {
+      "name": "ARTBAT",
+      "genres": [
+        "Melodic Techno"
+      ]
+    },
+    {
+      "name": "Sofi Tukker",
+      "genres": [
+        "House"
+      ]
+    },
+    {
+      "name": "James Hype",
+      "genres": [
+        "House"
+      ]
+    },
+    {
+      "name": "Manifest",
+      "genres": [
+        "Turkish Pop"
+      ],
+      "query": "Manifest konser"
+    },
+    {
+      "name": "Afrojack",
+      "genres": [
+        "EDM"
+      ]
+    },
+    {
+      "name": "Swedish House Mafia",
+      "genres": [
+        "EDM"
+      ]
+    },
+    {
+      "name": "Charlotte de Witte",
+      "genres": [
+        "Techno"
+      ]
     }
   ],
   "excludedVideos": [
     "00YKA3lGqhs",
     "26GDMD89woM",
     "3BMHm92m7iM",
+    "3HFqr9VFyig",
     "3daKCYpJ8Sw",
+    "3jYOFF1YaB4",
+    "4k3ua8_Kcjc",
     "50aH82T0bIc",
+    "5YqKqRNM3bs",
+    "7AteXpTGVN4",
     "Ah_jbP5K_Xo",
     "AscatuZ66yM",
+    "BmBsDGFhwYU",
+    "CCsaEHL55do",
     "CdzuT1eW32U",
+    "DzdV4iMZie4",
     "EN1kvQ8SjdU",
     "FI26NB4OHtE",
+    "F_5QFU8H5BY",
+    "Fjmtx7bDWLg",
     "GofhbEtWFAw",
+    "HEXXJFE4ofQ",
+    "Hz-uuaPyF6g",
+    "IM9aGqD0hGU",
     "IcghULMnJ5g",
     "Ij0W58R0J4g",
     "Jdt3jc63j4U",
@@ -129,6 +199,9 @@
     "NJYsIXSa9T8",
     "Nwp8PrtD9Jg",
     "ONH8Wdhl0Yk",
+    "PwMPnTgp-wQ",
+    "Q9lAUKE6d-k",
+    "QJLMWVPMkN0",
     "R-3pnfonPmg",
     "RwyA4YAsuAY",
     "SLJbGTLj65E",
@@ -138,38 +211,77 @@
     "TCxgmZo37ZM",
     "UQbm9UcVVN0",
     "Us_WFLtWzwo",
+    "UuC02UZC3Yc",
+    "Uxxw8e2aEkI",
     "V89pqzqrxZU",
+    "VHJh8-XbDZM",
+    "WtSoZF1WU-8",
+    "XDqBOfiMPBk",
+    "Xj0VAj5SbUw",
+    "YO6wjpsYR5w",
     "ZEXEOK9i75A",
+    "ZQnztaR16kg",
     "_MPoyPCMRLI",
     "bYLU2qPt6BM",
+    "cCDcvZr9BNc",
     "cpGQqTl_xw8",
     "dmd8IeNVX2g",
     "doKb51o611M",
     "dtUj9Blt_Zc",
+    "e-BjHOZj20s",
+    "ermt3UbI6Mo",
     "f0XXKvNO60Y",
     "f0su7CuPBEc",
+    "fj5li86s7oM",
     "fvFbBiW9iN0",
     "g32x-x2EB6c",
+    "g95mDqBB7j4",
     "gLwItIODWL0",
+    "giAUvyIQrBk",
+    "gmu40ujYeAI",
+    "hJDh2iG3Osg",
+    "iKRxfSd9eRw",
     "iLu3PZx9Vc8",
+    "iez8z4iDZkA",
+    "iqmg8B8T_Tw",
     "jzjOWQETuzw",
     "kDfHESoKnEE",
     "kLRsrZUD2EE",
     "kNRMEjlS1FE",
+    "lictyt26VsU",
+    "mTEofWmQCYU",
     "n3vFEc_nERU",
     "n5PbmS1UUkw",
+    "nO3yGPfZg24",
     "nRQnN66l-SE",
     "nqEgQl_p5Ng",
+    "oSAgZdD-bAs",
     "pxvP_EqxjoQ",
+    "pznmu7VWmeA",
+    "qE6bh0sWhk4",
+    "qwm0ZSMo1LE",
     "rGXE9eBgHm8",
     "rHMG6VxbDos",
+    "rmdxBRPCcQw",
+    "sP0-e0gzF-s",
     "sRHPzW4EJv8",
+    "sf5d_cBXADM",
     "sxqyqMPPIb8",
     "tIAydkJLcR8",
+    "tK6wJxB_AU4",
     "tggmYBB4v94",
+    "u6Vj-i72iTk",
     "v23eD_dU7qs",
     "vJVmjYdMwL0",
+    "w6JTGOlJf4k",
+    "wET46KvB5r0",
     "wfP5E3WHALg",
-    "yjRiBzNbQSk"
+    "wgJ1RYBdK4s",
+    "xMkV6u102Ho",
+    "x_W-6IVESLo",
+    "yjRiBzNbQSk",
+    "zbk6kANyqv4",
+    "zcldlAlF-jw",
+    "zjxsMUmpopU"
   ]
 }
