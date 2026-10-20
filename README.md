@@ -23,6 +23,8 @@ pnpm dev        # http://localhost:3000
 | `channels` | YouTube channels to scan in full for those artists |
 | `blockedChannels` | Channels whose uploads are always skipped (fan / AI mixes) |
 | `excludedVideos` | Individual videos that are always skipped |
+| `pinnedVideos` | Videos always kept while playable, even when shorter or less viewed than the limits |
+| `artists[].search` | `false` skips the YouTube search for that artist |
 | `minDurationMin`, `minViews` | Minimum length and view count for a set |
 
 Put a YouTube Data API v3 key in `.env` (see `.env.example`), then:

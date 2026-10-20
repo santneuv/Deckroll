@@ -1,95 +1,5 @@
 [
   {
-    "id": "LDL2IMi9slM",
-    "title": "Manifest [LIVE 4k] - in London - 16/10/26",
-    "artist": "Manifest",
-    "broadcaster": "Paul'sGigs",
-    "city": "London",
-    "country": "United Kingdom",
-    "venue": "OVO Arena Wembley",
-    "coords": [
-      51.56,
-      -0.28
-    ],
-    "setting": "arena",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 4659,
-    "cues": [
-      0,
-      240,
-      494,
-      652,
-      799,
-      1072,
-      1340,
-      1485,
-      1711,
-      1897,
-      2070,
-      2304,
-      2500,
-      2725,
-      2974,
-      3142,
-      3271,
-      3520,
-      3753,
-      3886,
-      4084,
-      4298,
-      4446
-    ],
-    "views": 4508,
-    "genres": [
-      "Turkish Pop"
-    ],
-    "publishedAt": "2026-10-18T19:38:32Z"
-  },
-  {
-    "id": "bKEuRPngqFQ",
-    "title": "MANIFEST - Full Live Concert at OVO Wembley Arena, LONDON - 16 October 2026",
-    "artist": "Manifest",
-    "broadcaster": "LL & LSV",
-    "city": "London",
-    "country": "United Kingdom",
-    "venue": "OVO Arena Wembley",
-    "coords": [
-      51.56,
-      -0.28
-    ],
-    "setting": "arena",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 5846,
-    "cues": [],
-    "views": 206141,
-    "genres": [
-      "Turkish Pop"
-    ],
-    "publishedAt": "2026-10-18T04:07:21Z"
-  },
-  {
-    "id": "q1cWXjLRleE",
-    "title": "manifest LONRA KONSERİ | FULL KONSER",
-    "artist": "Manifest",
-    "broadcaster": "Kız Kıza",
-    "city": "London",
-    "country": "United Kingdom",
-    "venue": "OVO Arena Wembley",
-    "coords": [
-      51.56,
-      -0.28
-    ],
-    "setting": "arena",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 5028,
-    "cues": [],
-    "views": 18196,
-    "genres": [
-      "Turkish Pop"
-    ],
-    "publishedAt": "2026-10-17T16:40:42Z"
-  },
-  {
     "id": "2BI8l_gtZIg",
     "title": "Swedish House Mafia — Head Trip Festival 2026 (LIVESTREAM AUDIO)",
     "artist": "Swedish House Mafia",
@@ -112,28 +22,6 @@
     "publishedAt": "2026-10-12T21:16:23Z"
   },
   {
-    "id": "2yvE2ISSIhE",
-    "title": "Swedish House Mafia | Head Trip 2026",
-    "artist": "Swedish House Mafia",
-    "broadcaster": "Andrés Chang",
-    "city": "Indio",
-    "country": "United States",
-    "venue": "Head Trip Festival",
-    "coords": [
-      33.72,
-      -116.22
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 2123,
-    "cues": [],
-    "views": 10704,
-    "genres": [
-      "EDM"
-    ],
-    "publishedAt": "2026-10-12T17:50:03Z"
-  },
-  {
     "id": "WdeRoM2dvgQ",
     "title": "Cosmic Gate: Wake Your Mind Radio 653",
     "artist": "Cosmic Gate",
@@ -151,29 +39,6 @@
       "Trance"
     ],
     "publishedAt": "2026-10-12T16:00:07Z"
-  },
-  {
-    "id": "aMS69e3nu_U",
-    "title": "Tiësto LIVE at EDC KOREA 2026 | FULL SET",
-    "artist": "Tiësto",
-    "broadcaster": "nicktim",
-    "city": "Incheon",
-    "country": "South Korea",
-    "venue": "EDC Korea",
-    "coords": [
-      37.47,
-      126.39
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T11:31:12.695Z",
-    "durationSec": 4331,
-    "cues": [],
-    "views": 5044,
-    "genres": [
-      "House",
-      "Trance"
-    ],
-    "publishedAt": "2026-10-12T08:00:01Z"
   },
   {
     "id": "zEnCDKBJV7E",
@@ -217,28 +82,6 @@
     "publishedAt": "2026-10-09T14:00:35Z"
   },
   {
-    "id": "p6i5jryq0Jc",
-    "title": "FISHER LIVE at EDC KOREA 2026 | FULL SET 4K",
-    "artist": "Fisher",
-    "broadcaster": "nicktim",
-    "city": "Incheon",
-    "country": "South Korea",
-    "venue": "EDC Korea",
-    "coords": [
-      37.47,
-      126.39
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 4428,
-    "cues": [],
-    "views": 1017,
-    "genres": [
-      "Tech House"
-    ],
-    "publishedAt": "2026-10-09T10:00:26Z"
-  },
-  {
     "id": "95Rea5ZotHA",
     "title": "Cosmic Gate: Wake Your Mind Radio 652",
     "artist": "Cosmic Gate",
@@ -256,25 +99,6 @@
       "Trance"
     ],
     "publishedAt": "2026-10-05T16:00:06Z"
-  },
-  {
-    "id": "Am37xBUefn4",
-    "title": "Manifest - Zehir #live #music #livemusic #show #concert #konser #müzik #manifest ",
-    "artist": "Manifest",
-    "broadcaster": "SINAN LIVE",
-    "city": null,
-    "country": null,
-    "venue": null,
-    "coords": null,
-    "setting": "other",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 2424,
-    "cues": [],
-    "views": 8382,
-    "genres": [
-      "Turkish Pop"
-    ],
-    "publishedAt": "2026-10-05T13:13:27Z"
   },
   {
     "id": "Jj_1vkDvviU",
@@ -316,54 +140,6 @@
       "Trance"
     ],
     "publishedAt": "2026-09-28T16:00:35Z"
-  },
-  {
-    "id": "-VjRXrl2wgY",
-    "title": "SOFI TUKKER Live in Toronto | RBC Amphitheatre | September 26, 2026 [1080p]",
-    "artist": "Sofi Tukker",
-    "broadcaster": "borick",
-    "city": "Toronto",
-    "country": "Canada",
-    "venue": "RBC Amphitheatre",
-    "coords": [
-      43.63,
-      -79.42
-    ],
-    "setting": "arena",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 5253,
-    "cues": [
-      0,
-      2400,
-      5200
-    ],
-    "views": 1431,
-    "genres": [
-      "House"
-    ],
-    "publishedAt": "2026-09-27T12:16:00Z"
-  },
-  {
-    "id": "4f5c1taMrI8",
-    "title": "James Hype @ Nocturnal Wonderland |Mystic Wild Stage|2026",
-    "artist": "James Hype",
-    "broadcaster": "Joseph Montano",
-    "city": "San Bernardino",
-    "country": "United States",
-    "venue": "Nocturnal Wonderland",
-    "coords": [
-      34.23,
-      -117.4
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 3545,
-    "cues": [],
-    "views": 2767,
-    "genres": [
-      "House"
-    ],
-    "publishedAt": "2026-09-23T09:54:47Z"
   },
   {
     "id": "TvLJ2j3oUPg",
@@ -469,28 +245,6 @@
     "publishedAt": "2026-09-19T12:00:34Z"
   },
   {
-    "id": "ecMom08wTLA",
-    "title": "CHARLOTTE DE WITTE",
-    "artist": "Charlotte de Witte",
-    "broadcaster": "OS STREY",
-    "city": "Turin",
-    "country": "Italy",
-    "venue": "Kappa FuturFestival",
-    "coords": [
-      45.03,
-      7.66
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 5300,
-    "cues": [],
-    "views": 4583,
-    "genres": [
-      "Techno"
-    ],
-    "publishedAt": "2026-09-19T00:00:01Z"
-  },
-  {
     "id": "YT3pjFCMZfc",
     "title": "Cosmic Gate: Wake Your Mind Radio 649",
     "artist": "Cosmic Gate",
@@ -508,28 +262,6 @@
       "Trance"
     ],
     "publishedAt": "2026-09-14T16:00:06Z"
-  },
-  {
-    "id": "oJbUThgr_Mk",
-    "title": "Manifest Ülker Arena 2.Gün Part 1 #live #livemusic #music #konser #concert #müzik #show ",
-    "artist": "Manifest",
-    "broadcaster": "SINAN LIVE",
-    "city": "Istanbul",
-    "country": "Turkey",
-    "venue": "Ülker Sports Arena",
-    "coords": [
-      40.99,
-      29.11
-    ],
-    "setting": "arena",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 1944,
-    "cues": [],
-    "views": 32892,
-    "genres": [
-      "Turkish Pop"
-    ],
-    "publishedAt": "2026-09-14T06:46:04Z"
   },
   {
     "id": "uJeik_CC1Vg",
@@ -776,51 +508,6 @@
     "publishedAt": "2026-09-03T17:00:06Z"
   },
   {
-    "id": "pxji344iPCI",
-    "title": "SWEDISH HOUSE MAFIA ULLEVI 29.08.26 WE WERE THERE",
-    "artist": "Swedish House Mafia",
-    "broadcaster": "@JappenPhoto",
-    "city": "Gothenburg",
-    "country": "Sweden",
-    "venue": "Ullevi",
-    "coords": [
-      57.71,
-      11.99
-    ],
-    "setting": "arena",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 3160,
-    "cues": [],
-    "views": 40217,
-    "genres": [
-      "EDM"
-    ],
-    "publishedAt": "2026-09-02T07:40:34Z"
-  },
-  {
-    "id": "p-DjwW3bdgY",
-    "title": "Tiësto - Creamfields UK 2026",
-    "artist": "Tiësto",
-    "broadcaster": "Mauri Villa Tiësto Fan",
-    "city": "Daresbury",
-    "country": "United Kingdom",
-    "venue": "Creamfields",
-    "coords": [
-      53.34,
-      -2.63
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T11:31:12.695Z",
-    "durationSec": 5229,
-    "cues": [],
-    "views": 10879,
-    "genres": [
-      "House",
-      "Trance"
-    ],
-    "publishedAt": "2026-08-31T20:37:52Z"
-  },
-  {
     "id": "HeWhF_du_bM",
     "title": "Cosmic Gate: Wake Your Mind Radio 647",
     "artist": "Cosmic Gate",
@@ -838,47 +525,6 @@
       "Trance"
     ],
     "publishedAt": "2026-08-31T16:00:06Z"
-  },
-  {
-    "id": "n4NUjtq8G8c",
-    "title": "Swedish House Mafia - Creamfields 2026",
-    "artist": "Swedish House Mafia",
-    "broadcaster": "Andrew Summersgill",
-    "city": "Daresbury",
-    "country": "United Kingdom",
-    "venue": "Creamfields",
-    "coords": [
-      53.34,
-      -2.63
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 5232,
-    "cues": [],
-    "views": 29070,
-    "genres": [
-      "EDM"
-    ],
-    "publishedAt": "2026-08-30T22:41:52Z"
-  },
-  {
-    "id": "fq6RcFQKor8",
-    "title": "Cosmic Gate - Sunset Square 2026",
-    "artist": "Cosmic Gate",
-    "broadcaster": "naczosffm",
-    "city": null,
-    "country": null,
-    "venue": "Sunset Square",
-    "coords": null,
-    "setting": "other",
-    "enrichedAt": "2026-10-20T11:31:12.695Z",
-    "durationSec": 4518,
-    "cues": [],
-    "views": 9276,
-    "genres": [
-      "Trance"
-    ],
-    "publishedAt": "2026-08-30T22:10:06Z"
   },
   {
     "id": "KCCba56g2Xk",
@@ -1163,129 +809,6 @@
       "Trance"
     ],
     "publishedAt": "2026-08-10T16:00:06Z"
-  },
-  {
-    "id": "WJzUWu1cFmo",
-    "title": "Tiesto İstanbul Festivali 2026 Full Set",
-    "artist": "Tiësto",
-    "broadcaster": "Serhat Sadık Akbaş",
-    "city": "Istanbul",
-    "country": "Turkey",
-    "venue": "İstanbul Festivali",
-    "coords": [
-      41.01,
-      28.98
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T11:31:12.695Z",
-    "durationSec": 4288,
-    "cues": [
-      0,
-      180,
-      327,
-      600,
-      711,
-      828,
-      901,
-      1005,
-      1166,
-      1305,
-      1424,
-      1488,
-      1586,
-      1795,
-      1867,
-      2003,
-      2130,
-      2325,
-      2551,
-      2640,
-      2778,
-      2931,
-      3101,
-      3461,
-      3547,
-      3619,
-      3826,
-      3951,
-      4012,
-      4143
-    ],
-    "views": 8350,
-    "genres": [
-      "House",
-      "Trance"
-    ],
-    "publishedAt": "2026-08-09T18:46:13Z"
-  },
-  {
-    "id": "sIA3b9Za210",
-    "title": "TIESTO 2.5 HOURS TRANCE SET | İSTANBUL FESTİVALİ 2026 - FULL SET EXTENDED DROPS ONLY",
-    "artist": "Tiësto",
-    "broadcaster": "Ozan Çetin",
-    "city": "Istanbul",
-    "country": "Turkey",
-    "venue": "İstanbul Festivali",
-    "coords": [
-      41.01,
-      28.98
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T11:31:12.695Z",
-    "durationSec": 5431,
-    "cues": [
-      0,
-      480,
-      661,
-      794,
-      947,
-      1127,
-      1268,
-      1536,
-      1619,
-      1643,
-      1690,
-      1869,
-      1980,
-      2140,
-      2283,
-      2474,
-      2571,
-      2731,
-      2895,
-      3007,
-      3107,
-      3303,
-      3520,
-      3590,
-      3643,
-      3801,
-      3964,
-      4073,
-      4117,
-      4149,
-      4251,
-      4314,
-      4465,
-      4735,
-      4764,
-      4814,
-      4882,
-      4932,
-      4987,
-      5067,
-      5087,
-      5147,
-      5226,
-      5259,
-      5312
-    ],
-    "views": 41913,
-    "genres": [
-      "House",
-      "Trance"
-    ],
-    "publishedAt": "2026-08-09T18:30:48Z"
   },
   {
     "id": "77UJo-fcxbg",
@@ -1963,28 +1486,6 @@
     "publishedAt": "2026-06-29T15:00:23Z"
   },
   {
-    "id": "rAE_mIIn_uQ",
-    "title": "MANİFEST-Hatay Konseri (ful Hd)",
-    "artist": "Manifest",
-    "broadcaster": "𝒁𝒐𝒌𝒕𝒂𝒚𝒘𝒔𝒑",
-    "city": "Antakya",
-    "country": "Turkey",
-    "venue": null,
-    "coords": [
-      36.2,
-      36.16
-    ],
-    "setting": "other",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 2375,
-    "cues": [],
-    "views": 16419,
-    "genres": [
-      "Turkish Pop"
-    ],
-    "publishedAt": "2026-06-28T12:06:15Z"
-  },
-  {
     "id": "ZkFFH4R6RTs",
     "title": "Jacked Radio #766 by AFROJACK",
     "artist": "Afrojack",
@@ -2167,28 +1668,6 @@
     "publishedAt": "2026-06-14T13:00:05Z"
   },
   {
-    "id": "HbtTD3dsp0g",
-    "title": "MANİFEST-Rotterdam Konseri (Ful Hd)",
-    "artist": "Manifest",
-    "broadcaster": "𝒁𝒐𝒌𝒕𝒂𝒚𝒘𝒔𝒑",
-    "city": "Rotterdam",
-    "country": "Netherlands",
-    "venue": null,
-    "coords": [
-      51.92,
-      4.48
-    ],
-    "setting": "other",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 3276,
-    "cues": [],
-    "views": 11448,
-    "genres": [
-      "Turkish Pop"
-    ],
-    "publishedAt": "2026-06-14T11:00:06Z"
-  },
-  {
     "id": "tuEmTDXfTrk",
     "title": "PRISMATIC by Tiësto 023",
     "artist": "Tiësto",
@@ -2253,28 +1732,6 @@
     "publishedAt": "2026-06-11T16:00:07Z"
   },
   {
-    "id": "dcNo1U1H1UA",
-    "title": "Manifest 4. Gün Ülker Arena İstanbul Konseri 💚 💜 🩷 💙 ❤️ 💛 Manifam İçin Derlendi #concert #live ",
-    "artist": "Manifest",
-    "broadcaster": "SINAN LIVE",
-    "city": "Istanbul",
-    "country": "Turkey",
-    "venue": "Ülker Sports Arena",
-    "coords": [
-      40.99,
-      29.11
-    ],
-    "setting": "arena",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 4589,
-    "cues": [],
-    "views": 81094,
-    "genres": [
-      "Turkish Pop"
-    ],
-    "publishedAt": "2026-06-09T06:08:08Z"
-  },
-  {
     "id": "48eIv3sT3Gs",
     "title": "Cosmic Gate: Wake Your Mind Radio 635",
     "artist": "Cosmic Gate",
@@ -2294,90 +1751,6 @@
     "publishedAt": "2026-06-08T16:00:06Z"
   },
   {
-    "id": "MjfIETEOaqE",
-    "title": "Manifest 3. Gün Ülker Arena İstanbul Konseri 💚 💜 🩷 💙 ❤️ 💛 Manifam İçin Derlendi #concert #live ",
-    "artist": "Manifest",
-    "broadcaster": "SINAN LIVE",
-    "city": "Istanbul",
-    "country": "Turkey",
-    "venue": "Ülker Sports Arena",
-    "coords": [
-      40.99,
-      29.11
-    ],
-    "setting": "arena",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 4779,
-    "cues": [],
-    "views": 12914,
-    "genres": [
-      "Turkish Pop"
-    ],
-    "publishedAt": "2026-06-08T07:11:29Z"
-  },
-  {
-    "id": "8DpPT6ECIN4",
-    "title": "Manifest 6 Haziran 2026 Atatürk Orman Çiftliği Konseri Bölüm 1",
-    "artist": "Manifest",
-    "broadcaster": "yasinonelke",
-    "city": "Ankara",
-    "country": "Turkey",
-    "venue": "Atatürk Orman Çiftliği",
-    "coords": [
-      39.94,
-      32.8
-    ],
-    "setting": "outdoor",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 3814,
-    "cues": [
-      0,
-      78,
-      461,
-      575,
-      671,
-      750,
-      1012,
-      1177,
-      1493,
-      1793,
-      2022,
-      2240,
-      2587,
-      2790,
-      3070,
-      3372,
-      3634
-    ],
-    "views": 47071,
-    "genres": [
-      "Turkish Pop"
-    ],
-    "publishedAt": "2026-06-07T09:25:46Z"
-  },
-  {
-    "id": "oONYDAJQPzU",
-    "title": "Manifest-Ankara Konseri (1.Gün) (ful Hd)",
-    "artist": "Manifest",
-    "broadcaster": "𝒁𝒐𝒌𝒕𝒂𝒚𝒘𝒔𝒑",
-    "city": "Ankara",
-    "country": "Turkey",
-    "venue": null,
-    "coords": [
-      39.93,
-      32.86
-    ],
-    "setting": "other",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 3732,
-    "cues": [],
-    "views": 3627,
-    "genres": [
-      "Turkish Pop"
-    ],
-    "publishedAt": "2026-06-06T22:49:44Z"
-  },
-  {
     "id": "5EreNPtA2x8",
     "title": "Teho - TNH Radio, 2026",
     "artist": "Teho",
@@ -2395,28 +1768,6 @@
       "Melodic Techno"
     ],
     "publishedAt": "2026-06-06T16:00:25Z"
-  },
-  {
-    "id": "8kM2sen0MpY",
-    "title": "Manifest 1. Gün Ülker Arena İstanbul Konseri 💚 💜 🩷 💙 ❤️ 💛 Manifam İçin Derlendi ",
-    "artist": "Manifest",
-    "broadcaster": "SINAN LIVE",
-    "city": "Istanbul",
-    "country": "Turkey",
-    "venue": "Ülker Sports Arena",
-    "coords": [
-      40.99,
-      29.11
-    ],
-    "setting": "arena",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 3771,
-    "cues": [],
-    "views": 26751,
-    "genres": [
-      "Turkish Pop"
-    ],
-    "publishedAt": "2026-06-06T05:33:01Z"
   },
   {
     "id": "_bKZIUr9s4g",
@@ -2439,28 +1790,6 @@
       "Tech House"
     ],
     "publishedAt": "2026-06-04T20:38:46Z"
-  },
-  {
-    "id": "kVEkuRe6hkc",
-    "title": "Swedish House Mafia @ Tallinn  Lauluväljak 30.05.2026",
-    "artist": "Swedish House Mafia",
-    "broadcaster": "dv",
-    "city": "Tallinn",
-    "country": "Estonia",
-    "venue": "Tallinn Song Festival Grounds",
-    "coords": [
-      59.44,
-      24.79
-    ],
-    "setting": "outdoor",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 3453,
-    "cues": [],
-    "views": 7190,
-    "genres": [
-      "EDM"
-    ],
-    "publishedAt": "2026-06-02T09:32:32Z"
   },
   {
     "id": "TZWPy5b1j1I",
@@ -2728,28 +2057,6 @@
     "publishedAt": "2026-05-17T08:51:24Z"
   },
   {
-    "id": "fPRuaVHAPcQ",
-    "title": "Manifest-Ülker Arena (15 Mayıs)  (ful Hd)",
-    "artist": "Manifest",
-    "broadcaster": "𝒁𝒐𝒌𝒕𝒂𝒚𝒘𝒔𝒑",
-    "city": "Istanbul",
-    "country": "Turkey",
-    "venue": "Ülker Sports Arena",
-    "coords": [
-      40.99,
-      29.11
-    ],
-    "setting": "arena",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 5413,
-    "cues": [],
-    "views": 5740,
-    "genres": [
-      "Turkish Pop"
-    ],
-    "publishedAt": "2026-05-16T16:00:06Z"
-  },
-  {
     "id": "m5YUsunKfhQ",
     "title": "Cosmic Gate: Wake Your Mind Radio 631",
     "artist": "Cosmic Gate",
@@ -2767,73 +2074,6 @@
       "Trance"
     ],
     "publishedAt": "2026-05-11T16:00:06Z"
-  },
-  {
-    "id": "J3y0mf7tylg",
-    "title": "Manifest 09.05.2026 Gaziantep Konserinden Kesitler (4K60)",
-    "artist": "Manifest",
-    "broadcaster": "Eleyra",
-    "city": "Gaziantep",
-    "country": "Turkey",
-    "venue": null,
-    "coords": [
-      37.07,
-      37.38
-    ],
-    "setting": "other",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 1812,
-    "cues": [
-      0,
-      206,
-      303,
-      355,
-      374,
-      507,
-      535,
-      568,
-      590,
-      735,
-      787,
-      925,
-      1123,
-      1152,
-      1324,
-      1335,
-      1456,
-      1539,
-      1710,
-      1757,
-      1768,
-      1803
-    ],
-    "views": 72968,
-    "genres": [
-      "Turkish Pop"
-    ],
-    "publishedAt": "2026-05-10T20:50:57Z"
-  },
-  {
-    "id": "hMaGo-6cBH4",
-    "title": "manifest - mersin konseri (Canlı yayın) - 260508",
-    "artist": "Manifest",
-    "broadcaster": "Hpedia",
-    "city": "Mersin",
-    "country": "Turkey",
-    "venue": null,
-    "coords": [
-      36.81,
-      34.64
-    ],
-    "setting": "other",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 3856,
-    "cues": [],
-    "views": 12500,
-    "genres": [
-      "Turkish Pop"
-    ],
-    "publishedAt": "2026-05-08T20:57:38Z"
   },
   {
     "id": "xQPUkJJ4y3o",
@@ -2943,28 +2183,6 @@
     "publishedAt": "2026-04-30T16:01:13Z"
   },
   {
-    "id": "Q87GpBjP26Q",
-    "title": "MANİFEST Kıbrıs konseri VIP en önden full konser @m6nifestgirls ",
-    "artist": "Manifest",
-    "broadcaster": "Melih Kumbur",
-    "city": "Nicosia",
-    "country": "Cyprus",
-    "venue": "NEU Event Park",
-    "coords": [
-      35.23,
-      33.32
-    ],
-    "setting": "outdoor",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 2922,
-    "cues": [],
-    "views": 101893,
-    "genres": [
-      "Turkish Pop"
-    ],
-    "publishedAt": "2026-04-27T16:10:39Z"
-  },
-  {
     "id": "KG2DScI7TmM",
     "title": "Cosmic Gate: Wake Your Mind Radio 629",
     "artist": "Cosmic Gate",
@@ -2982,86 +2200,6 @@
       "Trance"
     ],
     "publishedAt": "2026-04-27T16:00:06Z"
-  },
-  {
-    "id": "Va8g7mvvCj8",
-    "title": "Manifest Kıbrıs Konseri 25.04.2026 by Mommyfest ",
-    "artist": "Manifest",
-    "broadcaster": "Ye iç gez by Mommyfest",
-    "city": "Nicosia",
-    "country": "Cyprus",
-    "venue": "NEU Event Park",
-    "coords": [
-      35.23,
-      33.32
-    ],
-    "setting": "outdoor",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 1842,
-    "cues": [],
-    "views": 26127,
-    "genres": [
-      "Turkish Pop"
-    ],
-    "publishedAt": "2026-04-27T14:25:00Z"
-  },
-  {
-    "id": "FAbL8i8F_dw",
-    "title": "Manifest-  Kıbrıs konser (ful HD )",
-    "artist": "Manifest",
-    "broadcaster": "𝒁𝒐𝒌𝒕𝒂𝒚𝒘𝒔𝒑",
-    "city": "Nicosia",
-    "country": "Cyprus",
-    "venue": "NEU Event Park",
-    "coords": [
-      35.23,
-      33.32
-    ],
-    "setting": "outdoor",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 2880,
-    "cues": [],
-    "views": 4921,
-    "genres": [
-      "Turkish Pop"
-    ],
-    "publishedAt": "2026-04-26T19:30:06Z"
-  },
-  {
-    "id": "MMIwTbQzY9g",
-    "title": "Manifest Kıbrıs Konseri CANLI (LIVE)/ 25.04.26 @m6nifestgirls",
-    "artist": "Manifest",
-    "broadcaster": "Utku Öner",
-    "city": "Nicosia",
-    "country": "Cyprus",
-    "venue": "NEU Event Park",
-    "coords": [
-      35.23,
-      33.32
-    ],
-    "setting": "outdoor",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 2000,
-    "cues": [
-      0,
-      219,
-      322,
-      363,
-      526,
-      610,
-      785,
-      972,
-      1162,
-      1414,
-      1514,
-      1644,
-      1810
-    ],
-    "views": 275650,
-    "genres": [
-      "Turkish Pop"
-    ],
-    "publishedAt": "2026-04-26T10:03:26Z"
   },
   {
     "id": "hJWNAznIj-I",
@@ -3084,28 +2222,6 @@
       "EDM"
     ],
     "publishedAt": "2026-04-24T11:28:01Z"
-  },
-  {
-    "id": "wwX7qyIZrN4",
-    "title": "Stephan Bodzin Live Set at Experience",
-    "artist": "Stephan Bodzin",
-    "broadcaster": "Amigobgd  ( Dj Live Mix)",
-    "city": "Pirenópolis",
-    "country": "Brazil",
-    "venue": "Experience Festival",
-    "coords": [
-      -15.85,
-      -48.96
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T11:31:12.695Z",
-    "durationSec": 3557,
-    "cues": [],
-    "views": 2039,
-    "genres": [
-      "Melodic Techno"
-    ],
-    "publishedAt": "2026-04-20T05:13:26Z"
   },
   {
     "id": "AcSwUs3hUCs",
@@ -3404,28 +2520,6 @@
     "publishedAt": "2026-03-28T16:45:06Z"
   },
   {
-    "id": "j1OPWsAhW9c",
-    "title": "Swedish House Mafia - Festival Estéreo Picnic 2026",
-    "artist": "Swedish House Mafia",
-    "broadcaster": "Sebas Monsalve 🦈",
-    "city": "Bogotá",
-    "country": "Colombia",
-    "venue": "Festival Estéreo Picnic",
-    "coords": [
-      4.66,
-      -74.09
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 4630,
-    "cues": [],
-    "views": 9228,
-    "genres": [
-      "EDM"
-    ],
-    "publishedAt": "2026-03-22T11:18:37Z"
-  },
-  {
     "id": "B6fR3ybPYBQ",
     "title": "SOFI TUKKER - Livestream DJ Set @ Salt Hank's",
     "artist": "Sofi Tukker",
@@ -3591,28 +2685,6 @@
     "publishedAt": "2026-02-23T17:00:06Z"
   },
   {
-    "id": "-kns-gawoxg",
-    "title": "COSMIC GATE | Energy 2000 Katowice | cały set 21.02.2026",
-    "artist": "Cosmic Gate",
-    "broadcaster": "Trantytel",
-    "city": "Katowice",
-    "country": "Poland",
-    "venue": "Energy 2000",
-    "coords": [
-      50.26,
-      19.02
-    ],
-    "setting": "club",
-    "enrichedAt": "2026-10-20T11:31:12.695Z",
-    "durationSec": 7239,
-    "cues": [],
-    "views": 1886,
-    "genres": [
-      "Trance"
-    ],
-    "publishedAt": "2026-02-22T14:00:06Z"
-  },
-  {
     "id": "H3Ig1ELY340",
     "title": "James Hype Live Stream",
     "artist": "James Hype",
@@ -3694,28 +2766,6 @@
       "Melodic Techno"
     ],
     "publishedAt": "2026-02-08T17:00:07Z"
-  },
-  {
-    "id": "zkTAr2Bbm6Y",
-    "title": "NEELIX | ZOOM Club Frankfurt | 20.12.2025",
-    "artist": "Neelix",
-    "broadcaster": "Dennis Kuhnle",
-    "city": "Frankfurt",
-    "country": "Germany",
-    "venue": "ZOOM",
-    "coords": [
-      50.11,
-      8.68
-    ],
-    "setting": "club",
-    "enrichedAt": "2026-10-20T11:31:12.695Z",
-    "durationSec": 5729,
-    "cues": [],
-    "views": 105718,
-    "genres": [
-      "Psytrance"
-    ],
-    "publishedAt": "2026-02-04T22:11:04Z"
   },
   {
     "id": "xJwTqxhMjeQ",
@@ -3864,94 +2914,6 @@
     "publishedAt": "2026-01-19T17:00:06Z"
   },
   {
-    "id": "nzZLwlFvl9k",
-    "title": "SWEDISH HOUSE MAFIA @ GMOSONIC 2026",
-    "artist": "Swedish House Mafia",
-    "broadcaster": "杏Anzu",
-    "city": "Saitama",
-    "country": "Japan",
-    "venue": "GMO SONIC (Saitama Super Arena)",
-    "coords": [
-      35.89,
-      139.63
-    ],
-    "setting": "arena",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 5501,
-    "cues": [],
-    "views": 98191,
-    "genres": [
-      "EDM"
-    ],
-    "publishedAt": "2026-01-19T05:04:03Z"
-  },
-  {
-    "id": "KWGTA5UbgoU",
-    "title": "Swedish House Mafia | GMO SONIC 2026 DAY2 | 0118 2026",
-    "artist": "Swedish House Mafia",
-    "broadcaster": "ake3kuro",
-    "city": "Saitama",
-    "country": "Japan",
-    "venue": "GMO SONIC (Saitama Super Arena)",
-    "coords": [
-      35.89,
-      139.63
-    ],
-    "setting": "arena",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 5433,
-    "cues": [],
-    "views": 13525,
-    "genres": [
-      "EDM"
-    ],
-    "publishedAt": "2026-01-18T18:23:32Z"
-  },
-  {
-    "id": "JQevG6urBbw",
-    "title": "AFROJACK FULL Live at GMO SONIC Japan 2026 from PLATINUM STANDING 4K (FULL Set)",
-    "artist": "Afrojack",
-    "broadcaster": "Hiro Hayashi",
-    "city": "Saitama",
-    "country": "Japan",
-    "venue": "GMO SONIC (Saitama Super Arena)",
-    "coords": [
-      35.89,
-      139.63
-    ],
-    "setting": "arena",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 3671,
-    "cues": [],
-    "views": 7187,
-    "genres": [
-      "EDM"
-    ],
-    "publishedAt": "2026-01-18T15:51:18Z"
-  },
-  {
-    "id": "ZbYrc84Scog",
-    "title": "Afrojack - GMO SONIC 2026 Full Live Set",
-    "artist": "Afrojack",
-    "broadcaster": "ぬん",
-    "city": "Saitama",
-    "country": "Japan",
-    "venue": "GMO SONIC (Saitama Super Arena)",
-    "coords": [
-      35.89,
-      139.63
-    ],
-    "setting": "arena",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 3642,
-    "cues": [],
-    "views": 9179,
-    "genres": [
-      "EDM"
-    ],
-    "publishedAt": "2026-01-18T04:11:40Z"
-  },
-  {
     "id": "7sazhJH10ak",
     "title": "James Hype - Sunrise DJ Set @ Buenos Aires, Argentina (2026)",
     "artist": "James Hype",
@@ -4015,25 +2977,6 @@
       "Trance"
     ],
     "publishedAt": "2026-01-16T15:01:01Z"
-  },
-  {
-    "id": "UOpBQTeyQMk",
-    "title": "Neelix - Electrolapse Festival 2025 - Main Stage",
-    "artist": "Neelix",
-    "broadcaster": "a1ex1337",
-    "city": null,
-    "country": "France",
-    "venue": "Électrolapse Festival",
-    "coords": null,
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T11:31:12.695Z",
-    "durationSec": 4505,
-    "cues": [],
-    "views": 2012,
-    "genres": [
-      "Psytrance"
-    ],
-    "publishedAt": "2026-01-14T22:03:49Z"
   },
   {
     "id": "rP-MU1_CC7M",
@@ -4120,42 +3063,6 @@
       "Trance"
     ],
     "publishedAt": "2026-01-09T15:01:52Z"
-  },
-  {
-    "id": "E4sOoR0JHQY",
-    "title": "Fisher Decadence Colorado 2025 Partial set",
-    "artist": "Fisher",
-    "broadcaster": "MclovinEDM",
-    "city": "Denver",
-    "country": "United States",
-    "venue": "Decadence (Colorado Convention Center)",
-    "coords": [
-      39.74,
-      -105
-    ],
-    "setting": "arena",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 2507,
-    "cues": [
-      0,
-      183,
-      346,
-      538,
-      759,
-      921,
-      1084,
-      1304,
-      1486,
-      1730,
-      1937,
-      2160,
-      2336
-    ],
-    "views": 1192,
-    "genres": [
-      "Tech House"
-    ],
-    "publishedAt": "2026-01-02T19:11:21Z"
   },
   {
     "id": "DLBgzR9keo8",
@@ -4360,25 +3267,6 @@
     "publishedAt": "2025-12-24T11:00:06Z"
   },
   {
-    "id": "CWOCBGoaFX0",
-    "title": "Boris Brejcha – Reflections Tour Chile 2025 | High-Tech Minimal Full Set [4K]",
-    "artist": "Boris Brejcha",
-    "broadcaster": "Boris RO Fan Club Official",
-    "city": null,
-    "country": "Chile",
-    "venue": "Reflections Tour",
-    "coords": null,
-    "setting": "arena",
-    "enrichedAt": "2026-10-20T11:31:12.695Z",
-    "durationSec": 10443,
-    "cues": [],
-    "views": 66878,
-    "genres": [
-      "Minimal Techno"
-    ],
-    "publishedAt": "2025-12-19T20:49:06Z"
-  },
-  {
     "id": "_5YcUlWqm8Y",
     "title": "Cosmic Gate live at Palacio Alsina, Buenos Aires (11. OCT 25)",
     "artist": "Cosmic Gate",
@@ -4423,25 +3311,6 @@
     "publishedAt": "2025-12-15T23:43:46Z"
   },
   {
-    "id": "4xWR1a7EE4I",
-    "title": "Boris Brejcha 🃏 Live 🔥 Exclusive Set 2025",
-    "artist": "Boris Brejcha",
-    "broadcaster": "Boris RO Fan Club Official",
-    "city": null,
-    "country": null,
-    "venue": null,
-    "coords": null,
-    "setting": "other",
-    "enrichedAt": "2026-10-20T11:31:12.695Z",
-    "durationSec": 5953,
-    "cues": [],
-    "views": 26053,
-    "genres": [
-      "Minimal Techno"
-    ],
-    "publishedAt": "2025-12-13T21:27:48Z"
-  },
-  {
     "id": "rLTCLSsqrXY",
     "title": "James Hype SYNC London (Full Set)",
     "artist": "James Hype",
@@ -4462,50 +3331,6 @@
       "House"
     ],
     "publishedAt": "2025-12-12T19:00:07Z"
-  },
-  {
-    "id": "DIdhqrNyRTM",
-    "title": "Swedish House Mafia | Under The K Bridge, New York 2025",
-    "artist": "Swedish House Mafia",
-    "broadcaster": "SahanR",
-    "city": "New York",
-    "country": "United States",
-    "venue": "Under the K Bridge",
-    "coords": [
-      40.72,
-      -73.94
-    ],
-    "setting": "outdoor",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 10302,
-    "cues": [],
-    "views": 8307,
-    "genres": [
-      "EDM"
-    ],
-    "publishedAt": "2025-12-02T08:07:28Z"
-  },
-  {
-    "id": "qXvTMr4tvFY",
-    "title": "Charlotte de Witte @ Kappa FuturFestival 2025",
-    "artist": "Charlotte de Witte",
-    "broadcaster": "François Blanc",
-    "city": "Turin",
-    "country": "Italy",
-    "venue": "Kappa FuturFestival",
-    "coords": [
-      45.03,
-      7.66
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 5300,
-    "cues": [],
-    "views": 4253,
-    "genres": [
-      "Techno"
-    ],
-    "publishedAt": "2025-11-30T04:55:30Z"
   },
   {
     "id": "OD5LawM8ONk",
@@ -4555,29 +3380,6 @@
     "publishedAt": "2025-11-26T18:00:22Z"
   },
   {
-    "id": "GNL7RMlEVCc",
-    "title": "Tiesto (Trance Set) Dreamstate 2025 - 11.22.2025 (4k FULL SET - High Quality Audio)",
-    "artist": "Tiësto",
-    "broadcaster": "JCP",
-    "city": "Long Beach",
-    "country": "United States",
-    "venue": "Dreamstate",
-    "coords": [
-      33.77,
-      -118.19
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T11:31:12.695Z",
-    "durationSec": 4692,
-    "cues": [],
-    "views": 89777,
-    "genres": [
-      "House",
-      "Trance"
-    ],
-    "publishedAt": "2025-11-24T05:30:54Z"
-  },
-  {
     "id": "saEEH-NPUMc",
     "title": "James Hype @ EDC Orlando 2025",
     "artist": "James Hype",
@@ -4598,25 +3400,6 @@
       "House"
     ],
     "publishedAt": "2025-11-17T19:00:07Z"
-  },
-  {
-    "id": "Ntx3hRCBJvA",
-    "title": "Boris Brejcha – Legendary 5H30 Set • High-Tech Minimal 2025",
-    "artist": "Boris Brejcha",
-    "broadcaster": "Boris RO Fan Club Official",
-    "city": null,
-    "country": null,
-    "venue": null,
-    "coords": null,
-    "setting": "other",
-    "enrichedAt": "2026-10-20T11:31:12.695Z",
-    "durationSec": 19974,
-    "cues": [],
-    "views": 11675,
-    "genres": [
-      "Minimal Techno"
-    ],
-    "publishedAt": "2025-11-15T15:30:06Z"
   },
   {
     "id": "4hnJUB_g290",
@@ -4839,50 +3622,6 @@
     "publishedAt": "2025-11-03T10:01:05Z"
   },
   {
-    "id": "Iz0rUsCPnh0",
-    "title": "Swedish House Mafia Live at Plaza de Toros Mexico 2025 (Full set 4k) Stage 2",
-    "artist": "Swedish House Mafia",
-    "broadcaster": "Luislaron Mx",
-    "city": "Mexico City",
-    "country": "Mexico",
-    "venue": "Plaza de Toros México",
-    "coords": [
-      19.38,
-      -99.18
-    ],
-    "setting": "arena",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 5629,
-    "cues": [],
-    "views": 124866,
-    "genres": [
-      "EDM"
-    ],
-    "publishedAt": "2025-11-01T17:27:44Z"
-  },
-  {
-    "id": "wtWwqIbCiog",
-    "title": "Swedish House Mafia Live at Mexico 10 31 2025 4K  PLAZA DE TOROS",
-    "artist": "Swedish House Mafia",
-    "broadcaster": "StagnoluTV",
-    "city": "Mexico City",
-    "country": "Mexico",
-    "venue": "Plaza de Toros México",
-    "coords": [
-      19.38,
-      -99.18
-    ],
-    "setting": "arena",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 5590,
-    "cues": [],
-    "views": 39759,
-    "genres": [
-      "EDM"
-    ],
-    "publishedAt": "2025-11-01T10:17:33Z"
-  },
-  {
     "id": "QThaqlzSqLw",
     "title": "James Hype, live @ Melkweg, Amsterdam",
     "artist": "James Hype",
@@ -4903,28 +3642,6 @@
       "House"
     ],
     "publishedAt": "2025-10-31T19:00:08Z"
-  },
-  {
-    "id": "vhe58uobP_k",
-    "title": "STEPHAN BODZIN | Untold 2025 | RELIVE 2024 | Galaxy Stage",
-    "artist": "Stephan Bodzin",
-    "broadcaster": "Raul Husian",
-    "city": "Cluj-Napoca",
-    "country": "Romania",
-    "venue": "Untold Festival",
-    "coords": [
-      46.77,
-      23.59
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T11:31:12.695Z",
-    "durationSec": 7121,
-    "cues": [],
-    "views": 20862,
-    "genres": [
-      "Melodic Techno"
-    ],
-    "publishedAt": "2025-10-29T15:43:09Z"
   },
   {
     "id": "3YctdJP8_eo",
@@ -5006,28 +3723,6 @@
     "publishedAt": "2025-10-15T16:00:07Z"
   },
   {
-    "id": "BUGPzSLa6sU",
-    "title": "MANİFEST İSTANBUL FESTİVALİ KONSERİ",
-    "artist": "Manifest",
-    "broadcaster": "SINAN LIVE",
-    "city": "Istanbul",
-    "country": "Turkey",
-    "venue": "İstanbul Festivali",
-    "coords": [
-      41.01,
-      28.98
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 4172,
-    "cues": [],
-    "views": 81011,
-    "genres": [
-      "Turkish Pop"
-    ],
-    "publishedAt": "2025-10-13T13:46:16Z"
-  },
-  {
     "id": "MT7zB-SbUl4",
     "title": "FISHER LIVE FROM CREAMFIELDS 2025",
     "artist": "Fisher",
@@ -5072,28 +3767,6 @@
     "publishedAt": "2025-09-29T18:00:07Z"
   },
   {
-    "id": "VoAydt5SA3s",
-    "title": "Swedish House Mafia | Arthur Ashe Stadium, New York 2025 (Full Set)",
-    "artist": "Swedish House Mafia",
-    "broadcaster": "SahanR",
-    "city": "New York",
-    "country": "United States",
-    "venue": "Arthur Ashe Stadium",
-    "coords": [
-      40.75,
-      -73.85
-    ],
-    "setting": "arena",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 7051,
-    "cues": [],
-    "views": 19822,
-    "genres": [
-      "EDM"
-    ],
-    "publishedAt": "2025-09-13T03:46:38Z"
-  },
-  {
     "id": "CfG21vJluvw",
     "title": "Neelix - Indian Spirit 2025",
     "artist": "Neelix",
@@ -5111,90 +3784,6 @@
       "Psytrance"
     ],
     "publishedAt": "2025-09-12T11:36:53Z"
-  },
-  {
-    "id": "bLrQtcmZs8Y",
-    "title": "MANİFEST KüçükÇiftlik Park Deluxe Day Konseri Full En Ön HD",
-    "artist": "Manifest",
-    "broadcaster": "CaganT",
-    "city": "Istanbul",
-    "country": "Turkey",
-    "venue": "KüçükÇiftlik Park",
-    "coords": [
-      41.05,
-      28.99
-    ],
-    "setting": "outdoor",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 5983,
-    "cues": [
-      0,
-      22,
-      175,
-      329,
-      389,
-      570,
-      725,
-      805,
-      962,
-      1003,
-      1156,
-      1214,
-      1390,
-      1600,
-      1790,
-      1961,
-      2205,
-      2483,
-      2680,
-      2800,
-      2991,
-      3028,
-      3214,
-      3235,
-      3440,
-      3640,
-      3878,
-      4058,
-      4314,
-      4603,
-      4830,
-      4873,
-      5102,
-      5204,
-      5297,
-      5458,
-      5630,
-      5719,
-      5941
-    ],
-    "views": 1290814,
-    "genres": [
-      "Turkish Pop"
-    ],
-    "publishedAt": "2025-09-10T11:53:46Z"
-  },
-  {
-    "id": "QG94l_aqI6M",
-    "title": "Manifest - küçük çiftlik parkı  250906 (+18)",
-    "artist": "Manifest",
-    "broadcaster": "Manifest News ☆",
-    "city": "Istanbul",
-    "country": "Turkey",
-    "venue": "KüçükÇiftlik Park",
-    "coords": [
-      41.05,
-      28.99
-    ],
-    "setting": "outdoor",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 6237,
-    "cues": [],
-    "views": 31606,
-    "genres": [
-      "Turkish Pop"
-    ],
-    "publishedAt": "2025-09-08T10:00:06Z"
   },
   {
     "id": "6ko1L5ZfK1k",
@@ -5219,44 +3808,6 @@
     "publishedAt": "2025-09-02T16:41:09Z"
   },
   {
-    "id": "YHrEUZkb3Dg",
-    "title": "MANİFEST Ankara Etimesgut Full Konser 4K HD",
-    "artist": "Manifest",
-    "broadcaster": "ManifestGirls",
-    "city": "Ankara",
-    "country": "Turkey",
-    "venue": "Etimesgut",
-    "coords": [
-      39.95,
-      32.66
-    ],
-    "setting": "other",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 2946,
-    "cues": [
-      0,
-      175,
-      400,
-      598,
-      775,
-      995,
-      1324,
-      1466,
-      1558,
-      1772,
-      1993,
-      2260,
-      2520,
-      2714,
-      2869
-    ],
-    "views": 11565,
-    "genres": [
-      "Turkish Pop"
-    ],
-    "publishedAt": "2025-08-31T09:00:48Z"
-  },
-  {
     "id": "XUwCeFgFKQc",
     "title": "James Hype, SYNC @ HÏ Ibiza - Full set",
     "artist": "James Hype",
@@ -5277,69 +3828,6 @@
       "House"
     ],
     "publishedAt": "2025-08-29T18:00:07Z"
-  },
-  {
-    "id": "2wMhBMjoI8I",
-    "title": "Manifest Canlı Performans | Ankara Etimesgut Belediyesi | Full Konser Kaydı | 28.08.2025 | 4K 60 Fps",
-    "artist": "Manifest",
-    "broadcaster": "Alperen Durmaz",
-    "city": "Ankara",
-    "country": "Turkey",
-    "venue": "Etimesgut",
-    "coords": [
-      39.95,
-      32.66
-    ],
-    "setting": "other",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 3867,
-    "cues": [
-      110,
-      336,
-      532,
-      716,
-      928,
-      1074,
-      1512,
-      1714,
-      1939,
-      2207,
-      2465,
-      2658,
-      2820,
-      3050,
-      3240,
-      3363,
-      3571,
-      3676
-    ],
-    "views": 127942,
-    "genres": [
-      "Turkish Pop"
-    ],
-    "publishedAt": "2025-08-29T10:24:40Z"
-  },
-  {
-    "id": "K2A8k5wgQdQ",
-    "title": "Swedish House Mafia 3.0 | Creamfields 2025 ARC STAGE FULL | 0823 2025",
-    "artist": "Swedish House Mafia",
-    "broadcaster": "ake3kuro",
-    "city": "Daresbury",
-    "country": "United Kingdom",
-    "venue": "Creamfields",
-    "coords": [
-      53.34,
-      -2.63
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 5294,
-    "cues": [],
-    "views": 3828,
-    "genres": [
-      "EDM"
-    ],
-    "publishedAt": "2025-08-27T15:44:52Z"
   },
   {
     "id": "z-tTchnn2Xc",
@@ -5384,48 +3872,6 @@
       "Trance"
     ],
     "publishedAt": "2025-08-13T16:00:07Z"
-  },
-  {
-    "id": "cr2QhWjr57c",
-    "title": "MANİFEST İstanbul Festivali VIP En Ön Full Konser HD",
-    "artist": "Manifest",
-    "broadcaster": "CaganT",
-    "city": "Istanbul",
-    "country": "Turkey",
-    "venue": "İstanbul Festivali",
-    "coords": [
-      41.01,
-      28.98
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 5140,
-    "cues": [],
-    "views": 513999,
-    "genres": [
-      "Turkish Pop"
-    ],
-    "publishedAt": "2025-08-03T10:56:29Z"
-  },
-  {
-    "id": "lm61OV1Krnw",
-    "title": "TIËSTO Prismatic Mexico (edition special)",
-    "artist": "Tiësto",
-    "broadcaster": "WOLTiO",
-    "city": null,
-    "country": "Mexico",
-    "venue": "Prismatic",
-    "coords": null,
-    "setting": "other",
-    "enrichedAt": "2026-10-20T11:31:12.695Z",
-    "durationSec": 14430,
-    "cues": [],
-    "views": 37062,
-    "genres": [
-      "House",
-      "Trance"
-    ],
-    "publishedAt": "2025-08-02T18:55:06Z"
   },
   {
     "id": "mAEvuUz2Vvk",
@@ -5623,28 +4069,6 @@
     "publishedAt": "2025-07-23T09:22:43Z"
   },
   {
-    "id": "BlEySbGtvq0",
-    "title": "Steve Angello b2b Axwell b2b Sebastian Ingrosso Swedish House Mafia Tomorrowland 2025 (Full SET)",
-    "artist": "Swedish House Mafia",
-    "broadcaster": "The Groove Cartel",
-    "city": "Boom",
-    "country": "Belgium",
-    "venue": "Tomorrowland",
-    "coords": [
-      51.09,
-      4.37
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 11722,
-    "cues": [],
-    "views": 56755,
-    "genres": [
-      "EDM"
-    ],
-    "publishedAt": "2025-07-20T11:08:42Z"
-  },
-  {
     "id": "Hsy6QqvXmW8",
     "title": "Teho Live At Piz Gloria, Schilthorn for Hanz Up",
     "artist": "Teho",
@@ -5838,6 +4262,38 @@
       "House"
     ],
     "publishedAt": "2025-06-26T18:14:03Z"
+  },
+  {
+    "id": "Y83MEQmn4YI",
+    "title": "manifest Girls Night | Albüm Dinleme Partisi",
+    "artist": "Manifest",
+    "broadcaster": "manifest",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T14:26:15.594Z",
+    "durationSec": 1543,
+    "cues": [
+      0,
+      14,
+      55,
+      203,
+      345,
+      475,
+      625,
+      795,
+      922,
+      1086,
+      1251,
+      1437
+    ],
+    "views": 2037162,
+    "genres": [
+      "Turkish Pop"
+    ],
+    "publishedAt": "2025-06-18T13:00:29Z"
   },
   {
     "id": "RVIvSyGZGkE",
@@ -6544,25 +5000,6 @@
     "publishedAt": "2025-02-19T10:51:30Z"
   },
   {
-    "id": "J3YwF5D0ZEs",
-    "title": "manifest-lansman konseri",
-    "artist": "Manifest",
-    "broadcaster": "g",
-    "city": null,
-    "country": null,
-    "venue": null,
-    "coords": null,
-    "setting": "other",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 6363,
-    "cues": [],
-    "views": 56294,
-    "genres": [
-      "Turkish Pop"
-    ],
-    "publishedAt": "2025-02-16T21:55:24Z"
-  },
-  {
     "id": "8qKxs-H07hw",
     "title": "Tiësto 4hr DJ Set Live from Club Space Miami - 24th January 2025",
     "artist": "Tiësto",
@@ -7155,28 +5592,6 @@
     "publishedAt": "2024-10-02T20:06:28Z"
   },
   {
-    "id": "p0WGrLFfcww",
-    "title": "Sofi Tukker - Live at South Side Ballroom, Dallas, TX 9/21/2024",
-    "artist": "Sofi Tukker",
-    "broadcaster": "Daniel Kirby",
-    "city": "Dallas",
-    "country": "United States",
-    "venue": "South Side Ballroom",
-    "coords": [
-      32.77,
-      -96.8
-    ],
-    "setting": "club",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 5408,
-    "cues": [],
-    "views": 48616,
-    "genres": [
-      "House"
-    ],
-    "publishedAt": "2024-09-29T21:23:09Z"
-  },
-  {
     "id": "IOjP7gIAxr4",
     "title": "Chris Luno | Live from the Anjunakitchen (Melodic and Deep House Mix)",
     "artist": "Chris Luno",
@@ -7216,28 +5631,6 @@
       "House"
     ],
     "publishedAt": "2024-09-20T16:00:07Z"
-  },
-  {
-    "id": "hEOYlOQ_4pc",
-    "title": "Swedish House Mafia | Big Slap Malmö 2023",
-    "artist": "Swedish House Mafia",
-    "broadcaster": "SahanR",
-    "city": "Malmö",
-    "country": "Sweden",
-    "venue": "Big Slap Festival",
-    "coords": [
-      55.6,
-      13
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 6513,
-    "cues": [],
-    "views": 10504,
-    "genres": [
-      "EDM"
-    ],
-    "publishedAt": "2024-09-18T06:20:24Z"
   },
   {
     "id": "BwY6LD7KAQk",
@@ -7304,28 +5697,6 @@
       "Tech House"
     ],
     "publishedAt": "2024-08-23T17:05:59Z"
-  },
-  {
-    "id": "zTguJJfadGQ",
-    "title": "Phaxe  @technostatesweden  Location: Långholmen , Stockholm , @sweden",
-    "artist": "Phaxe",
-    "broadcaster": "ProgPsy",
-    "city": "Stockholm",
-    "country": "Sweden",
-    "venue": "Långholmen (Techno State)",
-    "coords": [
-      59.32,
-      18.03
-    ],
-    "setting": "outdoor",
-    "enrichedAt": "2026-10-20T11:31:12.695Z",
-    "durationSec": 5448,
-    "cues": [],
-    "views": 9674,
-    "genres": [
-      "Psytrance"
-    ],
-    "publishedAt": "2024-08-17T18:00:27Z"
   },
   {
     "id": "XCH6vqC2fyc",
@@ -7431,28 +5802,6 @@
       "Trance"
     ],
     "publishedAt": "2024-08-07T17:42:16Z"
-  },
-  {
-    "id": "_tAE50rW1ok",
-    "title": "Neelix - FULL LIVE SET @ Nature One Camping Village 2024",
-    "artist": "Neelix",
-    "broadcaster": "xImBroken",
-    "city": "Kastellaun",
-    "country": "Germany",
-    "venue": "Nature One (Camping Village)",
-    "coords": [
-      50.07,
-      7.44
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T11:31:12.695Z",
-    "durationSec": 6480,
-    "cues": [],
-    "views": 36087,
-    "genres": [
-      "Psytrance"
-    ],
-    "publishedAt": "2024-08-05T12:41:04Z"
   },
   {
     "id": "-WZaO528QGg",
@@ -7653,28 +6002,6 @@
       "Trance"
     ],
     "publishedAt": "2024-07-12T14:32:05Z"
-  },
-  {
-    "id": "bpN5jB2FOvc",
-    "title": "Swedish House Mafia | Palm Tree Music Festival 2024 (Full Set)",
-    "artist": "Swedish House Mafia",
-    "broadcaster": "SahanR",
-    "city": "Southampton",
-    "country": "United States",
-    "venue": "Palm Tree Music Festival",
-    "coords": [
-      40.88,
-      -72.39
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 5657,
-    "cues": [],
-    "views": 22886,
-    "genres": [
-      "EDM"
-    ],
-    "publishedAt": "2024-07-06T18:00:44Z"
   },
   {
     "id": "VvEk_mASWV0",
@@ -8654,28 +6981,6 @@
     "publishedAt": "2023-10-28T09:35:52Z"
   },
   {
-    "id": "AUruNuZS1CA",
-    "title": "STEPHAN BODZIN LIVE @ THE PROJECT BUDAPEST 20-10-2023 by LUCA DEA",
-    "artist": "Stephan Bodzin",
-    "broadcaster": "Luca Dea",
-    "city": "Budapest",
-    "country": "Hungary",
-    "venue": "The Project (Hungarian Railway Museum)",
-    "coords": [
-      47.54,
-      19.1
-    ],
-    "setting": "warehouse",
-    "enrichedAt": "2026-10-20T11:31:12.695Z",
-    "durationSec": 4244,
-    "cues": [],
-    "views": 32029,
-    "genres": [
-      "Melodic Techno"
-    ],
-    "publishedAt": "2023-10-25T21:00:07Z"
-  },
-  {
     "id": "WFBDsHMMN_w",
     "title": "Charlotte de Witte at AMF Festival 2023",
     "artist": "Charlotte de Witte",
@@ -9001,28 +7306,6 @@
     "publishedAt": "2023-08-11T13:51:08Z"
   },
   {
-    "id": "Q7RRbjXorq0",
-    "title": "Neelix - FULL LIVE SET @ Nature One Camping Village 2023",
-    "artist": "Neelix",
-    "broadcaster": "xImBroken",
-    "city": "Kastellaun",
-    "country": "Germany",
-    "venue": "Nature One (Camping Village)",
-    "coords": [
-      50.07,
-      7.44
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T11:31:12.695Z",
-    "durationSec": 4040,
-    "cues": [],
-    "views": 51166,
-    "genres": [
-      "Psytrance"
-    ],
-    "publishedAt": "2023-08-07T18:27:15Z"
-  },
-  {
     "id": "nkBJzfHpq_A",
     "title": "Tiësto - Live @ Tomorrowland 2023",
     "artist": "Tiësto",
@@ -9131,28 +7414,6 @@
       "House"
     ],
     "publishedAt": "2023-07-24T18:00:08Z"
-  },
-  {
-    "id": "MS8P1Egv-3U",
-    "title": "Swedish House Mafia @ Kappa Futur Festival 2023 [FULL SET]",
-    "artist": "Swedish House Mafia",
-    "broadcaster": "René SHM",
-    "city": "Turin",
-    "country": "Italy",
-    "venue": "Kappa FuturFestival",
-    "coords": [
-      45.03,
-      7.66
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 5392,
-    "cues": [],
-    "views": 60377,
-    "genres": [
-      "EDM"
-    ],
-    "publishedAt": "2023-07-12T07:00:17Z"
   },
   {
     "id": "ryBFRW2b7As",
@@ -9297,28 +7558,6 @@
     "publishedAt": "2023-05-21T08:50:17Z"
   },
   {
-    "id": "UscMb6X2bdw",
-    "title": "Charlotte de Witte - Surprise Set at Extra Butter, New York - 17.5.2023",
-    "artist": "Charlotte de Witte",
-    "broadcaster": "Patrik Truhlář",
-    "city": "New York",
-    "country": "United States",
-    "venue": "Extra Butter",
-    "coords": [
-      40.72,
-      -73.99
-    ],
-    "setting": "other",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 1880,
-    "cues": [],
-    "views": 40871,
-    "genres": [
-      "Techno"
-    ],
-    "publishedAt": "2023-05-18T21:05:17Z"
-  },
-  {
     "id": "REQFJZ2kTsg",
     "title": "FISHER - THE DOMAIN SYDNEY 2022 (LIVE SET) [Fueled by Rehab Monster]",
     "artist": "Fisher",
@@ -9358,28 +7597,6 @@
       "Psytrance"
     ],
     "publishedAt": "2023-05-15T22:00:10Z"
-  },
-  {
-    "id": "e60urSYhgBI",
-    "title": "Stephan Bodzin en Afterlife Ciudad de México 2023 Parque Bicentenario",
-    "artist": "Stephan Bodzin",
-    "broadcaster": "Luis Lopez Channel",
-    "city": "Mexico City",
-    "country": "Mexico",
-    "venue": "Afterlife (Parque Bicentenario)",
-    "coords": [
-      19.47,
-      -99.2
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 3515,
-    "cues": [],
-    "views": 1965,
-    "genres": [
-      "Melodic Techno"
-    ],
-    "publishedAt": "2023-05-07T20:41:42Z"
   },
   {
     "id": "wa6tk4WCtp0",
@@ -9446,28 +7663,6 @@
       "House"
     ],
     "publishedAt": "2023-04-17T19:00:17Z"
-  },
-  {
-    "id": "kVA_wmO7doo",
-    "title": "Boris Brejcha | Palacio de los Deportes | Mexico 2023 | 4k 60fps",
-    "artist": "Boris Brejcha",
-    "broadcaster": "Steve Aerostiif",
-    "city": "Mexico City",
-    "country": "Mexico",
-    "venue": "Palacio de los Deportes",
-    "coords": [
-      19.41,
-      -99.1
-    ],
-    "setting": "arena",
-    "enrichedAt": "2026-10-20T11:31:12.695Z",
-    "durationSec": 7241,
-    "cues": [],
-    "views": 333628,
-    "genres": [
-      "Minimal Techno"
-    ],
-    "publishedAt": "2023-04-15T00:35:58Z"
   },
   {
     "id": "SICEtxAc1i4",
@@ -9677,55 +7872,6 @@
     "publishedAt": "2023-03-25T05:02:19Z"
   },
   {
-    "id": "7cMk5ioVGbM",
-    "title": "Phaxe Live Set - Bug Fantasy - Março 2023",
-    "artist": "Phaxe",
-    "broadcaster": "edslti",
-    "city": "Tibau do Sul",
-    "country": "Brazil",
-    "venue": "BUG Open Air (Pipa)",
-    "coords": [
-      -6.23,
-      -35.05
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T11:31:12.695Z",
-    "durationSec": 5788,
-    "cues": [
-      0,
-      302,
-      588,
-      753,
-      820,
-      1131,
-      1360,
-      1481,
-      1695,
-      1935,
-      2213,
-      2475,
-      2586,
-      2864,
-      3115,
-      3441,
-      3697,
-      3920,
-      4222,
-      4442,
-      4800,
-      5170,
-      5300,
-      5463,
-      5530,
-      5705
-    ],
-    "views": 175398,
-    "genres": [
-      "Psytrance"
-    ],
-    "publishedAt": "2023-03-23T00:00:15Z"
-  },
-  {
     "id": "3tE6L3AdP0c",
     "title": "James Hype - Get Closer, Studio 338, London - Full Set",
     "artist": "James Hype",
@@ -9768,28 +7914,6 @@
       "House"
     ],
     "publishedAt": "2023-03-06T19:00:07Z"
-  },
-  {
-    "id": "4K_MN119R_Y",
-    "title": "NEELIX FULL SET @ BLOOM 25 FEBRUARY 2023",
-    "artist": "Neelix",
-    "broadcaster": "Silverfish007",
-    "city": "Geelong",
-    "country": "Australia",
-    "venue": "Bloom",
-    "coords": [
-      -38.15,
-      144.36
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T11:31:12.695Z",
-    "durationSec": 5363,
-    "cues": [],
-    "views": 36119,
-    "genres": [
-      "Psytrance"
-    ],
-    "publishedAt": "2023-02-26T01:54:17Z"
   },
   {
     "id": "W0h5awm2n_Y",
@@ -10089,28 +8213,6 @@
     "publishedAt": "2022-10-27T18:52:16Z"
   },
   {
-    "id": "H-5u1o0joAU",
-    "title": "SWEDISH HOUSE MAFIA live @ MEDIOLANUM FORUM ASSAGO 2022 - [FULL SET HD]",
-    "artist": "Swedish House Mafia",
-    "broadcaster": "Paolo Bosi",
-    "city": "Milan",
-    "country": "Italy",
-    "venue": "Mediolanum Forum",
-    "coords": [
-      45.4,
-      9.14
-    ],
-    "setting": "arena",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 5460,
-    "cues": [],
-    "views": 1400,
-    "genres": [
-      "EDM"
-    ],
-    "publishedAt": "2022-10-25T06:34:28Z"
-  },
-  {
     "id": "iX5a_-0B65Y",
     "title": "Artbat | Tomorrowland 2022 - WE 3",
     "artist": "ARTBAT",
@@ -10133,28 +8235,6 @@
     "publishedAt": "2022-10-05T14:56:48Z"
   },
   {
-    "id": "Gzo88qD5yeY",
-    "title": "Swedish House Mafia LIVE @ O2 Arena London Paradise Again Tour 02/10/22 [4K]",
-    "artist": "Swedish House Mafia",
-    "broadcaster": "Y-edm-S",
-    "city": "London",
-    "country": "United Kingdom",
-    "venue": "The O2",
-    "coords": [
-      51.5,
-      0
-    ],
-    "setting": "arena",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 4062,
-    "cues": [],
-    "views": 96995,
-    "genres": [
-      "EDM"
-    ],
-    "publishedAt": "2022-10-04T11:00:14Z"
-  },
-  {
     "id": "o1hV2yQa2GY",
     "title": "SOFI TUKKER - DJ SET AT ULTRA EUROPE MAIN STAGE - FULL SET",
     "artist": "Sofi Tukker",
@@ -10175,28 +8255,6 @@
       "House"
     ],
     "publishedAt": "2022-09-22T16:18:13Z"
-  },
-  {
-    "id": "47I5uacoTjM",
-    "title": "stephan bodzin at the marktkantine",
-    "artist": "Stephan Bodzin",
-    "broadcaster": "lennart beeldt",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "venue": "Marktkantine",
-    "coords": [
-      52.37,
-      4.87
-    ],
-    "setting": "club",
-    "enrichedAt": "2026-10-20T11:31:12.695Z",
-    "durationSec": 8619,
-    "cues": [],
-    "views": 4939,
-    "genres": [
-      "Melodic Techno"
-    ],
-    "publishedAt": "2022-09-15T11:29:56Z"
   },
   {
     "id": "D_Kl-Q8y8D4",
@@ -10276,50 +8334,6 @@
       "Trance"
     ],
     "publishedAt": "2022-09-10T01:22:35Z"
-  },
-  {
-    "id": "t0kBjs-2U5c",
-    "title": "Swedish House Mafia - LIVE @ T-Mobile Arena Las Vegas 2022 [4K]",
-    "artist": "Swedish House Mafia",
-    "broadcaster": "Reiji",
-    "city": "Las Vegas",
-    "country": "United States",
-    "venue": "T-Mobile Arena",
-    "coords": [
-      36.1,
-      -115.18
-    ],
-    "setting": "arena",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 5194,
-    "cues": [],
-    "views": 103042,
-    "genres": [
-      "EDM"
-    ],
-    "publishedAt": "2022-09-04T22:30:07Z"
-  },
-  {
-    "id": "FS7TD3kahvg",
-    "title": "Swedish House Mafia Live at Paradise Again Tour Dallas 2022",
-    "artist": "Swedish House Mafia",
-    "broadcaster": "Ishy Live",
-    "city": "Dallas",
-    "country": "United States",
-    "venue": "Paradise Again Tour",
-    "coords": [
-      32.78,
-      -96.8
-    ],
-    "setting": "arena",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 5466,
-    "cues": [],
-    "views": 54571,
-    "genres": [
-      "EDM"
-    ],
-    "publishedAt": "2022-08-28T01:42:45Z"
   },
   {
     "id": "dhUrv9l-E1o",
@@ -10405,28 +8419,6 @@
       "Trance"
     ],
     "publishedAt": "2022-08-13T01:17:04Z"
-  },
-  {
-    "id": "prTsN2gxQGM",
-    "title": "Neelix - Live Set (Ausschnitte) | NATURE ONE 2022",
-    "artist": "Neelix",
-    "broadcaster": "Coaster Junkie",
-    "city": "Kastellaun",
-    "country": "Germany",
-    "venue": "Nature One",
-    "coords": [
-      50.07,
-      7.44
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 2075,
-    "cues": [],
-    "views": 20917,
-    "genres": [
-      "Psytrance"
-    ],
-    "publishedAt": "2022-08-11T21:44:42Z"
   },
   {
     "id": "GFz-pjXZAKQ",
@@ -11314,28 +9306,6 @@
     "publishedAt": "2021-10-27T14:00:09Z"
   },
   {
-    "id": "MUAy0gBznRc",
-    "title": "Hozho - Ciudad de México 2021 ( Live Set)",
-    "artist": "Hozho",
-    "broadcaster": "BrayanGB (🕉️)",
-    "city": "Mexico City",
-    "country": "Mexico",
-    "venue": "Gran Forum",
-    "coords": [
-      19.34,
-      -99.14
-    ],
-    "setting": "club",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 7218,
-    "cues": [],
-    "views": 4382,
-    "genres": [
-      "Melodic Techno"
-    ],
-    "publishedAt": "2021-10-21T07:45:47Z"
-  },
-  {
     "id": "jmo2tNwJYqA",
     "title": "Cosmic Gate live at ASOT 1000, Moscow (08. OCT 2021)",
     "artist": "Cosmic Gate",
@@ -11433,47 +9403,6 @@
       "Techno"
     ],
     "publishedAt": "2021-09-27T15:00:08Z"
-  },
-  {
-    "id": "uxYEjo9hKyc",
-    "title": "Boris Brejcha B2B Ann Clue @ Smiling Sun Open Air Stockholm 2017 Video Set",
-    "artist": "Boris Brejcha",
-    "broadcaster": "Boris PL (Boris)",
-    "city": "Stockholm",
-    "country": "Sweden",
-    "venue": "Smiling Sun Open Air",
-    "coords": [
-      59.33,
-      18.07
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T11:31:12.695Z",
-    "durationSec": 8582,
-    "cues": [],
-    "views": 905514,
-    "genres": [
-      "Minimal Techno"
-    ],
-    "publishedAt": "2021-08-27T18:00:14Z"
-  },
-  {
-    "id": "iZ1vIZDCJyE",
-    "title": "Boris Brejcha live at La Mystique 2019 Video Set",
-    "artist": "Boris Brejcha",
-    "broadcaster": "Boris PL (Boris)",
-    "city": null,
-    "country": null,
-    "venue": "La Mystique",
-    "coords": null,
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T11:31:12.695Z",
-    "durationSec": 8387,
-    "cues": [],
-    "views": 111690,
-    "genres": [
-      "Minimal Techno"
-    ],
-    "publishedAt": "2021-08-20T18:00:36Z"
   },
   {
     "id": "95eCxDuDIRA",
@@ -13352,50 +11281,6 @@
     "publishedAt": "2020-02-10T20:18:47Z"
   },
   {
-    "id": "UlmwtupGi_c",
-    "title": "Phaxe @ Universo Paralello #15",
-    "artist": "Phaxe",
-    "broadcaster": "No Front",
-    "city": "Ituberá",
-    "country": "Brazil",
-    "venue": "Universo Paralello",
-    "coords": [
-      -13.83,
-      -38.98
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 1923,
-    "cues": [],
-    "views": 13256,
-    "genres": [
-      "Psytrance"
-    ],
-    "publishedAt": "2020-01-29T15:00:04Z"
-  },
-  {
-    "id": "VjRIwf7Z474",
-    "title": "Sofi Tukker Live in Gorilla, Manchester, UK (FULL SHOW)",
-    "artist": "Sofi Tukker",
-    "broadcaster": "Behrouz Jafarnezhad",
-    "city": "Manchester",
-    "country": "United Kingdom",
-    "venue": "Gorilla",
-    "coords": [
-      53.47,
-      -2.24
-    ],
-    "setting": "club",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 3869,
-    "cues": [],
-    "views": 20226,
-    "genres": [
-      "House"
-    ],
-    "publishedAt": "2019-11-23T03:41:55Z"
-  },
-  {
     "id": "BjXccPau2SY",
     "title": "Cosmic Gate Live at Transmission Festival Prague 2019",
     "artist": "Cosmic Gate",
@@ -13756,69 +11641,6 @@
     "publishedAt": "2019-06-13T14:00:03Z"
   },
   {
-    "id": "1aMg2VnBX0c",
-    "title": "Swedish House Mafia Live Mexico 2019 FULL SET (60 FPS)",
-    "artist": "Swedish House Mafia",
-    "broadcaster": "Luislaron Mx",
-    "city": "Mexico City",
-    "country": "Mexico",
-    "venue": null,
-    "coords": [
-      19.43,
-      -99.13
-    ],
-    "setting": "other",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 6349,
-    "cues": [
-      224,
-      539,
-      716,
-      1016,
-      1260,
-      1503,
-      1673,
-      1937,
-      2178,
-      2228,
-      2374,
-      2439,
-      2668,
-      2959,
-      3223,
-      3285,
-      3395,
-      3591,
-      3682,
-      3772,
-      3911,
-      3951,
-      3982,
-      4016,
-      4113,
-      4301,
-      4492,
-      4503,
-      4707,
-      4760,
-      4965,
-      5123,
-      5187,
-      5249,
-      5288,
-      5423,
-      5461,
-      5642,
-      5874,
-      5967
-    ],
-    "views": 560218,
-    "genres": [
-      "EDM"
-    ],
-    "publishedAt": "2019-05-21T05:10:53Z"
-  },
-  {
     "id": "Fu6aNpGxaVk",
     "title": "Tiësto - Live @ Electric Daisy Carnival Las Vegas 2019",
     "artist": "Tiësto",
@@ -13859,28 +11681,6 @@
       "Psytrance"
     ],
     "publishedAt": "2019-05-11T07:17:15Z"
-  },
-  {
-    "id": "EumTIZN_1yo",
-    "title": "Swedish House Mafia Live at Tele2 Arena - Stockholm (FULL SET)",
-    "artist": "Swedish House Mafia",
-    "broadcaster": "Giuseppe Camisa",
-    "city": "Stockholm",
-    "country": "Sweden",
-    "venue": "Tele2 Arena",
-    "coords": [
-      59.29,
-      18.08
-    ],
-    "setting": "arena",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 3908,
-    "cues": [],
-    "views": 2319,
-    "genres": [
-      "EDM"
-    ],
-    "publishedAt": "2019-05-07T13:11:09Z"
   },
   {
     "id": "C-BTk5TPd9I",
@@ -14179,28 +11979,6 @@
       "Techno"
     ],
     "publishedAt": "2018-11-14T16:58:21Z"
-  },
-  {
-    "id": "2phZVCk5kjs",
-    "title": "Afrojack Full Set Live @ Ultra Music Festival Mexico 2018 (60 FPS)",
-    "artist": "Afrojack",
-    "broadcaster": "Luislaron Mx",
-    "city": "Mexico City",
-    "country": "Mexico",
-    "venue": "Ultra Mexico",
-    "coords": [
-      19.4,
-      -99.09
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 3547,
-    "cues": [],
-    "views": 16231,
-    "genres": [
-      "EDM"
-    ],
-    "publishedAt": "2018-10-21T11:54:27Z"
   },
   {
     "id": "ZzBQFfjCESo",
@@ -14524,28 +12302,6 @@
       "Psytrance"
     ],
     "publishedAt": "2018-06-12T17:25:50Z"
-  },
-  {
-    "id": "2wj5VnXNl4g",
-    "title": "Fisher Live Set @ EDC Las Vegas 2018",
-    "artist": "Fisher",
-    "broadcaster": "DJ R1DER",
-    "city": "Las Vegas",
-    "country": "United States",
-    "venue": "EDC Las Vegas",
-    "coords": [
-      36.27,
-      -115.01
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 2858,
-    "cues": [],
-    "views": 246969,
-    "genres": [
-      "Tech House"
-    ],
-    "publishedAt": "2018-05-28T03:29:55Z"
   },
   {
     "id": "CvwFr_aM_PA",
@@ -15435,25 +13191,6 @@
     "publishedAt": "2017-03-26T11:44:40Z"
   },
   {
-    "id": "UKHSuv3hj9Q",
-    "title": "Joachim Pastor - Hibernation Festival 24/03/2017",
-    "artist": "Joachim Pastor",
-    "broadcaster": "Joe",
-    "city": null,
-    "country": null,
-    "venue": "Hibernation Festival",
-    "coords": null,
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T11:31:12.695Z",
-    "durationSec": 1862,
-    "cues": [],
-    "views": 2355,
-    "genres": [
-      "Melodic Techno"
-    ],
-    "publishedAt": "2017-03-26T00:11:33Z"
-  },
-  {
     "id": "-4G5EXjLgwk",
     "title": "Charlotte de Witte - live op de Studio Brussel Snowcase",
     "artist": "Charlotte de Witte",
@@ -15595,28 +13332,6 @@
       "Melodic Techno"
     ],
     "publishedAt": "2016-10-26T20:59:00Z"
-  },
-  {
-    "id": "GPHvx2UgtTU",
-    "title": "Afrojack Untold set",
-    "artist": "Afrojack",
-    "broadcaster": "Adventures of a Lifetime",
-    "city": "Cluj-Napoca",
-    "country": "Romania",
-    "venue": "Untold Festival",
-    "coords": [
-      46.77,
-      23.59
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 4526,
-    "cues": [],
-    "views": 4888,
-    "genres": [
-      "EDM"
-    ],
-    "publishedAt": "2016-09-19T11:30:07Z"
   },
   {
     "id": "uysHg_cifig",
@@ -16158,28 +13873,6 @@
     "publishedAt": "2014-03-30T16:02:25Z"
   },
   {
-    "id": "L5Vhnbc3c6s",
-    "title": "Neelix Live! @ Universo Paralello Festival 12 - || FULL VIDEO || Pratigi-BA - Brasil",
-    "artist": "Neelix",
-    "broadcaster": "Lucas Chaves",
-    "city": "Ituberá",
-    "country": "Brazil",
-    "venue": "Universo Paralello",
-    "coords": [
-      -13.83,
-      -38.98
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 3461,
-    "cues": [],
-    "views": 1614751,
-    "genres": [
-      "Psytrance"
-    ],
-    "publishedAt": "2014-01-18T21:47:08Z"
-  },
-  {
     "id": "RiLIFWkNP0A",
     "title": "Boris Brejcha - DJ Mix Number 02 - 2013",
     "artist": "Boris Brejcha",
@@ -16307,28 +14000,6 @@
     "publishedAt": "2013-03-20T18:44:19Z"
   },
   {
-    "id": "l-_1Qlqj-iU",
-    "title": "Swedish House Mafia Montreal 2013 33min set LIVE at Montreal Bell Center HD",
-    "artist": "Swedish House Mafia",
-    "broadcaster": "Matt Richling",
-    "city": "Montreal",
-    "country": "Canada",
-    "venue": "Bell Centre",
-    "coords": [
-      45.5,
-      -73.57
-    ],
-    "setting": "arena",
-    "enrichedAt": "2026-10-20T12:56:10.773Z",
-    "durationSec": 1990,
-    "cues": [],
-    "views": 15116,
-    "genres": [
-      "EDM"
-    ],
-    "publishedAt": "2013-03-02T08:45:19Z"
-  },
-  {
     "id": "72IULKLzhGM",
     "title": "Phaxe - Satya Festival 2013 - Teaser Mix",
     "artist": "Phaxe",
@@ -16346,28 +14017,6 @@
       "Psytrance"
     ],
     "publishedAt": "2013-02-28T19:49:20Z"
-  },
-  {
-    "id": "-umX7Iatq9M",
-    "title": "Cosmic Gate @ Trance Energy 2003 - 10th Ed",
-    "artist": "Cosmic Gate",
-    "broadcaster": "ColinZeal",
-    "city": "Utrecht",
-    "country": "Netherlands",
-    "venue": "Trance Energy (Jaarbeurs)",
-    "coords": [
-      52.09,
-      5.11
-    ],
-    "setting": "festival",
-    "enrichedAt": "2026-10-20T11:31:12.695Z",
-    "durationSec": 1930,
-    "cues": [],
-    "views": 62255,
-    "genres": [
-      "Trance"
-    ],
-    "publishedAt": "2013-02-10T05:03:41Z"
   },
   {
     "id": "jDUYPvcxKXg",

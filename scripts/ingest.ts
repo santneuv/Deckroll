@@ -7,6 +7,8 @@ interface Artist {
   genres: string[]
   /** Search text; defaults to "<name> set" */
   query?: string
+  /** false: never search YouTube for this artist (pinned videos and curated channels still apply) */
+  search?: boolean
 }
 
 interface Sources {
@@ -15,6 +17,8 @@ interface Sources {
   searchPagesPerArtist: number
   blockedChannels: string[]
   excludedVideos: string[]
+  /** Always in the catalogue while playable, regardless of length and views */
+  pinnedVideos: { id: string, artist: string }[]
   channels: { id: string, name: string }[]
   artists: Artist[]
 }
@@ -23,6 +27,7 @@ interface Candidate {
   artists: Artist[]
   /** From a curated channel or already in the catalogue: skip the title heuristics */
   trusted: boolean
+  pinned?: boolean
 }
 
 interface PlaylistItemsPage {
@@ -172,7 +177,9 @@ async function main() {
 
   const found = new Map<string, Candidate>()
   for (const channel of sources.channels) await scanChannel(channel, match, found)
-  for (const artist of sources.artists) await searchArtist(artist, sources.searchPagesPerArtist, match, found)
+  for (const artist of sources.artists) {
+    if (artist.search !== false) await searchArtist(artist, sources.searchPagesPerArtist, match, found)
+  }
 
   const artistsByName = new Map(sources.artists.map(a => [a.name, a]))
   let kept = 0
@@ -183,6 +190,11 @@ async function main() {
     kept++
   }
   console.log(`catalogue: ${kept} existing sets re-checked`)
+  for (const { id, artist } of sources.pinnedVideos) {
+    const pinnedArtist = artistsByName.get(artist)
+    if (!pinnedArtist) throw new Error(`pinned video ${id} names unknown artist "${artist}"`)
+    found.set(id, { artists: [pinnedArtist], trusted: true, pinned: true })
+  }
   for (const id of sources.excludedVideos) found.delete(id)
 
   const minDurationSec = sources.minDurationMin * 60
@@ -202,9 +214,9 @@ async function main() {
       if (video.snippet.liveBroadcastContent !== 'none') { skipped.liveOrUpcoming++; continue }
       if (!video.status.embeddable) { skipped.notEmbeddable++; continue }
       const durationSec = parseIsoDuration(video.contentDetails.duration)
-      if (durationSec < minDurationSec) { skipped.tooShort++; continue }
+      if (durationSec < minDurationSec && !candidate.pinned) { skipped.tooShort++; continue }
       const views = Number(video.statistics.viewCount ?? 0)
-      if (views < sources.minViews) { skipped.lowViews++; continue }
+      if (views < sources.minViews && !candidate.pinned) { skipped.lowViews++; continue }
       const known = knownPlaces.get(id)
       sets.push({
         id,
