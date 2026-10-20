@@ -1,0 +1,175 @@
+{
+  "minDurationMin": 30,
+  "minViews": 1000,
+  "searchPagesPerArtist": 2,
+  "blockedChannels": [
+    "Cube in Cube",
+    "Deep Flow",
+    "SHANGO",
+    "Mask-community Ⓡ",
+    "House of Music",
+    "Dark Beat",
+    "BassBlaze Beats",
+    "Speed Music",
+    "psytrance 4 ever",
+    "Christian Espinoza",
+    "Fear N Loathing",
+    "AXIIOS",
+    "🎧TOP DJ🎧",
+    "DJ Tribute Showcase",
+    "EDMbooster",
+    "Anson Reed"
+  ],
+  "channels": [
+    {
+      "id": "UCjzbiSwCHDVJz-Cx0RU5rKA",
+      "name": "Plant Bass"
+    },
+    {
+      "id": "UCRcbFA_6luBw6Tc4WK54Rpg",
+      "name": "PUTYOUON MUSIC GROUP"
+    },
+    {
+      "id": "UCLmaR7ew57x0XJEe_-REUyg",
+      "name": "Book Club Radio"
+    },
+    {
+      "id": "UC3_wlMNxKBG4c_P39zFH6Hw",
+      "name": "KREAM"
+    },
+    {
+      "id": "UCPKT_csvP72boVX0XrMtagQ",
+      "name": "Cercle"
+    }
+  ],
+  "artists": [
+    {
+      "name": "Stephan Bodzin",
+      "genres": [
+        "Melodic Techno"
+      ]
+    },
+    {
+      "name": "Joachim Pastor",
+      "genres": [
+        "Melodic Techno"
+      ]
+    },
+    {
+      "name": "Neelix",
+      "genres": [
+        "Psytrance"
+      ]
+    },
+    {
+      "name": "Cosmic Gate",
+      "genres": [
+        "Trance"
+      ]
+    },
+    {
+      "name": "Phaxe",
+      "genres": [
+        "Psytrance"
+      ]
+    },
+    {
+      "name": "Boris Brejcha",
+      "genres": [
+        "Minimal Techno"
+      ]
+    },
+    {
+      "name": "Hozho",
+      "genres": [
+        "Melodic Techno"
+      ]
+    },
+    {
+      "name": "Teho",
+      "genres": [
+        "Melodic Techno"
+      ]
+    },
+    {
+      "name": "Tiësto",
+      "genres": [
+        "House",
+        "Trance"
+      ]
+    },
+    {
+      "name": "Chris Luno",
+      "genres": [
+        "Melodic House"
+      ]
+    }
+  ],
+  "excludedVideos": [
+    "00YKA3lGqhs",
+    "26GDMD89woM",
+    "3BMHm92m7iM",
+    "3daKCYpJ8Sw",
+    "50aH82T0bIc",
+    "Ah_jbP5K_Xo",
+    "AscatuZ66yM",
+    "CdzuT1eW32U",
+    "EN1kvQ8SjdU",
+    "FI26NB4OHtE",
+    "GofhbEtWFAw",
+    "IcghULMnJ5g",
+    "Ij0W58R0J4g",
+    "Jdt3jc63j4U",
+    "Jyhn79-NqIg",
+    "KfjZ94HwK3A",
+    "Khjh-zRoiLA",
+    "KmgfMbiuGkk",
+    "LFZgrZxbgAM",
+    "M7D-Pjl9tTw",
+    "NJYsIXSa9T8",
+    "Nwp8PrtD9Jg",
+    "ONH8Wdhl0Yk",
+    "R-3pnfonPmg",
+    "RwyA4YAsuAY",
+    "SLJbGTLj65E",
+    "SNJQmCgxQP4",
+    "SR4ypKUn8N4",
+    "T1RtaAYj33g",
+    "TCxgmZo37ZM",
+    "UQbm9UcVVN0",
+    "Us_WFLtWzwo",
+    "V89pqzqrxZU",
+    "ZEXEOK9i75A",
+    "_MPoyPCMRLI",
+    "bYLU2qPt6BM",
+    "cpGQqTl_xw8",
+    "dmd8IeNVX2g",
+    "doKb51o611M",
+    "dtUj9Blt_Zc",
+    "f0XXKvNO60Y",
+    "f0su7CuPBEc",
+    "fvFbBiW9iN0",
+    "g32x-x2EB6c",
+    "gLwItIODWL0",
+    "iLu3PZx9Vc8",
+    "jzjOWQETuzw",
+    "kDfHESoKnEE",
+    "kLRsrZUD2EE",
+    "kNRMEjlS1FE",
+    "n3vFEc_nERU",
+    "n5PbmS1UUkw",
+    "nRQnN66l-SE",
+    "nqEgQl_p5Ng",
+    "pxvP_EqxjoQ",
+    "rGXE9eBgHm8",
+    "rHMG6VxbDos",
+    "sRHPzW4EJv8",
+    "sxqyqMPPIb8",
+    "tIAydkJLcR8",
+    "tggmYBB4v94",
+    "v23eD_dU7qs",
+    "vJVmjYdMwL0",
+    "wfP5E3WHALg",
+    "yjRiBzNbQSk"
+  ]
+}

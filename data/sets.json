@@ -1,0 +1,7962 @@
+[
+  {
+    "id": "WdeRoM2dvgQ",
+    "title": "Cosmic Gate: Wake Your Mind Radio 653",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 9291,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-10-12T16:00:07Z"
+  },
+  {
+    "id": "aMS69e3nu_U",
+    "title": "Tiësto LIVE at EDC KOREA 2026 | FULL SET",
+    "artist": "Tiësto",
+    "broadcaster": "nicktim",
+    "city": "Incheon",
+    "country": "South Korea",
+    "venue": "EDC Korea",
+    "coords": [
+      37.47,
+      126.39
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4331,
+    "cues": [],
+    "views": 5038,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2026-10-12T08:00:01Z"
+  },
+  {
+    "id": "zEnCDKBJV7E",
+    "title": "PRISMATIC by Tiësto 040",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3604,
+    "cues": [
+      0,
+      32,
+      260,
+      381,
+      519,
+      627,
+      761,
+      983,
+      1109,
+      1262,
+      1417,
+      1649,
+      1871,
+      1955,
+      2200,
+      2468,
+      2806,
+      2992,
+      3110,
+      3315
+    ],
+    "views": 69900,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2026-10-09T14:00:35Z"
+  },
+  {
+    "id": "95Rea5ZotHA",
+    "title": "Cosmic Gate: Wake Your Mind Radio 652",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 10192,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-10-05T16:00:06Z"
+  },
+  {
+    "id": "skrtbYFE2gI",
+    "title": "Cosmic Gate: Wake Your Mind Radio 651",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 9473,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-09-28T16:00:35Z"
+  },
+  {
+    "id": "TvLJ2j3oUPg",
+    "title": "Boris Brejcha | Live At Ultra Music Festival (RESISTANCE)",
+    "artist": "Boris Brejcha",
+    "broadcaster": "Butterfly Project ",
+    "city": "Miami",
+    "country": "United States",
+    "venue": "Ultra Music Festival (Resistance)",
+    "coords": [
+      25.78,
+      -80.19
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5300,
+    "cues": [],
+    "views": 179225,
+    "genres": [
+      "Minimal Techno"
+    ],
+    "publishedAt": "2026-09-21T19:08:52Z"
+  },
+  {
+    "id": "JszRsL12wqc",
+    "title": "Cosmic Gate: Wake Your Mind Radio 650",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 10265,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-09-21T16:00:06Z"
+  },
+  {
+    "id": "YT3pjFCMZfc",
+    "title": "Cosmic Gate: Wake Your Mind Radio 649",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 8532,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-09-14T16:00:06Z"
+  },
+  {
+    "id": "CRXVfQHkJt8",
+    "title": "Tiësto - Live at Creamfields 2026 (Full Set)",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": "Daresbury",
+    "country": "United Kingdom",
+    "venue": "Creamfields",
+    "coords": [
+      53.34,
+      -2.63
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4569,
+    "cues": [],
+    "views": 893602,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2026-09-08T14:00:06Z"
+  },
+  {
+    "id": "e1jW89KH2AI",
+    "title": "Cosmic Gate: Wake Your Mind Radio 648",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 10601,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-09-07T16:00:06Z"
+  },
+  {
+    "id": "p-DjwW3bdgY",
+    "title": "Tiësto - Creamfields UK 2026",
+    "artist": "Tiësto",
+    "broadcaster": "Mauri Villa Tiësto Fan",
+    "city": "Daresbury",
+    "country": "United Kingdom",
+    "venue": "Creamfields",
+    "coords": [
+      53.34,
+      -2.63
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5229,
+    "cues": [],
+    "views": 10871,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2026-08-31T20:37:52Z"
+  },
+  {
+    "id": "HeWhF_du_bM",
+    "title": "Cosmic Gate: Wake Your Mind Radio 647",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 11041,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-08-31T16:00:06Z"
+  },
+  {
+    "id": "fq6RcFQKor8",
+    "title": "Cosmic Gate - Sunset Square 2026",
+    "artist": "Cosmic Gate",
+    "broadcaster": "naczosffm",
+    "city": null,
+    "country": null,
+    "venue": "Sunset Square",
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4518,
+    "cues": [],
+    "views": 9269,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-08-30T22:10:06Z"
+  },
+  {
+    "id": "KCCba56g2Xk",
+    "title": "Cosmic Gate: Wake Your Mind Radio 646",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 8209,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-08-24T16:00:06Z"
+  },
+  {
+    "id": "GOXaymA6prs",
+    "title": "Cosmic Gate: Wake Your Mind Radio 645",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 7465,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-08-17T16:00:06Z"
+  },
+  {
+    "id": "f6HMY-N4m5I",
+    "title": "STEPHAN BODZIN (Germany) @ Awakenings Festival Netherlands 11.07.2026",
+    "artist": "Stephan Bodzin",
+    "broadcaster": "cosmobeat",
+    "city": "Hilvarenbeek",
+    "country": "Netherlands",
+    "venue": "Awakenings Festival",
+    "coords": [
+      51.53,
+      5.12
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 7245,
+    "cues": [
+      0,
+      332,
+      468,
+      690,
+      1010,
+      1340,
+      1648,
+      1920,
+      2248,
+      2470,
+      2800,
+      3115,
+      3373,
+      3625,
+      3990,
+      4249,
+      4620,
+      4920,
+      5258,
+      5640,
+      5940,
+      6390,
+      6754,
+      7023
+    ],
+    "views": 7144,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2026-08-17T09:00:27Z"
+  },
+  {
+    "id": "blP5J6BUG0M",
+    "title": "PRISMATIC by Tiësto 032",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3627,
+    "cues": [
+      0,
+      32,
+      250,
+      463,
+      616,
+      795,
+      1045,
+      1273,
+      1408,
+      1544,
+      1694,
+      1926,
+      2030,
+      2146,
+      2366,
+      2523,
+      2834,
+      3012,
+      3233,
+      3392,
+      3472
+    ],
+    "views": 55925,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2026-08-14T14:00:31Z"
+  },
+  {
+    "id": "GNzOWq53_Qw",
+    "title": "Cosmic Gate: Wake Your Mind Radio 644",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 7277,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-08-10T16:00:06Z"
+  },
+  {
+    "id": "WJzUWu1cFmo",
+    "title": "Tiesto İstanbul Festivali 2026 Full Set",
+    "artist": "Tiësto",
+    "broadcaster": "Serhat Sadık Akbaş",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "venue": "İstanbul Festivali",
+    "coords": [
+      41.01,
+      28.98
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4288,
+    "cues": [
+      0,
+      180,
+      327,
+      600,
+      711,
+      828,
+      901,
+      1005,
+      1166,
+      1305,
+      1424,
+      1488,
+      1586,
+      1795,
+      1867,
+      2003,
+      2130,
+      2325,
+      2551,
+      2640,
+      2778,
+      2931,
+      3101,
+      3461,
+      3547,
+      3619,
+      3826,
+      3951,
+      4012,
+      4143
+    ],
+    "views": 8350,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2026-08-09T18:46:13Z"
+  },
+  {
+    "id": "sIA3b9Za210",
+    "title": "TIESTO 2.5 HOURS TRANCE SET | İSTANBUL FESTİVALİ 2026 - FULL SET EXTENDED DROPS ONLY",
+    "artist": "Tiësto",
+    "broadcaster": "Ozan Çetin",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "venue": "İstanbul Festivali",
+    "coords": [
+      41.01,
+      28.98
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5431,
+    "cues": [
+      0,
+      480,
+      661,
+      794,
+      947,
+      1127,
+      1268,
+      1536,
+      1619,
+      1643,
+      1690,
+      1869,
+      1980,
+      2140,
+      2283,
+      2474,
+      2571,
+      2731,
+      2895,
+      3007,
+      3107,
+      3303,
+      3520,
+      3590,
+      3643,
+      3801,
+      3964,
+      4073,
+      4117,
+      4149,
+      4251,
+      4314,
+      4465,
+      4735,
+      4764,
+      4814,
+      4882,
+      4932,
+      4987,
+      5067,
+      5087,
+      5147,
+      5226,
+      5259,
+      5312
+    ],
+    "views": 41913,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2026-08-09T18:30:48Z"
+  },
+  {
+    "id": "77UJo-fcxbg",
+    "title": "PRISMATIC by Tiësto 031",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3606,
+    "cues": [
+      0,
+      32,
+      356,
+      793,
+      922,
+      1109,
+      1288,
+      1466,
+      1698,
+      2006,
+      2178,
+      2356,
+      2560,
+      2667,
+      2805,
+      2979,
+      3166,
+      3448
+    ],
+    "views": 48365,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2026-08-08T14:00:32Z"
+  },
+  {
+    "id": "6WYiDK4IcKY",
+    "title": "Neelix - Nature One 2026 - ARTE Concert",
+    "artist": "Neelix",
+    "broadcaster": "ARTE Concert",
+    "city": "Kastellaun",
+    "country": "Germany",
+    "venue": "Nature One",
+    "coords": [
+      50.07,
+      7.44
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5360,
+    "cues": [],
+    "views": 145866,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2026-08-08T03:00:04Z"
+  },
+  {
+    "id": "qN2KclPxWE8",
+    "title": "Tiësto - Live from Atomium Brussels",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": "Brussels",
+    "country": "Belgium",
+    "venue": "Atomium",
+    "coords": [
+      50.89,
+      4.34
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 10776,
+    "cues": [],
+    "views": 1050498,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2026-08-07T14:00:17Z"
+  },
+  {
+    "id": "-F1qIYYvvWg",
+    "title": "Cosmic Gate: Wake Your Mind Radio 643",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 7287,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-08-03T16:00:06Z"
+  },
+  {
+    "id": "NpL_bT5vgmU",
+    "title": "Boris Brejcha WE1 | Tomorrowland 2026",
+    "artist": "Boris Brejcha",
+    "broadcaster": "Tomorrowland",
+    "city": "Boom",
+    "country": "Belgium",
+    "venue": "Tomorrowland",
+    "coords": [
+      51.09,
+      4.37
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3580,
+    "cues": [],
+    "views": 1538504,
+    "genres": [
+      "Minimal Techno"
+    ],
+    "publishedAt": "2026-07-28T15:00:09Z"
+  },
+  {
+    "id": "g-WpYn_19Rk",
+    "title": "Cosmic Gate: Wake Your Mind Radio 642 (Miami Sunset Cruise Set - MMW 2026)",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": "Miami",
+    "country": "United States",
+    "venue": "Miami Music Week Sunset Cruise",
+    "coords": [
+      25.79,
+      -80.13
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 8020,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-07-27T16:00:06Z"
+  },
+  {
+    "id": "TWGOT-J8hBA",
+    "title": "Boris Brejcha - Tomorrowland 2026 | 18.07.2026",
+    "artist": "Boris Brejcha",
+    "broadcaster": "MusicDealer",
+    "city": "Boom",
+    "country": "Belgium",
+    "venue": "Tomorrowland",
+    "coords": [
+      51.09,
+      4.37
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3590,
+    "cues": [],
+    "views": 188646,
+    "genres": [
+      "Minimal Techno"
+    ],
+    "publishedAt": "2026-07-23T22:45:24Z"
+  },
+  {
+    "id": "36X0syZwha4",
+    "title": "Cosmic Gate: Wake Your Mind Radio 641",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 8110,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-07-20T16:00:06Z"
+  },
+  {
+    "id": "PCxPtC9LT_s",
+    "title": "PRISMATIC by Tiësto 028",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3589,
+    "cues": [
+      0,
+      32,
+      318,
+      534,
+      723,
+      832,
+      979,
+      1265,
+      1414,
+      1577,
+      1741,
+      1891,
+      2027,
+      2227,
+      2401,
+      2589,
+      2710,
+      2825,
+      3069,
+      3325,
+      3446
+    ],
+    "views": 49343,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2026-07-17T14:00:26Z"
+  },
+  {
+    "id": "NpF9yBDtTXY",
+    "title": "Cosmic Gate: Wake Your Mind Radio 640",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 7553,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-07-13T16:00:06Z"
+  },
+  {
+    "id": "i18OT9vj_Pk",
+    "title": "Cosmic Gate: Wake Your Mind Radio 638",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 6696,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-06-29T16:00:06Z"
+  },
+  {
+    "id": "KmGmoWcjqlc",
+    "title": "Cosmic Gate live at A State of Trance Vietnam 2026",
+    "artist": "Cosmic Gate",
+    "broadcaster": "A State Of Trance",
+    "city": null,
+    "country": "Vietnam",
+    "venue": "A State of Trance Vietnam",
+    "coords": null,
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3631,
+    "cues": [],
+    "views": 143108,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-06-29T15:00:23Z"
+  },
+  {
+    "id": "22IKb8UiUTY",
+    "title": "PRISMATIC by Tiësto 025",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3589,
+    "cues": [
+      0,
+      32,
+      303,
+      490,
+      598,
+      719,
+      855,
+      1002,
+      1164,
+      1452,
+      1629,
+      1753,
+      1877,
+      2026,
+      2210,
+      2387,
+      2568,
+      2898,
+      3028,
+      3108,
+      3381
+    ],
+    "views": 49435,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2026-06-26T14:00:34Z"
+  },
+  {
+    "id": "xFONbMDJHwg",
+    "title": "Cosmic Gate: Wake Your Mind Radio 637",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 7467,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-06-22T16:00:06Z"
+  },
+  {
+    "id": "vdqjQGfZK3Y",
+    "title": "Chris Luno Live From DJ Mag HQ",
+    "artist": "Chris Luno",
+    "broadcaster": "DJ Mag",
+    "city": "London",
+    "country": "United Kingdom",
+    "venue": "DJ Mag HQ",
+    "coords": [
+      51.51,
+      -0.13
+    ],
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3744,
+    "cues": [],
+    "views": 183964,
+    "genres": [
+      "Melodic House"
+    ],
+    "publishedAt": "2026-06-19T16:00:06Z"
+  },
+  {
+    "id": "L42qMfBWJqc",
+    "title": "Cosmic Gate: Wake Your Mind Radio 636",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 7572,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-06-15T16:00:06Z"
+  },
+  {
+    "id": "tuEmTDXfTrk",
+    "title": "PRISMATIC by Tiësto 023",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3609,
+    "cues": [
+      0,
+      32,
+      354,
+      476,
+      712,
+      847,
+      1050,
+      1172,
+      1349,
+      1431,
+      1629,
+      1830,
+      2109,
+      2340,
+      2527,
+      2661,
+      2969,
+      3136,
+      3291,
+      3373,
+      3529
+    ],
+    "views": 57202,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2026-06-12T14:00:34Z"
+  },
+  {
+    "id": "48eIv3sT3Gs",
+    "title": "Cosmic Gate: Wake Your Mind Radio 635",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 6239,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-06-08T16:00:06Z"
+  },
+  {
+    "id": "5EreNPtA2x8",
+    "title": "Teho - TNH Radio, 2026",
+    "artist": "Teho",
+    "broadcaster": "This Never Happened",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 14555,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2026-06-06T16:00:25Z"
+  },
+  {
+    "id": "hNRc7EQvxhE",
+    "title": "Cosmic Gate: Wake Your Mind Radio 634",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 6177,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-06-01T16:00:06Z"
+  },
+  {
+    "id": "yYkdUtaefuM",
+    "title": "Cosmic Gate: Wake Your Mind Radio 633",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3417,
+    "cues": [],
+    "views": 6627,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-05-25T16:00:06Z"
+  },
+  {
+    "id": "EO8fj6FfCPk",
+    "title": "Cosmic Gate Live at EDC Las Vegas 2026",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Insomniac",
+    "city": "Las Vegas",
+    "country": "United States",
+    "venue": "EDC Las Vegas",
+    "coords": [
+      36.27,
+      -115.01
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3584,
+    "cues": [],
+    "views": 206282,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-05-23T19:56:51Z"
+  },
+  {
+    "id": "ZPJ-rD4xQ2I",
+    "title": "Chris Luno - 19.05.26 [Bloop London Radio]",
+    "artist": "Chris Luno",
+    "broadcaster": "Bloop London Radio",
+    "city": "London",
+    "country": "United Kingdom",
+    "venue": "Bloop London Radio",
+    "coords": [
+      51.51,
+      -0.13
+    ],
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3770,
+    "cues": [],
+    "views": 13279,
+    "genres": [
+      "Melodic House"
+    ],
+    "publishedAt": "2026-05-20T14:54:00Z"
+  },
+  {
+    "id": "xEwiG9yp_p8",
+    "title": "Cosmic Gate: Wake Your Mind Radio 632",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 5962,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-05-18T16:00:06Z"
+  },
+  {
+    "id": "kG0SVvz9e-g",
+    "title": "Tiësto Live at EDC Las Vegas 2026",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": "Las Vegas",
+    "country": "United States",
+    "venue": "EDC Las Vegas",
+    "coords": [
+      36.27,
+      -115.01
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5309,
+    "cues": [
+      0,
+      243,
+      415,
+      515,
+      680,
+      844,
+      915,
+      1043,
+      1205,
+      1338,
+      1603,
+      1820,
+      2035,
+      2218,
+      2488,
+      2713,
+      2883,
+      3068,
+      3200,
+      3347,
+      3495,
+      3602,
+      3695,
+      3921,
+      4063,
+      4187,
+      4343,
+      4545,
+      4649,
+      4782,
+      4919,
+      5051,
+      5196
+    ],
+    "views": 2179890,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2026-05-17T08:51:24Z"
+  },
+  {
+    "id": "m5YUsunKfhQ",
+    "title": "Cosmic Gate: Wake Your Mind Radio 631",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 8633,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-05-11T16:00:06Z"
+  },
+  {
+    "id": "kYW9-R1-EvI",
+    "title": "Cosmic Gate: Wake Your Mind Radio 630",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 8298,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-05-04T16:00:06Z"
+  },
+  {
+    "id": "kXsvRjq8GAY",
+    "title": "Cosmic Gate Live at E1, London [3 HOUR SET] 11.04.26",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Free From Sleep",
+    "city": "London",
+    "country": "United Kingdom",
+    "venue": "E1",
+    "coords": [
+      51.5,
+      -0.06
+    ],
+    "setting": "club",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 10972,
+    "cues": [],
+    "views": 137619,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-04-30T16:01:13Z"
+  },
+  {
+    "id": "KG2DScI7TmM",
+    "title": "Cosmic Gate: Wake Your Mind Radio 629",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 8317,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-04-27T16:00:06Z"
+  },
+  {
+    "id": "wwX7qyIZrN4",
+    "title": "Stephan Bodzin Live Set at Experience",
+    "artist": "Stephan Bodzin",
+    "broadcaster": "Amigobgd  ( Dj Live Mix)",
+    "city": "Pirenópolis",
+    "country": "Brazil",
+    "venue": "Experience Festival",
+    "coords": [
+      -15.85,
+      -48.96
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3557,
+    "cues": [],
+    "views": 2037,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2026-04-20T05:13:26Z"
+  },
+  {
+    "id": "57S5jbA-giY",
+    "title": "Stephan Bodzin | Live Set at Experience Festival 2026",
+    "artist": "Stephan Bodzin",
+    "broadcaster": " EXPERIENCES PRODUCE",
+    "city": "Pirenópolis",
+    "country": "Brazil",
+    "venue": "Experience Festival",
+    "coords": [
+      -15.85,
+      -48.96
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3557,
+    "cues": [],
+    "views": 135672,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2026-04-16T22:00:06Z"
+  },
+  {
+    "id": "rFZnnWQi1BQ",
+    "title": "Cosmic Gate: Wake Your Mind Radio 627",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 8443,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-04-13T16:00:06Z"
+  },
+  {
+    "id": "nqAuzDbrXOo",
+    "title": "Cosmic Gate: Wake Your Mind Radio 626",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 7293,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-04-06T16:00:06Z"
+  },
+  {
+    "id": "3aq_C1R7En8",
+    "title": "Boris Brejcha - Exclusive Live Set",
+    "artist": "Boris Brejcha",
+    "broadcaster": "Michael Kroll ",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5953,
+    "cues": [],
+    "views": 8806,
+    "genres": [
+      "Minimal Techno"
+    ],
+    "publishedAt": "2026-03-28T16:45:06Z"
+  },
+  {
+    "id": "2EQGqEvLAuE",
+    "title": "Tiësto - Live at We Belong Here Miami 2026",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": "Miami",
+    "country": "United States",
+    "venue": "We Belong Here",
+    "coords": [
+      25.76,
+      -80.19
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 7601,
+    "cues": [
+      0,
+      76,
+      215,
+      371,
+      588,
+      992,
+      1168,
+      1340,
+      1537,
+      1868,
+      2049,
+      2292,
+      2410,
+      2632,
+      2887,
+      3079,
+      3257,
+      3504,
+      3661,
+      4154,
+      4360,
+      4572,
+      4969,
+      5065,
+      5217,
+      5434,
+      5607,
+      5851,
+      6037,
+      6166,
+      6310,
+      6508,
+      6783,
+      6886,
+      7033,
+      7148,
+      7348
+    ],
+    "views": 1034425,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2026-03-10T14:43:55Z"
+  },
+  {
+    "id": "r9yEsOAYeU0",
+    "title": "Cosmic Gate live at A State of Trance 2026 (Saturday | Area 2)",
+    "artist": "Cosmic Gate",
+    "broadcaster": "A State Of Trance",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "venue": "A State of Trance (Jaarbeurs)",
+    "coords": [
+      52.09,
+      5.11
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3344,
+    "cues": [],
+    "views": 424510,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-03-09T14:55:07Z"
+  },
+  {
+    "id": "TljfURv5ss8",
+    "title": "Cosmic Gate: Wake Your Mind Radio 621",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 8318,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-03-02T17:00:06Z"
+  },
+  {
+    "id": "g0rm5h7oIaY",
+    "title": "Cosmic Gate: Wake Your Mind Radio 620",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 8153,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-02-23T17:00:06Z"
+  },
+  {
+    "id": "-kns-gawoxg",
+    "title": "COSMIC GATE | Energy 2000 Katowice | cały set 21.02.2026",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Trantytel",
+    "city": "Katowice",
+    "country": "Poland",
+    "venue": "Energy 2000",
+    "coords": [
+      50.26,
+      19.02
+    ],
+    "setting": "club",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 7239,
+    "cues": [],
+    "views": 1885,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-02-22T14:00:06Z"
+  },
+  {
+    "id": "qCjAZYqYfeA",
+    "title": "PRISMATIC by Tiësto 006",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3596,
+    "cues": [
+      0,
+      32,
+      157,
+      281,
+      444,
+      551,
+      714,
+      1048,
+      1296,
+      1476,
+      1664,
+      1741,
+      2057,
+      2194,
+      2315,
+      2510,
+      2710,
+      2828,
+      2959,
+      3193,
+      3475
+    ],
+    "views": 90731,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2026-02-13T15:00:00Z"
+  },
+  {
+    "id": "XRB-IrrYXtU",
+    "title": "Hozho at MUTE, Mar del Plata (Argentina) | Full Set",
+    "artist": "Hozho",
+    "broadcaster": "Hozho",
+    "city": "Mar del Plata",
+    "country": "Argentina",
+    "venue": "MUTE",
+    "coords": [
+      -38.01,
+      -57.54
+    ],
+    "setting": "club",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 14592,
+    "cues": [],
+    "views": 492185,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2026-02-08T17:00:07Z"
+  },
+  {
+    "id": "zkTAr2Bbm6Y",
+    "title": "NEELIX | ZOOM Club Frankfurt | 20.12.2025",
+    "artist": "Neelix",
+    "broadcaster": "Dennis Kuhnle",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "venue": "ZOOM",
+    "coords": [
+      50.11,
+      8.68
+    ],
+    "setting": "club",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5729,
+    "cues": [],
+    "views": 105718,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2026-02-04T22:11:04Z"
+  },
+  {
+    "id": "xJwTqxhMjeQ",
+    "title": "Chris Luno | AM.RADIO 016 | Los Angeles",
+    "artist": "Chris Luno",
+    "broadcaster": "PUTYOUON MUSIC GROUP",
+    "city": "Los Angeles",
+    "country": "United States",
+    "venue": "1 Hotel West Hollywood (AM.RADIO)",
+    "coords": [
+      34.09,
+      -118.38
+    ],
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3426,
+    "cues": [],
+    "views": 123248,
+    "genres": [
+      "Melodic House"
+    ],
+    "publishedAt": "2026-02-01T19:01:09Z"
+  },
+  {
+    "id": "82vp7ezOkVA",
+    "title": "PRISMATIC by Tiësto 004",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3611,
+    "cues": [
+      0,
+      32,
+      267,
+      405,
+      544,
+      668,
+      900,
+      1218,
+      1372,
+      1551,
+      1666,
+      1874,
+      2037,
+      2244,
+      2377,
+      2556,
+      2721,
+      2939,
+      3114,
+      3289,
+      3462
+    ],
+    "views": 110536,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2026-01-30T15:00:00Z"
+  },
+  {
+    "id": "LB91jGEXC6I",
+    "title": "Cosmic Gate: Wake Your Mind Radio 616",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 8735,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-01-26T17:00:06Z"
+  },
+  {
+    "id": "jb2Kj4A9NEs",
+    "title": "Cosmic Gate: Wake Your Mind Radio 615",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 7280,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-01-19T17:00:06Z"
+  },
+  {
+    "id": "Stn0jQTNRTY",
+    "title": "PRISMATIC by Tiësto 002",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3615,
+    "cues": [
+      0,
+      32,
+      249,
+      427,
+      577,
+      821,
+      941,
+      1079,
+      1216,
+      1436,
+      1604,
+      1739,
+      1992,
+      2153,
+      2296,
+      2397,
+      2581,
+      2709,
+      2857,
+      3078,
+      3250,
+      3386
+    ],
+    "views": 191280,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2026-01-16T15:01:01Z"
+  },
+  {
+    "id": "UOpBQTeyQMk",
+    "title": "Neelix - Electrolapse Festival 2025 - Main Stage",
+    "artist": "Neelix",
+    "broadcaster": "a1ex1337",
+    "city": null,
+    "country": "France",
+    "venue": "Électrolapse Festival",
+    "coords": null,
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4505,
+    "cues": [],
+    "views": 2011,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2026-01-14T22:03:49Z"
+  },
+  {
+    "id": "rP-MU1_CC7M",
+    "title": "Phaxe @ Argentina - LIVE Set 2 Hours - October 2019",
+    "artist": "Phaxe",
+    "broadcaster": "AMUS",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "venue": null,
+    "coords": [
+      -34.6,
+      -58.38
+    ],
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 7163,
+    "cues": [],
+    "views": 4279,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2026-01-14T00:06:55Z"
+  },
+  {
+    "id": "wC-Hs_9zF-E",
+    "title": "Cosmic Gate: Wake Your Mind Radio 614 (EDC Mexico 2025 Main Stage Set) WYM 614",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "venue": "EDC Mexico",
+    "coords": [
+      19.4,
+      -99.09
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 8050,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-01-12T17:00:06Z"
+  },
+  {
+    "id": "x-A1uAgrnII",
+    "title": "PRISMATIC by Tiësto 001",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3610,
+    "cues": [
+      0,
+      32,
+      253,
+      431,
+      614,
+      791,
+      966,
+      1138,
+      1350,
+      1487,
+      1683,
+      1954,
+      2116,
+      2218,
+      2395,
+      2652,
+      2814,
+      2907,
+      3078,
+      3287,
+      3402
+    ],
+    "views": 237355,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2026-01-09T15:01:52Z"
+  },
+  {
+    "id": "DLBgzR9keo8",
+    "title": "CLUBLIFE by Tiësto Episode 978",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3600,
+    "cues": [
+      0,
+      42,
+      226,
+      320,
+      445,
+      539,
+      624,
+      763,
+      840,
+      924,
+      1046,
+      1152,
+      1246,
+      1398,
+      1602,
+      1872,
+      2014,
+      2148,
+      2268,
+      2395,
+      2455,
+      2560,
+      2680,
+      2755,
+      2816,
+      2912,
+      3091,
+      3179,
+      3250,
+      3375,
+      3484
+    ],
+    "views": 195887,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2025-12-31T13:38:59Z"
+  },
+  {
+    "id": "r6fO-Ki9LzE",
+    "title": "Tiësto - Live at the Great Pyramids of Giza 2025 (Full Set)",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": "Giza",
+    "country": "Egypt",
+    "venue": "Pyramids of Giza",
+    "coords": [
+      29.98,
+      31.13
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 10774,
+    "cues": [
+      0,
+      231,
+      584,
+      813,
+      1020,
+      1197,
+      1415,
+      1592,
+      1735,
+      1869,
+      2090,
+      2252,
+      2493,
+      2696,
+      2930,
+      3104,
+      3229,
+      3407,
+      3560,
+      3738,
+      3876,
+      4108,
+      4359,
+      4632,
+      4885,
+      5091,
+      5287,
+      5523,
+      5772,
+      5929,
+      6187,
+      6396,
+      6733,
+      6885,
+      7052,
+      7244,
+      7354,
+      7492,
+      7630,
+      7808,
+      8044,
+      8318,
+      8543,
+      8777,
+      8962,
+      9216,
+      9339,
+      9552,
+      9784,
+      10001,
+      10161,
+      10515
+    ],
+    "views": 9543292,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2025-12-26T16:13:37Z"
+  },
+  {
+    "id": "5OXMrRpIMWE",
+    "title": "Boris Brejcha - Christmas Mix 2025 (Mixed by Ginger)",
+    "artist": "Boris Brejcha",
+    "broadcaster": "Boris Brejcha",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3270,
+    "cues": [],
+    "views": 568029,
+    "genres": [
+      "Minimal Techno"
+    ],
+    "publishedAt": "2025-12-24T11:00:06Z"
+  },
+  {
+    "id": "CWOCBGoaFX0",
+    "title": "Boris Brejcha – Reflections Tour Chile 2025 | High-Tech Minimal Full Set [4K]",
+    "artist": "Boris Brejcha",
+    "broadcaster": "Boris RO Fan Club Official",
+    "city": null,
+    "country": "Chile",
+    "venue": "Reflections Tour",
+    "coords": null,
+    "setting": "arena",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 10443,
+    "cues": [],
+    "views": 66874,
+    "genres": [
+      "Minimal Techno"
+    ],
+    "publishedAt": "2025-12-19T20:49:06Z"
+  },
+  {
+    "id": "_5YcUlWqm8Y",
+    "title": "Cosmic Gate live at Palacio Alsina, Buenos Aires (11. OCT 25)",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Cosmic Gate",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "venue": "Palacio Alsina",
+    "coords": [
+      -34.6,
+      -58.37
+    ],
+    "setting": "club",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 7354,
+    "cues": [],
+    "views": 156302,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2025-12-17T17:00:07Z"
+  },
+  {
+    "id": "4xWR1a7EE4I",
+    "title": "Boris Brejcha 🃏 Live 🔥 Exclusive Set 2025",
+    "artist": "Boris Brejcha",
+    "broadcaster": "Boris RO Fan Club Official",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5953,
+    "cues": [],
+    "views": 26051,
+    "genres": [
+      "Minimal Techno"
+    ],
+    "publishedAt": "2025-12-13T21:27:48Z"
+  },
+  {
+    "id": "OD5LawM8ONk",
+    "title": "Tiësto - Dreamstate 2025 (Full Set)",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": "Long Beach",
+    "country": "United States",
+    "venue": "Dreamstate",
+    "coords": [
+      33.77,
+      -118.19
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4703,
+    "cues": [
+      0,
+      218,
+      394,
+      572,
+      774,
+      974,
+      1231,
+      1464,
+      1608,
+      1814,
+      1955,
+      2174,
+      2428,
+      2565,
+      2716,
+      2894,
+      3139,
+      3390,
+      3522,
+      3737,
+      3930,
+      4117,
+      4323
+    ],
+    "views": 15235294,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2025-11-26T18:00:22Z"
+  },
+  {
+    "id": "GNL7RMlEVCc",
+    "title": "Tiesto (Trance Set) Dreamstate 2025 - 11.22.2025 (4k FULL SET - High Quality Audio)",
+    "artist": "Tiësto",
+    "broadcaster": "JCP",
+    "city": "Long Beach",
+    "country": "United States",
+    "venue": "Dreamstate",
+    "coords": [
+      33.77,
+      -118.19
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4692,
+    "cues": [],
+    "views": 89777,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2025-11-24T05:30:54Z"
+  },
+  {
+    "id": "Ntx3hRCBJvA",
+    "title": "Boris Brejcha – Legendary 5H30 Set • High-Tech Minimal 2025",
+    "artist": "Boris Brejcha",
+    "broadcaster": "Boris RO Fan Club Official",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 19974,
+    "cues": [],
+    "views": 11675,
+    "genres": [
+      "Minimal Techno"
+    ],
+    "publishedAt": "2025-11-15T15:30:06Z"
+  },
+  {
+    "id": "9HGfLwmHlTg",
+    "title": "Neelix - Live @Électrolapse Festival 2025 | Main Stage",
+    "artist": "Neelix",
+    "broadcaster": "Électrolapse",
+    "city": null,
+    "country": "France",
+    "venue": "Électrolapse Festival",
+    "coords": null,
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4505,
+    "cues": [],
+    "views": 136419,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2025-11-09T17:06:38Z"
+  },
+  {
+    "id": "4QVkBEPMv_Q",
+    "title": "Tiesto In Concert 2004 (GelreDome, Arnhem) Full 8 Hour Set [4K Upscale]",
+    "artist": "Tiësto",
+    "broadcaster": "3dfish",
+    "city": "Arnhem",
+    "country": "Netherlands",
+    "venue": "GelreDome (Tiësto In Concert)",
+    "coords": [
+      51.96,
+      5.89
+    ],
+    "setting": "arena",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 27462,
+    "cues": [
+      0,
+      660,
+      994,
+      1330,
+      1692,
+      2115,
+      2405,
+      2802,
+      3165,
+      3447,
+      3824,
+      4246,
+      4580,
+      4915,
+      5219,
+      5620,
+      6105,
+      6441,
+      6799,
+      7150,
+      7549,
+      7898,
+      8215,
+      8622,
+      8880,
+      9270,
+      9625,
+      10102,
+      10385,
+      10595,
+      10967,
+      11187,
+      11489,
+      11962,
+      12307,
+      12605,
+      12967,
+      13387,
+      13737,
+      13987,
+      14322,
+      14452,
+      14891,
+      15161,
+      15635,
+      16055,
+      16550,
+      17008,
+      17510,
+      17820,
+      18185,
+      18382,
+      18721,
+      18927,
+      19161,
+      19511,
+      19848,
+      20227,
+      20555,
+      21003,
+      21379,
+      21742,
+      22031,
+      22519,
+      22895,
+      23211,
+      23657,
+      24175,
+      24537,
+      25027,
+      25482,
+      25735,
+      26064,
+      26422,
+      26805
+    ],
+    "views": 206225,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2025-11-05T13:51:42Z"
+  },
+  {
+    "id": "jasb1-rfPJU",
+    "title": "Cosmic Gate: Wake Your Mind Radio 604",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 6288,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2025-11-03T17:00:06Z"
+  },
+  {
+    "id": "vhe58uobP_k",
+    "title": "STEPHAN BODZIN | Untold 2025 | RELIVE 2024 | Galaxy Stage",
+    "artist": "Stephan Bodzin",
+    "broadcaster": "Raul Husian",
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "venue": "Untold Festival",
+    "coords": [
+      46.77,
+      23.59
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 7121,
+    "cues": [],
+    "views": 20856,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2025-10-29T15:43:09Z"
+  },
+  {
+    "id": "K3C336bAuJU",
+    "title": "Joachim Pastor [Full Live] - Théâtre Antique d'Orange (Positiv Festival 2025)",
+    "artist": "Joachim Pastor",
+    "broadcaster": "Joachim Pastor",
+    "city": "Orange",
+    "country": "France",
+    "venue": "Théâtre Antique d'Orange (Positiv Festival)",
+    "coords": [
+      44.14,
+      4.81
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3398,
+    "cues": [],
+    "views": 78346,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2025-10-21T14:12:00Z"
+  },
+  {
+    "id": "_ZNtgO2kP-Y",
+    "title": "Cosmic Gate: Ibiza Sunset Set (Tomorrowland Store Rooftop)",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Cosmic Gate",
+    "city": "Ibiza",
+    "country": "Spain",
+    "venue": "Tomorrowland Store Ibiza",
+    "coords": [
+      38.91,
+      1.42
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3566,
+    "cues": [
+      0,
+      300,
+      550,
+      751,
+      1012,
+      1383,
+      1678,
+      2009,
+      2312,
+      2633,
+      2904,
+      3245
+    ],
+    "views": 548053,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2025-10-15T16:00:07Z"
+  },
+  {
+    "id": "CfG21vJluvw",
+    "title": "Neelix - Indian Spirit 2025",
+    "artist": "Neelix",
+    "broadcaster": "Neelix",
+    "city": null,
+    "country": "Germany",
+    "venue": "Indian Spirit Festival",
+    "coords": null,
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5223,
+    "cues": [],
+    "views": 602559,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2025-09-12T11:36:53Z"
+  },
+  {
+    "id": "RON3ECN1cEU",
+    "title": "COSMIC GATE – TRANSMISSION FESTIVAL NETHERLANDS 2025: The Temple Of Time [FULL 4K SET]",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Cosmic Gate",
+    "city": "Arnhem",
+    "country": "Netherlands",
+    "venue": "Transmission (GelreDome)",
+    "coords": [
+      51.96,
+      5.89
+    ],
+    "setting": "arena",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3667,
+    "cues": [],
+    "views": 328529,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2025-08-13T16:00:07Z"
+  },
+  {
+    "id": "lm61OV1Krnw",
+    "title": "TIËSTO Prismatic Mexico (edition special)",
+    "artist": "Tiësto",
+    "broadcaster": "WOLTiO",
+    "city": null,
+    "country": "Mexico",
+    "venue": "Prismatic",
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 14430,
+    "cues": [],
+    "views": 37052,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2025-08-02T18:55:06Z"
+  },
+  {
+    "id": "Hsy6QqvXmW8",
+    "title": "Teho Live At Piz Gloria, Schilthorn for Hanz Up",
+    "artist": "Teho",
+    "broadcaster": "Teho",
+    "city": "Mürren",
+    "country": "Switzerland",
+    "venue": "Piz Gloria (Hanz Up)",
+    "coords": [
+      46.56,
+      7.84
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5875,
+    "cues": [
+      0,
+      185,
+      535,
+      795,
+      1130,
+      1411,
+      1731,
+      2082,
+      2402,
+      2706,
+      3080,
+      3438,
+      3819,
+      4177,
+      4543,
+      4832,
+      5152,
+      5554
+    ],
+    "views": 107994,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2025-07-17T17:00:06Z"
+  },
+  {
+    "id": "nQZ0-LtyqWQ",
+    "title": "Chris Luno (DJ Set) - Elevator Music",
+    "artist": "Chris Luno",
+    "broadcaster": "Elevator Music",
+    "city": "Chicago",
+    "country": "United States",
+    "venue": "Elevator Music",
+    "coords": [
+      41.88,
+      -87.63
+    ],
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3598,
+    "cues": [],
+    "views": 260928,
+    "genres": [
+      "Melodic House"
+    ],
+    "publishedAt": "2025-07-04T19:00:07Z"
+  },
+  {
+    "id": "RVIvSyGZGkE",
+    "title": "Dj Tiësto Live in México l Prismatic l Full Video l Audio Lossless",
+    "artist": "Tiësto",
+    "broadcaster": "David ",
+    "city": null,
+    "country": "Mexico",
+    "venue": "Prismatic",
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 14491,
+    "cues": [
+      0,
+      147,
+      337,
+      633,
+      782,
+      1010,
+      1246,
+      1516,
+      1662,
+      1793,
+      2019,
+      2210,
+      2365,
+      2609,
+      2735,
+      2860,
+      3020,
+      3245,
+      3440,
+      3617,
+      3794,
+      4004,
+      4027,
+      4150,
+      4270,
+      4342,
+      4400,
+      4593,
+      4800,
+      4932,
+      5145,
+      5374,
+      5480,
+      5630,
+      5691,
+      5838,
+      5927,
+      6028,
+      6120,
+      6275,
+      6450,
+      6705,
+      6848,
+      7009,
+      7230,
+      7505,
+      7744,
+      7970,
+      8125,
+      8300,
+      8410,
+      8510,
+      8590,
+      8724,
+      8929,
+      9122,
+      9216,
+      9252,
+      9335,
+      9354,
+      9414,
+      9568,
+      9875
+    ],
+    "views": 179780,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2025-06-17T03:04:19Z"
+  },
+  {
+    "id": "TpCyhn9BL6s",
+    "title": "Boris Brejcha @ Ultra Miami 2025 Resistance, Megastructure",
+    "artist": "Boris Brejcha",
+    "broadcaster": "Electronic Groove Beats",
+    "city": "Miami",
+    "country": "United States",
+    "venue": "Ultra Music Festival (Resistance)",
+    "coords": [
+      25.78,
+      -80.19
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5288,
+    "cues": [],
+    "views": 382909,
+    "genres": [
+      "Minimal Techno"
+    ],
+    "publishedAt": "2025-06-15T02:01:01Z"
+  },
+  {
+    "id": "VHo7A8wZf1Q",
+    "title": "Teho - TNH Radio Mix, 2025",
+    "artist": "Teho",
+    "broadcaster": "This Never Happened",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3585,
+    "cues": [],
+    "views": 28917,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2025-06-05T16:00:51Z"
+  },
+  {
+    "id": "bmPHuq6gNIg",
+    "title": "Neelix Live-Set @ INDIAN SPIRIT 2024",
+    "artist": "Neelix",
+    "broadcaster": "Indian Spirit Festival",
+    "city": null,
+    "country": "Germany",
+    "venue": "Indian Spirit Festival",
+    "coords": null,
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5432,
+    "cues": [],
+    "views": 817514,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2025-05-25T18:00:27Z"
+  },
+  {
+    "id": "d2USUAxBGq0",
+    "title": "Tiësto: In Search Of Sunrise live set at EDC Las Vegas 2025 (Preview)",
+    "artist": "Tiësto",
+    "broadcaster": "Edson Gomes",
+    "city": "Las Vegas",
+    "country": "United States",
+    "venue": "EDC Las Vegas",
+    "coords": [
+      36.27,
+      -115.01
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4660,
+    "cues": [
+      1,
+      270,
+      500,
+      760,
+      1050,
+      1240,
+      1430,
+      1650,
+      1742,
+      1860,
+      2040,
+      2290,
+      2730,
+      3010,
+      3450,
+      3700,
+      4010,
+      4130,
+      4390,
+      4570
+    ],
+    "views": 259075,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2025-05-22T14:24:19Z"
+  },
+  {
+    "id": "wFl_ttYwixk",
+    "title": "Tiësto Live at EDC Las Vegas 2025",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": "Las Vegas",
+    "country": "United States",
+    "venue": "EDC Las Vegas",
+    "coords": [
+      36.27,
+      -115.01
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5461,
+    "cues": [],
+    "views": 3392407,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2025-05-17T09:14:14Z"
+  },
+  {
+    "id": "9FcaUhySrbA",
+    "title": "Tiësto Live at Coachella 2025 - Quasar Stage",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": "Indio",
+    "country": "United States",
+    "venue": "Coachella",
+    "coords": [
+      33.68,
+      -116.24
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5406,
+    "cues": [],
+    "views": 3282559,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2025-04-16T14:53:21Z"
+  },
+  {
+    "id": "Nt2f6IaqruI",
+    "title": "Cosmic Gate: Wake Your Mind Radio 574 [Special: Miami Music Week 2025 @ La Otra]",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": "Miami",
+    "country": "United States",
+    "venue": "La Otra (Miami Music Week)",
+    "coords": [
+      25.77,
+      -80.19
+    ],
+    "setting": "club",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 7327,
+    "cues": [],
+    "views": 19665,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2025-04-07T16:00:06Z"
+  },
+  {
+    "id": "kX-8PBF3_R8",
+    "title": "Phaxe Live-Set @ INDIAN SPIRIT 2024",
+    "artist": "Phaxe",
+    "broadcaster": "Indian Spirit Festival",
+    "city": null,
+    "country": "Germany",
+    "venue": "Indian Spirit Festival",
+    "coords": null,
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4544,
+    "cues": [],
+    "views": 482354,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2025-04-04T16:00:06Z"
+  },
+  {
+    "id": "DI3OxO7fePs",
+    "title": "Tiësto - Live @ Ultra Music Festival Miami 2025",
+    "artist": "Tiësto",
+    "broadcaster": "Lumian Robless",
+    "city": "Miami",
+    "country": "United States",
+    "venue": "Ultra Music Festival",
+    "coords": [
+      25.78,
+      -80.19
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4414,
+    "cues": [],
+    "views": 210723,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2025-03-29T20:12:36Z"
+  },
+  {
+    "id": "R7S7EgCFFyM",
+    "title": "Tiësto Live @ Ultra Music Festival 2016",
+    "artist": "Tiësto",
+    "broadcaster": "Tue Tran",
+    "city": "Miami",
+    "country": "United States",
+    "venue": "Ultra Music Festival",
+    "coords": [
+      25.78,
+      -80.19
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5474,
+    "cues": [],
+    "views": 60936,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2025-03-25T01:23:41Z"
+  },
+  {
+    "id": "Vx727x7Olb8",
+    "title": "Cosmic Gate Live in Malaysia (Full DJ Set) @ Pinkfish Countdown 2024",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Pinkfishfestival ",
+    "city": "Subang Jaya",
+    "country": "Malaysia",
+    "venue": "Pinkfish Festival (Sunway Lagoon)",
+    "coords": [
+      3.07,
+      101.61
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3467,
+    "cues": [],
+    "views": 113939,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2025-03-07T04:00:13Z"
+  },
+  {
+    "id": "_KEQH99fMts",
+    "title": "Cosmic Gate: Bangkok Sunset Set (4K)",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Cosmic Gate",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "venue": null,
+    "coords": [
+      13.76,
+      100.5
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 7387,
+    "cues": [],
+    "views": 1430858,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2025-03-05T17:00:07Z"
+  },
+  {
+    "id": "t9J31SI07VA",
+    "title": "Tiësto Live In Bogota, Colombia 2025 (First Hour)",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": "Bogotá",
+    "country": "Colombia",
+    "venue": null,
+    "coords": [
+      4.71,
+      -74.07
+    ],
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4036,
+    "cues": [
+      0,
+      255,
+      448,
+      643,
+      778,
+      980,
+      1156,
+      1328,
+      1502,
+      1779,
+      1974,
+      2259,
+      2394,
+      2655,
+      2888,
+      3145,
+      3422,
+      3654,
+      3872
+    ],
+    "views": 2429508,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2025-03-03T16:15:04Z"
+  },
+  {
+    "id": "8qKxs-H07hw",
+    "title": "Tiësto 4hr DJ Set Live from Club Space Miami - 24th January 2025",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": "Miami",
+    "country": "United States",
+    "venue": "Club Space",
+    "coords": [
+      25.78,
+      -80.19
+    ],
+    "setting": "club",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 14813,
+    "cues": [],
+    "views": 316549,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2025-02-14T19:02:52Z"
+  },
+  {
+    "id": "dPWSPMTHp7c",
+    "title": "Teho - Shifting (Live At Badaboum, Paris)",
+    "artist": "Teho",
+    "broadcaster": "Teho",
+    "city": "Paris",
+    "country": "France",
+    "venue": "Badaboum",
+    "coords": [
+      48.85,
+      2.38
+    ],
+    "setting": "club",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5625,
+    "cues": [
+      0,
+      389,
+      647,
+      967,
+      1234,
+      1478,
+      1824,
+      2114,
+      2403,
+      2761,
+      3104,
+      3485,
+      3828,
+      4162,
+      4276,
+      4558,
+      4893,
+      5299
+    ],
+    "views": 290696,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2025-01-30T19:30:06Z"
+  },
+  {
+    "id": "QKEBeep9lFI",
+    "title": "Stephan Bodzin Live at Wollman Rink for We Belong Here: Central Park 2024",
+    "artist": "Stephan Bodzin",
+    "broadcaster": "We Belong Here",
+    "city": "New York",
+    "country": "United States",
+    "venue": "Wollman Rink (We Belong Here: Central Park)",
+    "coords": [
+      40.77,
+      -73.97
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5287,
+    "cues": [],
+    "views": 316700,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2025-01-29T15:58:03Z"
+  },
+  {
+    "id": "X5kjX5jMTgU",
+    "title": "Phaxe @ Universo Paralello 24/25 (Full Set Movie)",
+    "artist": "Phaxe",
+    "broadcaster": "Magic Moments Records",
+    "city": "Ituberá",
+    "country": "Brazil",
+    "venue": "Universo Paralello",
+    "coords": [
+      -13.83,
+      -38.98
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5376,
+    "cues": [],
+    "views": 421425,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2025-01-26T17:30:06Z"
+  },
+  {
+    "id": "hOhhVxIDZIg",
+    "title": "Neelix Retro Set at Universo Paralello 2024/ 2025",
+    "artist": "Neelix",
+    "broadcaster": "Neelix",
+    "city": "Ituberá",
+    "country": "Brazil",
+    "venue": "Universo Paralello",
+    "coords": [
+      -13.83,
+      -38.98
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4446,
+    "cues": [],
+    "views": 851834,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2025-01-20T15:30:07Z"
+  },
+  {
+    "id": "y74sI46ibPo",
+    "title": "Tiesto - Live @ Kaleidoscope World Tour (Melbourne 2010), 4K AI Enhanced",
+    "artist": "Tiësto",
+    "broadcaster": "MakeTiestoGreatAgain",
+    "city": "Melbourne",
+    "country": "Australia",
+    "venue": "Kaleidoscope World Tour",
+    "coords": [
+      -37.81,
+      144.96
+    ],
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 6092,
+    "cues": [],
+    "views": 15169,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2025-01-20T04:02:59Z"
+  },
+  {
+    "id": "9d6Y9vEtCQ8",
+    "title": "Boris Brejcha - Christmas Mix 2024",
+    "artist": "Boris Brejcha",
+    "broadcaster": "Boris Brejcha",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4036,
+    "cues": [
+      0,
+      384,
+      730,
+      1103,
+      1444,
+      1830,
+      2200,
+      2621,
+      3040,
+      3322,
+      3580
+    ],
+    "views": 1187660,
+    "genres": [
+      "Minimal Techno"
+    ],
+    "publishedAt": "2024-12-24T11:00:07Z"
+  },
+  {
+    "id": "0b_1GADtPnQ",
+    "title": "Tiësto 4hr DJ Set Live from New York City",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": "New York",
+    "country": "United States",
+    "venue": "Forest Hills Stadium",
+    "coords": [
+      40.72,
+      -73.85
+    ],
+    "setting": "arena",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 14304,
+    "cues": [],
+    "views": 2516194,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2024-11-14T16:37:53Z"
+  },
+  {
+    "id": "PfIsOs5ObZU",
+    "title": "Hozho at Volkswagen Arena, Istanbul (Türkiye) | Full Set",
+    "artist": "Hozho",
+    "broadcaster": "Hozho",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "venue": "Volkswagen Arena",
+    "coords": [
+      41.11,
+      29.02
+    ],
+    "setting": "arena",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 8933,
+    "cues": [],
+    "views": 1065954,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2024-11-03T17:00:07Z"
+  },
+  {
+    "id": "HKYQ4H5xtrk",
+    "title": "Stephan Bodzin | Awakenings ADE Sunday Closing 2024",
+    "artist": "Stephan Bodzin",
+    "broadcaster": "Awakenings",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "venue": "Gashouder (Awakenings ADE)",
+    "coords": [
+      52.39,
+      4.87
+    ],
+    "setting": "warehouse",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5359,
+    "cues": [],
+    "views": 262119,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2024-10-30T16:00:15Z"
+  },
+  {
+    "id": "fgipozjOI10",
+    "title": "Tiësto - AMF 2024 (Live Set)",
+    "artist": "Tiësto",
+    "broadcaster": "INSANEDJSETS TWO",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "venue": "Amsterdam Music Festival (Johan Cruijff ArenA)",
+    "coords": [
+      52.31,
+      4.94
+    ],
+    "setting": "arena",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3540,
+    "cues": [],
+    "views": 114227,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2024-10-20T05:09:41Z"
+  },
+  {
+    "id": "AWxxg3l89-k",
+    "title": "NEELIX Live-Set @ AIRBEAT ONE 2024",
+    "artist": "Neelix",
+    "broadcaster": "AIRBEAT ONE Festival",
+    "city": "Neustadt-Glewe",
+    "country": "Germany",
+    "venue": "Airbeat One",
+    "coords": [
+      53.38,
+      11.59
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5278,
+    "cues": [],
+    "views": 560894,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2024-10-09T18:00:07Z"
+  },
+  {
+    "id": "IOjP7gIAxr4",
+    "title": "Chris Luno | Live from the Anjunakitchen (Melodic and Deep House Mix)",
+    "artist": "Chris Luno",
+    "broadcaster": "Anjunadeep",
+    "city": "London",
+    "country": "United Kingdom",
+    "venue": "Anjunakitchen",
+    "coords": [
+      51.51,
+      -0.13
+    ],
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3622,
+    "cues": [],
+    "views": 228128,
+    "genres": [
+      "Melodic House"
+    ],
+    "publishedAt": "2024-09-29T15:00:29Z"
+  },
+  {
+    "id": "zTguJJfadGQ",
+    "title": "Phaxe  @technostatesweden  Location: Långholmen , Stockholm , @sweden",
+    "artist": "Phaxe",
+    "broadcaster": "ProgPsy",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "venue": "Långholmen (Techno State)",
+    "coords": [
+      59.32,
+      18.03
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5448,
+    "cues": [],
+    "views": 9674,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2024-08-17T18:00:27Z"
+  },
+  {
+    "id": "XCH6vqC2fyc",
+    "title": "TEHO (cercle music) PH03 Project - Toronto",
+    "artist": "Teho",
+    "broadcaster": "PH03 project",
+    "city": "Toronto",
+    "country": "Canada",
+    "venue": "PH03 Project",
+    "coords": [
+      43.65,
+      -79.38
+    ],
+    "setting": "club",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 7031,
+    "cues": [],
+    "views": 7215,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2024-08-11T20:16:34Z"
+  },
+  {
+    "id": "hAaarkvzYMI",
+    "title": "Cosmic Gate: Ibiza Sunset Set 2024 (Amàre Beach Hotel Ibiza)",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Cosmic Gate",
+    "city": "Ibiza",
+    "country": "Spain",
+    "venue": "Amàre Beach Hotel Ibiza",
+    "coords": [
+      38.98,
+      1.29
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4964,
+    "cues": [
+      0,
+      328,
+      530,
+      812,
+      1092,
+      1357,
+      1680,
+      1958,
+      2215,
+      2460,
+      2802,
+      3076,
+      3450,
+      3749,
+      4133,
+      4582
+    ],
+    "views": 1079515,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2024-08-07T17:42:16Z"
+  },
+  {
+    "id": "_tAE50rW1ok",
+    "title": "Neelix - FULL LIVE SET @ Nature One Camping Village 2024",
+    "artist": "Neelix",
+    "broadcaster": "xImBroken",
+    "city": "Kastellaun",
+    "country": "Germany",
+    "venue": "Nature One (Camping Village)",
+    "coords": [
+      50.07,
+      7.44
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 6480,
+    "cues": [],
+    "views": 36086,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2024-08-05T12:41:04Z"
+  },
+  {
+    "id": "A9fuK2XBIC0",
+    "title": "Tiësto - Live @ Tomorrowland 2024",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": "Boom",
+    "country": "Belgium",
+    "venue": "Tomorrowland",
+    "coords": [
+      51.09,
+      4.37
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3560,
+    "cues": [],
+    "views": 7210285,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2024-07-31T15:34:28Z"
+  },
+  {
+    "id": "DCGKemPaScw",
+    "title": "Boris Brejcha WE2 | Tomorrowland 2024",
+    "artist": "Boris Brejcha",
+    "broadcaster": "Tomorrowland",
+    "city": "Boom",
+    "country": "Belgium",
+    "venue": "Tomorrowland",
+    "coords": [
+      51.09,
+      4.37
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3453,
+    "cues": [],
+    "views": 7118775,
+    "genres": [
+      "Minimal Techno"
+    ],
+    "publishedAt": "2024-07-29T15:00:14Z"
+  },
+  {
+    "id": "mrR9Pi5W6iM",
+    "title": "Chris Luno at The Cove | Anjunadeep Explorations 2024 (Deep House DJ Set)",
+    "artist": "Chris Luno",
+    "broadcaster": "Anjunadeep",
+    "city": "Dhërmi",
+    "country": "Albania",
+    "venue": "The Cove (Anjunadeep Explorations)",
+    "coords": [
+      40.15,
+      19.64
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 7549,
+    "cues": [],
+    "views": 116534,
+    "genres": [
+      "Melodic House"
+    ],
+    "publishedAt": "2024-07-28T15:00:44Z"
+  },
+  {
+    "id": "zzyg0m0dn70",
+    "title": "TIËSTO @ KAPPA FUTURFESTIVAL 2024",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": "Turin",
+    "country": "Italy",
+    "venue": "Kappa FuturFestival",
+    "coords": [
+      45.03,
+      7.66
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5311,
+    "cues": [],
+    "views": 1960737,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2024-07-12T14:32:05Z"
+  },
+  {
+    "id": "mcKKudEelac",
+    "title": "Hozho - DJ Mix 04",
+    "artist": "Hozho",
+    "broadcaster": "Hozho",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3604,
+    "cues": [
+      0,
+      177,
+      623,
+      895,
+      1323,
+      1695,
+      2090,
+      2590,
+      2872,
+      3242,
+      3542
+    ],
+    "views": 1696134,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2024-05-26T19:15:08Z"
+  },
+  {
+    "id": "6CSOmZ1bfDE",
+    "title": "Tiësto - Live from EDC Las Vegas 2024",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": "Las Vegas",
+    "country": "United States",
+    "venue": "EDC Las Vegas",
+    "coords": [
+      36.27,
+      -115.01
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4314,
+    "cues": [],
+    "views": 4124629,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2024-05-19T08:46:30Z"
+  },
+  {
+    "id": "ujT0jkgYYL8",
+    "title": "TEHO | NEONAIR LIVE SET",
+    "artist": "Teho",
+    "broadcaster": "NÉONAIR",
+    "city": null,
+    "country": null,
+    "venue": "NÉONAIR",
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 1967,
+    "cues": [],
+    "views": 13705,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2024-05-17T15:20:01Z"
+  },
+  {
+    "id": "o4NtRygW2KQ",
+    "title": "Phaxe | Odyssey 2024",
+    "artist": "Phaxe",
+    "broadcaster": "Lemilica Magazine",
+    "city": "Ocoyoacac",
+    "country": "Mexico",
+    "venue": "Odyssey (La Marquesa)",
+    "coords": [
+      19.3,
+      -99.37
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 1896,
+    "cues": [],
+    "views": 22473,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2024-05-13T20:31:48Z"
+  },
+  {
+    "id": "AfQ8m04Juqw",
+    "title": "PHAXE | Equilibrium 14 Anos | 16/03/2024",
+    "artist": "Phaxe",
+    "broadcaster": "Equilibrium Festival",
+    "city": "Vila Velha",
+    "country": "Brazil",
+    "venue": "Equilibrium Festival",
+    "coords": [
+      -20.33,
+      -40.29
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3669,
+    "cues": [],
+    "views": 428345,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2024-05-09T23:19:08Z"
+  },
+  {
+    "id": "wXdj--UZovs",
+    "title": "deep house mix in south africa - chris luno",
+    "artist": "Chris Luno",
+    "broadcaster": "Chris Luno",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "venue": null,
+    "coords": [
+      -33.92,
+      18.42
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3985,
+    "cues": [
+      0,
+      390,
+      708,
+      965,
+      1233,
+      1567,
+      1839,
+      2214,
+      2520,
+      2857,
+      3119,
+      3398,
+      3669
+    ],
+    "views": 1584726,
+    "genres": [
+      "Melodic House"
+    ],
+    "publishedAt": "2024-04-30T16:00:08Z"
+  },
+  {
+    "id": "UJ7QhP2_0-4",
+    "title": "Cosmic Gate Puerto Vallarta Sunset Set (19.01.22) RE-RELEASE",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Cosmic Gate",
+    "city": "Puerto Vallarta",
+    "country": "Mexico",
+    "venue": null,
+    "coords": [
+      20.65,
+      -105.23
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 7100,
+    "cues": [],
+    "views": 977914,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2024-04-05T13:27:53Z"
+  },
+  {
+    "id": "KO7cYLLFbLw",
+    "title": "TIËSTO - Live @ Ultra Music Festival 2024",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": "Miami",
+    "country": "United States",
+    "venue": "Ultra Music Festival",
+    "coords": [
+      25.78,
+      -80.19
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3803,
+    "cues": [
+      80,
+      183,
+      243,
+      303,
+      363,
+      530,
+      674,
+      790,
+      871,
+      933,
+      1027,
+      1068,
+      1098,
+      1208,
+      1310,
+      1380,
+      1490,
+      1690,
+      1787,
+      1890,
+      1955,
+      2028,
+      2190,
+      2263,
+      2425,
+      2628,
+      2697,
+      2770,
+      2927,
+      3010,
+      3085,
+      3158,
+      3315,
+      3447,
+      3635
+    ],
+    "views": 6742629,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2024-03-23T18:06:42Z"
+  },
+  {
+    "id": "O1G4KVw3j3I",
+    "title": "Phaxe Live Elements Festival 16/10/2022 (Full Set)",
+    "artist": "Phaxe",
+    "broadcaster": "Lit Media",
+    "city": "Jimna",
+    "country": "Australia",
+    "venue": "Elements Festival",
+    "coords": [
+      -26.67,
+      152.47
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5403,
+    "cues": [],
+    "views": 28221,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2024-03-20T19:14:47Z"
+  },
+  {
+    "id": "BXmd3zIyU7M",
+    "title": "sunset deep house mix – chris luno",
+    "artist": "Chris Luno",
+    "broadcaster": "Chris Luno",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3725,
+    "cues": [
+      0,
+      385,
+      685,
+      1034,
+      1310,
+      1649,
+      1921,
+      2134,
+      2470,
+      2790,
+      3065,
+      3372
+    ],
+    "views": 2138142,
+    "genres": [
+      "Melodic House"
+    ],
+    "publishedAt": "2024-03-04T19:00:10Z"
+  },
+  {
+    "id": "NDes97dbkew",
+    "title": "Stephan Bodzin   Fairground Festival 2023   ARTE Concert",
+    "artist": "Stephan Bodzin",
+    "broadcaster": "SynthMasterMusic",
+    "city": null,
+    "country": null,
+    "venue": "Fairground Festival",
+    "coords": null,
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 6851,
+    "cues": [],
+    "views": 14783,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2024-01-27T04:47:04Z"
+  },
+  {
+    "id": "W-ZudclsICM",
+    "title": "Cosmic Gate: Best of 2023 Set",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Cosmic Gate",
+    "city": "Beirut",
+    "country": "Lebanon",
+    "venue": "Odin",
+    "coords": [
+      33.89,
+      35.5
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 6761,
+    "cues": [],
+    "views": 1092259,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2023-12-20T18:54:32Z"
+  },
+  {
+    "id": "AUruNuZS1CA",
+    "title": "STEPHAN BODZIN LIVE @ THE PROJECT BUDAPEST 20-10-2023 by LUCA DEA",
+    "artist": "Stephan Bodzin",
+    "broadcaster": "Luca Dea",
+    "city": "Budapest",
+    "country": "Hungary",
+    "venue": "The Project (Hungarian Railway Museum)",
+    "coords": [
+      47.54,
+      19.1
+    ],
+    "setting": "warehouse",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4244,
+    "cues": [],
+    "views": 32029,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2023-10-25T21:00:07Z"
+  },
+  {
+    "id": "9NmICMjN2-8",
+    "title": "Cosmic Gate: Bali Sunset Set (11. OCT 2023)",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Cosmic Gate",
+    "city": "Bali",
+    "country": "Indonesia",
+    "venue": null,
+    "coords": [
+      -8.41,
+      115.19
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 7277,
+    "cues": [
+      0,
+      314,
+      586,
+      895,
+      1214,
+      1470,
+      1780,
+      2141,
+      2429,
+      2726,
+      2941,
+      3260,
+      3707,
+      3995,
+      4253,
+      4468,
+      4804,
+      5129,
+      5427,
+      5720,
+      6042,
+      6375,
+      6687,
+      7026
+    ],
+    "views": 2011514,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2023-10-11T18:02:44Z"
+  },
+  {
+    "id": "BKLjw9uC190",
+    "title": "Chris Luno - Berlin Cabrio Sunset Mix (@chrisluno)",
+    "artist": "Chris Luno",
+    "broadcaster": "Anjunadeep",
+    "city": "Berlin",
+    "country": "Germany",
+    "venue": null,
+    "coords": [
+      52.52,
+      13.4
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3668,
+    "cues": [
+      0,
+      293,
+      599,
+      840,
+      1103,
+      1396,
+      1746,
+      2022,
+      2260,
+      2610,
+      2834,
+      3150,
+      3391
+    ],
+    "views": 1746312,
+    "genres": [
+      "Melodic House"
+    ],
+    "publishedAt": "2023-08-12T14:00:05Z"
+  },
+  {
+    "id": "fyt3k_TjSLA",
+    "title": "Neelix at NATURE ONE 2023",
+    "artist": "Neelix",
+    "broadcaster": "NATURE ONE",
+    "city": "Kastellaun",
+    "country": "Germany",
+    "venue": "Nature One",
+    "coords": [
+      50.07,
+      7.44
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5415,
+    "cues": [],
+    "views": 577276,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2023-08-11T13:51:08Z"
+  },
+  {
+    "id": "Q7RRbjXorq0",
+    "title": "Neelix - FULL LIVE SET @ Nature One Camping Village 2023",
+    "artist": "Neelix",
+    "broadcaster": "xImBroken",
+    "city": "Kastellaun",
+    "country": "Germany",
+    "venue": "Nature One (Camping Village)",
+    "coords": [
+      50.07,
+      7.44
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4040,
+    "cues": [],
+    "views": 51166,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2023-08-07T18:27:15Z"
+  },
+  {
+    "id": "nkBJzfHpq_A",
+    "title": "Tiësto - Live @ Tomorrowland 2023",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": "Boom",
+    "country": "Belgium",
+    "venue": "Tomorrowland",
+    "coords": [
+      51.09,
+      4.37
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3701,
+    "cues": [],
+    "views": 6382314,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2023-08-04T16:30:08Z"
+  },
+  {
+    "id": "Vm0lZAelVAk",
+    "title": "Chris Luno - Ibiza Deep House Mix @ Ocean Drive Talamanca",
+    "artist": "Chris Luno",
+    "broadcaster": "OD Hotels",
+    "city": "Ibiza",
+    "country": "Spain",
+    "venue": "OD Skybar (Ocean Drive Talamanca)",
+    "coords": [
+      38.91,
+      1.45
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5195,
+    "cues": [
+      0,
+      282,
+      603,
+      847,
+      1112,
+      1355,
+      1661,
+      1950,
+      2152,
+      2446,
+      2640,
+      2895,
+      3108,
+      3353,
+      3604,
+      3833,
+      4122,
+      4404,
+      4565,
+      5084
+    ],
+    "views": 3510744,
+    "genres": [
+      "Melodic House"
+    ],
+    "publishedAt": "2023-07-30T18:00:07Z"
+  },
+  {
+    "id": "fIWRqMLhWbI",
+    "title": "Chris Luno - Sunset Mix - Thailand",
+    "artist": "Chris Luno",
+    "broadcaster": "This Never Happened",
+    "city": null,
+    "country": "Thailand",
+    "venue": null,
+    "coords": null,
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3870,
+    "cues": [
+      0,
+      270,
+      622,
+      935,
+      1190,
+      1492,
+      1824,
+      2202,
+      2470,
+      2768,
+      3101,
+      3373,
+      3639
+    ],
+    "views": 3454604,
+    "genres": [
+      "Melodic House"
+    ],
+    "publishedAt": "2023-06-10T16:00:27Z"
+  },
+  {
+    "id": "As8TaqiAXPc",
+    "title": "Tiësto - Live @ Ultra Music Festival Miami 2023 - Full Set HD",
+    "artist": "Tiësto",
+    "broadcaster": "Lumian Robless",
+    "city": "Miami",
+    "country": "United States",
+    "venue": "Ultra Music Festival",
+    "coords": [
+      25.78,
+      -80.19
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3603,
+    "cues": [],
+    "views": 11582,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2023-05-31T13:09:55Z"
+  },
+  {
+    "id": "yU4yrbUQYlU",
+    "title": "Tiësto - Live from EDC Las Vegas 2023",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": "Las Vegas",
+    "country": "United States",
+    "venue": "EDC Las Vegas",
+    "coords": [
+      36.27,
+      -115.01
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4684,
+    "cues": [],
+    "views": 6629165,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2023-05-21T08:50:17Z"
+  },
+  {
+    "id": "16X93aEquuM",
+    "title": "Neelix Full Set - Baobá Festival 5ª Edição 2023",
+    "artist": "Neelix",
+    "broadcaster": "Baobá Festival",
+    "city": null,
+    "country": "Brazil",
+    "venue": "Baobá Festival",
+    "coords": null,
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5298,
+    "cues": [],
+    "views": 2413955,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2023-05-15T22:00:10Z"
+  },
+  {
+    "id": "wa6tk4WCtp0",
+    "title": "COSMIC GATE | Dreamstate Melbourne 2023 (Full Set)",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Symbiotic",
+    "city": "Melbourne",
+    "country": "Australia",
+    "venue": "Dreamstate",
+    "coords": [
+      -37.81,
+      144.96
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3438,
+    "cues": [],
+    "views": 1315160,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2023-04-26T07:35:16Z"
+  },
+  {
+    "id": "kVA_wmO7doo",
+    "title": "Boris Brejcha | Palacio de los Deportes | Mexico 2023 | 4k 60fps",
+    "artist": "Boris Brejcha",
+    "broadcaster": "Steve Aerostiif",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "venue": "Palacio de los Deportes",
+    "coords": [
+      19.41,
+      -99.1
+    ],
+    "setting": "arena",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 7241,
+    "cues": [],
+    "views": 333628,
+    "genres": [
+      "Minimal Techno"
+    ],
+    "publishedAt": "2023-04-15T00:35:58Z"
+  },
+  {
+    "id": "80HHMmoyEtI",
+    "title": "Hozho at The Concourse Project, Austin (Texas) | Full Set",
+    "artist": "Hozho",
+    "broadcaster": "Hozho",
+    "city": "Austin",
+    "country": "United States",
+    "venue": "The Concourse Project",
+    "coords": [
+      30.17,
+      -97.68
+    ],
+    "setting": "warehouse",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 7770,
+    "cues": [],
+    "views": 2964716,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2023-04-07T16:00:12Z"
+  },
+  {
+    "id": "sw3VTtN9TX4",
+    "title": "Stephan Bodzin @ Resistance Megastructure, Ultra Music Festival Miami",
+    "artist": "Stephan Bodzin",
+    "broadcaster": "STATE",
+    "city": "Miami",
+    "country": "United States",
+    "venue": "Ultra Music Festival (Resistance)",
+    "coords": [
+      25.78,
+      -80.19
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5346,
+    "cues": [
+      0,
+      120,
+      360,
+      660,
+      900,
+      1260,
+      1620,
+      1890,
+      2220,
+      2520,
+      2880,
+      3180,
+      3480,
+      4020,
+      4260,
+      4560,
+      4980
+    ],
+    "views": 1790,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2023-03-31T11:30:26Z"
+  },
+  {
+    "id": "7cMk5ioVGbM",
+    "title": "Phaxe Live Set - Bug Fantasy - Março 2023",
+    "artist": "Phaxe",
+    "broadcaster": "edslti",
+    "city": "Tibau do Sul",
+    "country": "Brazil",
+    "venue": "BUG Open Air (Pipa)",
+    "coords": [
+      -6.23,
+      -35.05
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5788,
+    "cues": [
+      0,
+      302,
+      588,
+      753,
+      820,
+      1131,
+      1360,
+      1481,
+      1695,
+      1935,
+      2213,
+      2475,
+      2586,
+      2864,
+      3115,
+      3441,
+      3697,
+      3920,
+      4222,
+      4442,
+      4800,
+      5170,
+      5300,
+      5463,
+      5530,
+      5705
+    ],
+    "views": 175395,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2023-03-23T00:00:15Z"
+  },
+  {
+    "id": "4K_MN119R_Y",
+    "title": "NEELIX FULL SET @ BLOOM 25 FEBRUARY 2023",
+    "artist": "Neelix",
+    "broadcaster": "Silverfish007",
+    "city": "Geelong",
+    "country": "Australia",
+    "venue": "Bloom",
+    "coords": [
+      -38.15,
+      144.36
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5363,
+    "cues": [],
+    "views": 36119,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2023-02-26T01:54:17Z"
+  },
+  {
+    "id": "KQ3VLy8MkwI",
+    "title": "Cosmic Gate - Ibiza Sunset Set (MOSAIIK Chapter Two Album World Premiere)",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Cosmic Gate",
+    "city": "Ibiza",
+    "country": "Spain",
+    "venue": "Es Vedrà",
+    "coords": [
+      38.87,
+      1.2
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 7111,
+    "cues": [],
+    "views": 2766982,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2023-02-15T19:05:10Z"
+  },
+  {
+    "id": "6DOjjqtfUhA",
+    "title": "Neelix Retro Set at Universo Paralello/ 303 Stage",
+    "artist": "Neelix",
+    "broadcaster": "Neelix",
+    "city": "Ituberá",
+    "country": "Brazil",
+    "venue": "Universo Paralello",
+    "coords": [
+      -13.83,
+      -38.98
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3729,
+    "cues": [],
+    "views": 247078,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2023-02-08T17:00:10Z"
+  },
+  {
+    "id": "fONegAhyBRU",
+    "title": "Neelix at Universo Paralello",
+    "artist": "Neelix",
+    "broadcaster": "Neelix",
+    "city": "Ituberá",
+    "country": "Brazil",
+    "venue": "Universo Paralello",
+    "coords": [
+      -13.83,
+      -38.98
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4985,
+    "cues": [],
+    "views": 3198597,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2023-01-25T17:00:07Z"
+  },
+  {
+    "id": "ZEW7nRoX1jc",
+    "title": "Boris Brejcha - Christmas Mix 2022",
+    "artist": "Boris Brejcha",
+    "broadcaster": "Boris Brejcha",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3993,
+    "cues": [
+      410,
+      795,
+      1212,
+      1598,
+      2018,
+      2385,
+      2753,
+      3158,
+      3582
+    ],
+    "views": 3072700,
+    "genres": [
+      "Minimal Techno"
+    ],
+    "publishedAt": "2022-12-24T11:00:30Z"
+  },
+  {
+    "id": "gsEQejY40E0",
+    "title": "CHRIS LUNO | poolside house mix | DJ-Set (23.12.22)",
+    "artist": "Chris Luno",
+    "broadcaster": "pinqponqMusic",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3786,
+    "cues": [
+      0,
+      353,
+      736,
+      935,
+      1182,
+      1535,
+      1874,
+      2177,
+      2532,
+      2831,
+      3168,
+      3465
+    ],
+    "views": 275186,
+    "genres": [
+      "Melodic House"
+    ],
+    "publishedAt": "2022-12-23T18:31:33Z"
+  },
+  {
+    "id": "SdsKKXy57hw",
+    "title": "Phaxe Live at Universo Paralello Festival 2019/2020 [Full Set]",
+    "artist": "Phaxe",
+    "broadcaster": "Phaxe",
+    "city": "Ituberá",
+    "country": "Brazil",
+    "venue": "Universo Paralello",
+    "coords": [
+      -13.83,
+      -38.98
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3695,
+    "cues": [],
+    "views": 952686,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2022-12-20T21:00:11Z"
+  },
+  {
+    "id": "MCBtR5V9INg",
+    "title": "Stephan Bodzin | Tomorrowland 2022 - WE1",
+    "artist": "Stephan Bodzin",
+    "broadcaster": "Tomorrowland",
+    "city": "Boom",
+    "country": "Belgium",
+    "venue": "Tomorrowland",
+    "coords": [
+      51.09,
+      4.37
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3560,
+    "cues": [],
+    "views": 387809,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2022-11-02T14:30:24Z"
+  },
+  {
+    "id": "47I5uacoTjM",
+    "title": "stephan bodzin at the marktkantine",
+    "artist": "Stephan Bodzin",
+    "broadcaster": "lennart beeldt",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "venue": "Marktkantine",
+    "coords": [
+      52.37,
+      4.87
+    ],
+    "setting": "club",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 8619,
+    "cues": [],
+    "views": 4939,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2022-09-15T11:29:56Z"
+  },
+  {
+    "id": "GNm72iHdyFg",
+    "title": "Tiesto In Concert 2004 - Full Complete Set, DVD Remux HD, (live @ Gelredome Arnhem)",
+    "artist": "Tiësto",
+    "broadcaster": "MakeTiestoGreatAgain",
+    "city": "Arnhem",
+    "country": "Netherlands",
+    "venue": "GelreDome (Tiësto In Concert)",
+    "coords": [
+      51.96,
+      5.89
+    ],
+    "setting": "arena",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 11026,
+    "cues": [
+      0,
+      704,
+      945,
+      1357,
+      1645,
+      1914,
+      2270,
+      2616,
+      3015,
+      3332,
+      3702,
+      3978,
+      4385,
+      4740,
+      5115,
+      5335,
+      5600,
+      5828,
+      6211,
+      6545,
+      6740,
+      6864,
+      7281,
+      7701,
+      8196,
+      8651,
+      9183,
+      9281,
+      9655,
+      9866,
+      10036,
+      10370,
+      11002
+    ],
+    "views": 571630,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2022-09-10T01:22:35Z"
+  },
+  {
+    "id": "BCBQY66sHZ8",
+    "title": "Tiesto In Concert 2003 - Full Complete Set, 4K 2160p HQ, (live @ Gelredome Arnhem)",
+    "artist": "Tiësto",
+    "broadcaster": "MakeTiestoGreatAgain",
+    "city": "Arnhem",
+    "country": "Netherlands",
+    "venue": "GelreDome (Tiësto In Concert)",
+    "coords": [
+      51.96,
+      5.89
+    ],
+    "setting": "arena",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 12479,
+    "cues": [
+      0,
+      131,
+      573,
+      908,
+      1260,
+      1764,
+      1918,
+      2278,
+      2690,
+      2897,
+      3079,
+      3535,
+      3868,
+      4303,
+      4647,
+      4974,
+      5281,
+      5686,
+      5979,
+      6364,
+      6494,
+      6765,
+      7186,
+      7414,
+      7716,
+      8103,
+      8347,
+      8657,
+      9037,
+      9409,
+      9863,
+      10352,
+      10730,
+      10912,
+      11021,
+      11184,
+      11511,
+      12166,
+      12342
+    ],
+    "views": 1375283,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2022-08-13T01:17:04Z"
+  },
+  {
+    "id": "zQytJPNgZQE",
+    "title": "Boris Brejcha | Tomorrowland 2022 - WE3",
+    "artist": "Boris Brejcha",
+    "broadcaster": "Tomorrowland",
+    "city": "Boom",
+    "country": "Belgium",
+    "venue": "Tomorrowland",
+    "coords": [
+      51.09,
+      4.37
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3517,
+    "cues": [],
+    "views": 5658696,
+    "genres": [
+      "Minimal Techno"
+    ],
+    "publishedAt": "2022-08-01T16:00:38Z"
+  },
+  {
+    "id": "JcPeIt2Cehg",
+    "title": "Stephan Bodzin | Tomorrowland 2022 - WE2",
+    "artist": "Stephan Bodzin",
+    "broadcaster": "Tomorrowland",
+    "city": "Boom",
+    "country": "Belgium",
+    "venue": "Tomorrowland",
+    "coords": [
+      51.09,
+      4.37
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 7160,
+    "cues": [],
+    "views": 1292143,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2022-08-01T16:00:10Z"
+  },
+  {
+    "id": "3eKZ_xSr80g",
+    "title": "Tiësto Live @ EDC Las Vegas 2022",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": "Las Vegas",
+    "country": "United States",
+    "venue": "EDC Las Vegas",
+    "coords": [
+      36.27,
+      -115.01
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5226,
+    "cues": [],
+    "views": 4145999,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2022-05-22T08:55:22Z"
+  },
+  {
+    "id": "1MobY_vR7-g",
+    "title": "Boris Brejcha for Cercle at Arènes de Nîmes, France",
+    "artist": "Boris Brejcha",
+    "broadcaster": "Cercle",
+    "city": "Nîmes",
+    "country": "France",
+    "venue": "Arènes de Nîmes (Cercle)",
+    "coords": [
+      43.83,
+      4.36
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 6406,
+    "cues": [
+      0,
+      75,
+      457,
+      791,
+      1148,
+      1569,
+      1924,
+      2297,
+      2664,
+      3033,
+      3432,
+      3846,
+      4171,
+      4507,
+      4870,
+      5260,
+      5640
+    ],
+    "views": 27436253,
+    "genres": [
+      "Minimal Techno"
+    ],
+    "publishedAt": "2022-04-28T14:00:55Z"
+  },
+  {
+    "id": "yckHee_449I",
+    "title": "Cosmic Gate live at A State Of Trance 1000 (Los Angeles - United States)",
+    "artist": "Cosmic Gate",
+    "broadcaster": "A State Of Trance",
+    "city": "Los Angeles",
+    "country": "United States",
+    "venue": "A State of Trance 1000",
+    "coords": [
+      34.05,
+      -118.24
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3639,
+    "cues": [],
+    "views": 73351,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2022-04-15T19:00:17Z"
+  },
+  {
+    "id": "e94gack-DJk",
+    "title": "Tiësto - Live @ Ultra Music Festival 2022",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": "Miami",
+    "country": "United States",
+    "venue": "Ultra Music Festival",
+    "coords": [
+      25.78,
+      -80.19
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 2826,
+    "cues": [],
+    "views": 9071541,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2022-03-29T16:04:27Z"
+  },
+  {
+    "id": "X-lm0GggydE",
+    "title": "Teho / Kars.",
+    "artist": "Teho",
+    "broadcaster": "RIKODISCO",
+    "city": "Kars",
+    "country": "Turkey",
+    "venue": "Sight & Sound Sessions",
+    "coords": [
+      40.6,
+      43.1
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3592,
+    "cues": [],
+    "views": 8958,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2022-03-20T18:00:12Z"
+  },
+  {
+    "id": "uDGO_P8mWi8",
+    "title": "Tiësto - In Search Of Sunrise 6: Ibiza CD1",
+    "artist": "Tiësto",
+    "broadcaster": "trancevoke",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4685,
+    "cues": [
+      0,
+      147,
+      354,
+      681,
+      1021,
+      1391,
+      1688,
+      1956,
+      2324,
+      2708,
+      3033,
+      3514,
+      3935,
+      4223
+    ],
+    "views": 511876,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2022-01-04T16:02:05Z"
+  },
+  {
+    "id": "KlFNX2Wp7-Q",
+    "title": "Tiësto - In Search Of Sunrise 5: Los Angeles Disc: 1",
+    "artist": "Tiësto",
+    "broadcaster": "trancevoke",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4660,
+    "cues": [
+      0,
+      158,
+      512,
+      868,
+      1183,
+      1389,
+      1801,
+      2129,
+      2541,
+      2749,
+      2970,
+      3265,
+      3640,
+      3950,
+      4327
+    ],
+    "views": 583009,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2021-12-28T18:32:47Z"
+  },
+  {
+    "id": "8R_4O3q92Lo",
+    "title": "Tiësto - Live from Edge New York City",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": "New York",
+    "country": "United States",
+    "venue": "Edge (Hudson Yards)",
+    "coords": [
+      40.75,
+      -74
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3752,
+    "cues": [],
+    "views": 14409237,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2021-12-27T23:00:43Z"
+  },
+  {
+    "id": "Oc0P0cd3s7g",
+    "title": "Tiësto - EDC Las Vegas 2021 (Full Set)",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": "Las Vegas",
+    "country": "United States",
+    "venue": "EDC Las Vegas",
+    "coords": [
+      36.27,
+      -115.01
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5342,
+    "cues": [],
+    "views": 3593189,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2021-10-27T14:00:09Z"
+  },
+  {
+    "id": "JqUqyUEwTMY",
+    "title": "Tiësto - In Search Of Sunrise 4: Latin America CD1",
+    "artist": "Tiësto",
+    "broadcaster": "trancevoke",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4670,
+    "cues": [
+      0,
+      435,
+      766,
+      1045,
+      1310,
+      1502,
+      1882,
+      2205,
+      2615,
+      2877,
+      3125,
+      3548,
+      3956,
+      4282
+    ],
+    "views": 666488,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2021-10-17T10:30:54Z"
+  },
+  {
+    "id": "WXylV699HKM",
+    "title": "Tiësto @ Creamfields 2021",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": "Daresbury",
+    "country": "United Kingdom",
+    "venue": "Creamfields",
+    "coords": [
+      53.34,
+      -2.63
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5457,
+    "cues": [],
+    "views": 4887830,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2021-10-02T21:08:50Z"
+  },
+  {
+    "id": "uxYEjo9hKyc",
+    "title": "Boris Brejcha B2B Ann Clue @ Smiling Sun Open Air Stockholm 2017 Video Set",
+    "artist": "Boris Brejcha",
+    "broadcaster": "Boris PL (Boris)",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "venue": "Smiling Sun Open Air",
+    "coords": [
+      59.33,
+      18.07
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 8582,
+    "cues": [],
+    "views": 905514,
+    "genres": [
+      "Minimal Techno"
+    ],
+    "publishedAt": "2021-08-27T18:00:14Z"
+  },
+  {
+    "id": "iZ1vIZDCJyE",
+    "title": "Boris Brejcha live at La Mystique 2019 Video Set",
+    "artist": "Boris Brejcha",
+    "broadcaster": "Boris PL (Boris)",
+    "city": null,
+    "country": null,
+    "venue": "La Mystique",
+    "coords": null,
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 8387,
+    "cues": [],
+    "views": 111690,
+    "genres": [
+      "Minimal Techno"
+    ],
+    "publishedAt": "2021-08-20T18:00:36Z"
+  },
+  {
+    "id": "95eCxDuDIRA",
+    "title": "Cosmic Gate: New York City Sunset Set (MOSAIIK Chapter One Album World Premiere)",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Cosmic Gate",
+    "city": "New York",
+    "country": "United States",
+    "venue": null,
+    "coords": [
+      40.71,
+      -74.01
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 6958,
+    "cues": [
+      0,
+      330,
+      690,
+      1110,
+      1440,
+      1830,
+      2100,
+      2430,
+      2739,
+      3120,
+      3390,
+      3780,
+      4140,
+      4440,
+      4740,
+      4980,
+      5175,
+      5505,
+      5880,
+      6225,
+      6615
+    ],
+    "views": 17322871,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2021-08-18T18:21:32Z"
+  },
+  {
+    "id": "KIvm0RoS3o4",
+    "title": "Cosmic Gate: Mexico Sundowner Set (19.05.2021)",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Cosmic Gate",
+    "city": "San Miguel de Allende",
+    "country": "Mexico",
+    "venue": null,
+    "coords": [
+      20.91,
+      -100.74
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 7310,
+    "cues": [
+      0,
+      295,
+      550,
+      780,
+      1157,
+      1482,
+      1835,
+      2149,
+      2445,
+      2808,
+      3063,
+      3413,
+      3636,
+      4109,
+      4420,
+      4728,
+      4927,
+      5271,
+      5563,
+      5847,
+      6084,
+      6334,
+      6662,
+      7043
+    ],
+    "views": 5486488,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2021-05-19T18:24:06Z"
+  },
+  {
+    "id": "eCkhSKT2KjE",
+    "title": "Chris Luno Tech-House Set @ RAVE Music",
+    "artist": "Chris Luno",
+    "broadcaster": "RAVE Music",
+    "city": null,
+    "country": null,
+    "venue": "RAVE Music",
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3604,
+    "cues": [],
+    "views": 9160,
+    "genres": [
+      "Melodic House"
+    ],
+    "publishedAt": "2021-04-29T08:24:22Z"
+  },
+  {
+    "id": "Yw_0TU2h5pU",
+    "title": "Joachim Pastor studio live (august 2020)",
+    "artist": "Joachim Pastor",
+    "broadcaster": "Joachim Pastor",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3248,
+    "cues": [],
+    "views": 67307,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2021-04-27T15:00:12Z"
+  },
+  {
+    "id": "FVplOmT4ofg",
+    "title": "Hozho - Quarantine Mix 3 (Old Sanatorium, Caramulo, Portugal)",
+    "artist": "Hozho",
+    "broadcaster": "Hozho",
+    "city": "Caramulo",
+    "country": "Portugal",
+    "venue": "Old Sanatorium",
+    "coords": [
+      40.57,
+      -8.17
+    ],
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3641,
+    "cues": [],
+    "views": 2841712,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2021-04-24T19:00:15Z"
+  },
+  {
+    "id": "ZIe6ewvmWnU",
+    "title": "Cosmic Gate: Miami Open Skies Set (March 2021)",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Cosmic Gate",
+    "city": "Miami",
+    "country": "United States",
+    "venue": null,
+    "coords": [
+      25.76,
+      -80.19
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 7164,
+    "cues": [],
+    "views": 4846733,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2021-03-25T18:28:36Z"
+  },
+  {
+    "id": "FbqHt0CaeI4",
+    "title": "Chris Luno Melodic House Mix at the Planetarium",
+    "artist": "Chris Luno",
+    "broadcaster": "Kittball Records",
+    "city": "Bochum",
+    "country": "Germany",
+    "venue": "Planetarium Bochum",
+    "coords": [
+      51.49,
+      7.23
+    ],
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3838,
+    "cues": [
+      0,
+      259,
+      600,
+      952,
+      1263,
+      1604,
+      1866,
+      2226,
+      2512,
+      2786,
+      3000,
+      3289,
+      3599
+    ],
+    "views": 197092,
+    "genres": [
+      "Melodic House"
+    ],
+    "publishedAt": "2021-03-21T17:00:16Z"
+  },
+  {
+    "id": "pCFNnAjp-Wg",
+    "title": "Boris Brejcha High-Tech Minimal mix | Live recording | Tillsammans XL Stockholm | Tracklist incl",
+    "artist": "Boris Brejcha",
+    "broadcaster": "Pocketbeat",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "venue": "Tillsammans XL",
+    "coords": [
+      59.33,
+      18.07
+    ],
+    "setting": "club",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 7076,
+    "cues": [
+      0,
+      74,
+      415,
+      916,
+      1309,
+      1664,
+      2058,
+      2498,
+      2836,
+      3282,
+      3694,
+      4017,
+      4368,
+      4702,
+      5129,
+      5528,
+      5856,
+      6259,
+      6560
+    ],
+    "views": 1568697,
+    "genres": [
+      "Minimal Techno"
+    ],
+    "publishedAt": "2021-03-19T16:00:33Z"
+  },
+  {
+    "id": "MECJGCbHZBw",
+    "title": "Chris Luno House Set x Kittball Radio",
+    "artist": "Chris Luno",
+    "broadcaster": "Kittball Records",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3641,
+    "cues": [
+      0,
+      302,
+      429,
+      789,
+      1050,
+      1414,
+      1736,
+      2040,
+      2357,
+      2638,
+      2950,
+      3229
+    ],
+    "views": 229125,
+    "genres": [
+      "Melodic House"
+    ],
+    "publishedAt": "2021-01-28T23:00:12Z"
+  },
+  {
+    "id": "W4fApObciDU",
+    "title": "Boris Brejcha - HD Rare Full Live set  @ Techno In Concert, 20 October 2020",
+    "artist": "Boris Brejcha",
+    "broadcaster": "High - Tech Minimal U.K.",
+    "city": null,
+    "country": null,
+    "venue": "Techno In Concert",
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5432,
+    "cues": [
+      0,
+      107,
+      373,
+      749,
+      1098,
+      1472,
+      1980,
+      2291,
+      2657,
+      3063,
+      3391,
+      3749,
+      4153,
+      4546,
+      4916
+    ],
+    "views": 1433111,
+    "genres": [
+      "Minimal Techno"
+    ],
+    "publishedAt": "2021-01-20T20:45:54Z"
+  },
+  {
+    "id": "qYhOxrqMk2Y",
+    "title": "Cosmic Gate - New Set 2020 (Great Artists 2 hours set in Miami Beach)",
+    "artist": "Cosmic Gate",
+    "broadcaster": "George Devno",
+    "city": "Miami",
+    "country": "United States",
+    "venue": null,
+    "coords": [
+      25.79,
+      -80.13
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 7194,
+    "cues": [],
+    "views": 397487,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2021-01-18T19:49:07Z"
+  },
+  {
+    "id": "ANccJJrP6qA",
+    "title": "STEPHAN BODZIN live at Loveland Festival 2018 | REMASTERED SET | Loveland Legacy Series",
+    "artist": "Stephan Bodzin",
+    "broadcaster": "Loveland",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "venue": "Loveland Festival",
+    "coords": [
+      52.37,
+      4.81
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5558,
+    "cues": [],
+    "views": 71341,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2021-01-01T05:15:09Z"
+  },
+  {
+    "id": "Nv_VbmDqqSk",
+    "title": "Hozho @ Spark The New Year with BURN Gold Spark",
+    "artist": "Hozho",
+    "broadcaster": "Big Burn Istanbul",
+    "city": null,
+    "country": null,
+    "venue": "Spark The New Year (Burn)",
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 7155,
+    "cues": [],
+    "views": 248134,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2020-12-31T12:55:44Z"
+  },
+  {
+    "id": "8XvOhn7minE",
+    "title": "Cosmic Gate: Best Of 2020 Set (Miami Beach 18. DEC 20)",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Cosmic Gate",
+    "city": "Miami",
+    "country": "United States",
+    "venue": null,
+    "coords": [
+      25.79,
+      -80.13
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 7194,
+    "cues": [
+      0,
+      307,
+      775,
+      1079,
+      1470,
+      1827,
+      2127,
+      2539,
+      2852,
+      3187,
+      3384,
+      3664,
+      4010,
+      4362,
+      4699,
+      5078,
+      5468,
+      5791,
+      6061,
+      6414,
+      6827
+    ],
+    "views": 12327658,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2020-12-29T21:09:43Z"
+  },
+  {
+    "id": "wIPY_8FzU-s",
+    "title": "Phaxe Set ( Merry Christmas 2020 )",
+    "artist": "Phaxe",
+    "broadcaster": "Universe Trance",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3680,
+    "cues": [
+      0,
+      384,
+      739,
+      1003,
+      1292,
+      1424,
+      1723,
+      2057,
+      2350,
+      2675,
+      2890,
+      3148,
+      3399
+    ],
+    "views": 9865,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2020-12-22T01:33:15Z"
+  },
+  {
+    "id": "TiJReECOyRA",
+    "title": "TIËSTO THE SOUND OF TIËSTO (DVD 2) HD",
+    "artist": "Tiësto",
+    "broadcaster": "THE BEST DJS",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "venue": "Elements of Life World Tour",
+    "coords": [
+      55.68,
+      12.57
+    ],
+    "setting": "arena",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 7705,
+    "cues": [],
+    "views": 94924,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2020-11-21T19:28:11Z"
+  },
+  {
+    "id": "Mjq7kbMM0Bg",
+    "title": "TIËSTO ELEMENTS OF LIFE (DVD 1) HD",
+    "artist": "Tiësto",
+    "broadcaster": "THE BEST DJS",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "venue": "Elements of Life World Tour",
+    "coords": [
+      55.68,
+      12.57
+    ],
+    "setting": "arena",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 7501,
+    "cues": [],
+    "views": 557936,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2020-11-21T18:26:36Z"
+  },
+  {
+    "id": "2iP_2PsnLSg",
+    "title": "JOACHIM PASTOR | set at DGTL Amsterdam 2019",
+    "artist": "Joachim Pastor",
+    "broadcaster": "DGTL Festival",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "venue": "DGTL",
+    "coords": [
+      52.4,
+      4.89
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3601,
+    "cues": [],
+    "views": 2796,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2020-11-12T12:00:00Z"
+  },
+  {
+    "id": "o6ut_S62Sts",
+    "title": "Chris Luno - 15 Years Kittball Records x @beatport Livestream",
+    "artist": "Chris Luno",
+    "broadcaster": "Kittball Records",
+    "city": null,
+    "country": null,
+    "venue": "Kittball x Beatport Live",
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3612,
+    "cues": [],
+    "views": 68742,
+    "genres": [
+      "Melodic House"
+    ],
+    "publishedAt": "2020-10-20T22:00:06Z"
+  },
+  {
+    "id": "VP8lIPVWhuI",
+    "title": "Teho - \"Polytone\" Live",
+    "artist": "Teho",
+    "broadcaster": "Teho",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3371,
+    "cues": [
+      0,
+      169,
+      434,
+      672,
+      876,
+      1064,
+      1242,
+      1512,
+      1780,
+      2059,
+      2408,
+      2764,
+      3126
+    ],
+    "views": 136280,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2020-08-30T18:30:10Z"
+  },
+  {
+    "id": "66vkebZhrLo",
+    "title": "BORIS BREJCHA at Bevip Prague - Exclusive Live Set",
+    "artist": "Boris Brejcha",
+    "broadcaster": "Sun Stage.",
+    "city": "Prague",
+    "country": "Czechia",
+    "venue": "Bevip",
+    "coords": [
+      50.08,
+      14.44
+    ],
+    "setting": "club",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 8403,
+    "cues": [
+      0,
+      142,
+      500,
+      902,
+      1310,
+      1610,
+      2100,
+      2530,
+      2883,
+      3260,
+      3639,
+      3980,
+      4337,
+      4650,
+      5010,
+      5382,
+      5772,
+      6115,
+      6405,
+      6738,
+      7199,
+      7501,
+      7975
+    ],
+    "views": 1379119,
+    "genres": [
+      "Minimal Techno"
+    ],
+    "publishedAt": "2020-08-01T20:01:00Z"
+  },
+  {
+    "id": "5FIUaVUhHaY",
+    "title": "Hozho - Yin Yang Anniversary (Special Set)",
+    "artist": "Hozho",
+    "broadcaster": "Hozho",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4857,
+    "cues": [],
+    "views": 182788,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2020-06-30T18:00:12Z"
+  },
+  {
+    "id": "do3EykD8j2A",
+    "title": "Tiësto - In Search Of Sunrise 7: Asia - CD1",
+    "artist": "Tiësto",
+    "broadcaster": "ILoveMusic",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4127,
+    "cues": [
+      0,
+      129,
+      388,
+      653,
+      948,
+      1302,
+      1610,
+      1947,
+      2269,
+      2575,
+      2939,
+      3302,
+      3607,
+      4007
+    ],
+    "views": 456358,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2020-06-21T10:51:36Z"
+  },
+  {
+    "id": "SHn_2eO9XaA",
+    "title": "Joachim Pastor Live set - Armada Music Showcase | @beatport Live",
+    "artist": "Joachim Pastor",
+    "broadcaster": "Beatport",
+    "city": null,
+    "country": null,
+    "venue": "Armada Music Showcase (Beatport Live)",
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3603,
+    "cues": [],
+    "views": 12155,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2020-06-20T07:06:26Z"
+  },
+  {
+    "id": "YzGiEfMMk14",
+    "title": "Cosmic Gate - Miami Balcony Rave Set (02. May 2020)",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Cosmic Gate",
+    "city": "Miami",
+    "country": "United States",
+    "venue": "Icon Bay",
+    "coords": [
+      25.8,
+      -80.19
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5264,
+    "cues": [],
+    "views": 2616822,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2020-05-27T18:06:08Z"
+  },
+  {
+    "id": "TxJaXE9MTBs",
+    "title": "Hozho - Quarantine Mix 2",
+    "artist": "Hozho",
+    "broadcaster": "Hozho",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3937,
+    "cues": [],
+    "views": 1563960,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2020-05-24T18:00:10Z"
+  },
+  {
+    "id": "8Zvyis2lWVM",
+    "title": "Neelix Live 2012",
+    "artist": "Neelix",
+    "broadcaster": "Neelix - Topic",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3436,
+    "cues": [],
+    "views": 180968,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2020-05-22T17:25:09Z"
+  },
+  {
+    "id": "DrIAUmiNuxY",
+    "title": "Boris Brejcha Live Set Abril 2020",
+    "artist": "Boris Brejcha",
+    "broadcaster": "Maximiliano Bacini",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3424,
+    "cues": [],
+    "views": 708179,
+    "genres": [
+      "Minimal Techno"
+    ],
+    "publishedAt": "2020-05-16T14:46:55Z"
+  },
+  {
+    "id": "sZkhWUBoPos",
+    "title": "Joachim Pastor - Live Set 07.05.2020",
+    "artist": "Joachim Pastor",
+    "broadcaster": "Jens Rosenschmidt",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4870,
+    "cues": [],
+    "views": 378879,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2020-05-16T08:53:42Z"
+  },
+  {
+    "id": "M_6czkUQV0g",
+    "title": "Neelix - Birth - Set",
+    "artist": "Neelix",
+    "broadcaster": "Neelix",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3678,
+    "cues": [
+      0,
+      64,
+      338,
+      662,
+      865,
+      953,
+      1075,
+      1294,
+      1454,
+      1690,
+      1869,
+      2065,
+      2319,
+      2646,
+      2700,
+      2816,
+      2927,
+      3135,
+      3422
+    ],
+    "views": 736999,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2020-05-08T08:22:16Z"
+  },
+  {
+    "id": "v2dSpsuBJGI",
+    "title": "Tiësto - AFTR:HRS Live Stream",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": null,
+    "country": null,
+    "venue": "AFTR:HRS (Beatport Live)",
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3632,
+    "cues": [],
+    "views": 432868,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2020-04-24T19:00:19Z"
+  },
+  {
+    "id": "ErxyunQ7joA",
+    "title": "Cosmic Gate - Classic Set From New York Rooftop",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Cosmic Gate",
+    "city": "New York",
+    "country": "United States",
+    "venue": null,
+    "coords": [
+      40.71,
+      -74.01
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 7181,
+    "cues": [
+      0,
+      52,
+      395,
+      750,
+      1166,
+      1568,
+      1990,
+      2347,
+      2789,
+      3215,
+      3531,
+      3986,
+      4412,
+      4763,
+      5124,
+      5520,
+      5844,
+      6203,
+      6595,
+      6837
+    ],
+    "views": 3247022,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2020-04-23T05:10:11Z"
+  },
+  {
+    "id": "5wep-Bf5RIk",
+    "title": "Phaxe @ Unite - Psytrance Sessions",
+    "artist": "Phaxe",
+    "broadcaster": "UNITE Let The Music Unite Us",
+    "city": null,
+    "country": null,
+    "venue": "Unite",
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3341,
+    "cues": [],
+    "views": 127300,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2020-04-19T08:06:36Z"
+  },
+  {
+    "id": "x2rkGJyHklQ",
+    "title": "Phaxe Live @ Unite",
+    "artist": "Phaxe",
+    "broadcaster": "Season Bookings",
+    "city": null,
+    "country": null,
+    "venue": "Unite",
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 2125,
+    "cues": [],
+    "views": 146653,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2020-04-19T08:06:21Z"
+  },
+  {
+    "id": "YOq4yaTkXC0",
+    "title": "Phaxe Live at Universo Paralello 2019/2020",
+    "artist": "Phaxe",
+    "broadcaster": "Phaxe",
+    "city": "Ituberá",
+    "country": "Brazil",
+    "venue": "Universo Paralello",
+    "coords": [
+      -13.83,
+      -38.98
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3680,
+    "cues": [
+      0,
+      384,
+      739,
+      1003,
+      1292,
+      1424,
+      1723,
+      2057,
+      2350,
+      2675,
+      2890,
+      3148,
+      3399
+    ],
+    "views": 347664,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2020-04-14T20:36:57Z"
+  },
+  {
+    "id": "fa6X9bgmD-Q",
+    "title": "Hozho @ CONJURUS, Buenos Aires, Argentina for FP BEATS",
+    "artist": "Hozho",
+    "broadcaster": "FP BEATS",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "venue": "Conjurus",
+    "coords": [
+      -34.6,
+      -58.38
+    ],
+    "setting": "club",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 10773,
+    "cues": [],
+    "views": 297766,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2020-04-12T20:00:12Z"
+  },
+  {
+    "id": "JlOHyGUUzNU",
+    "title": "Hozho - Quarantine Mix [UNEXPECTED SET]",
+    "artist": "Hozho",
+    "broadcaster": "Hozho",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3643,
+    "cues": [],
+    "views": 713527,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2020-04-03T18:00:12Z"
+  },
+  {
+    "id": "fiWaSMLo0hY",
+    "title": "Hozho - Heaven Mixology Podcast #085 (Live @ Rostov, Russia)",
+    "artist": "Hozho",
+    "broadcaster": "Hozho",
+    "city": "Rostov-on-Don",
+    "country": "Russia",
+    "venue": "Heaven Mixology Bar",
+    "coords": [
+      47.24,
+      39.7
+    ],
+    "setting": "club",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 7171,
+    "cues": [],
+    "views": 205436,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2020-03-09T19:42:25Z"
+  },
+  {
+    "id": "6jkN8DsjsYQ",
+    "title": "Neelix - Let's Just Leave",
+    "artist": "Neelix",
+    "broadcaster": "Neelix",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3653,
+    "cues": [
+      0,
+      34,
+      326,
+      471,
+      629,
+      800,
+      1032,
+      1195,
+      1385,
+      1644,
+      1808,
+      2101,
+      2308,
+      2425,
+      2558,
+      2771,
+      3000,
+      3200,
+      3453,
+      3594
+    ],
+    "views": 1831403,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2020-03-05T07:54:17Z"
+  },
+  {
+    "id": "BjXccPau2SY",
+    "title": "Cosmic Gate Live at Transmission Festival Prague 2019",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Cosmic Gate",
+    "city": "Prague",
+    "country": "Czechia",
+    "venue": "Transmission (O2 arena)",
+    "coords": [
+      50.1,
+      14.49
+    ],
+    "setting": "arena",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4480,
+    "cues": [],
+    "views": 363172,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2019-10-30T16:51:20Z"
+  },
+  {
+    "id": "vJvlHB0K8q8",
+    "title": "COSMIC GATE ▼ TRANSMISSION PRAGUE 2019: Another Dimension",
+    "artist": "Cosmic Gate",
+    "broadcaster": "United Music Events #weareonthemission",
+    "city": "Prague",
+    "country": "Czechia",
+    "venue": "Transmission (O2 arena)",
+    "coords": [
+      50.1,
+      14.49
+    ],
+    "setting": "arena",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4489,
+    "cues": [
+      0,
+      140,
+      606,
+      963,
+      1247,
+      1507,
+      1888,
+      2228,
+      2523,
+      2874,
+      3165,
+      3486,
+      3601,
+      3833,
+      4168
+    ],
+    "views": 273505,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2019-10-24T15:58:44Z"
+  },
+  {
+    "id": "_hyG_f7Hyk4",
+    "title": "Phaxe - Liveset",
+    "artist": "Phaxe",
+    "broadcaster": "music collection by ms",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3987,
+    "cues": [],
+    "views": 296785,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2019-10-23T22:59:17Z"
+  },
+  {
+    "id": "w5PPioLvkb8",
+    "title": "Phaxe vs Morten Granau - Live Set Ib0g@ 2019",
+    "artist": "Phaxe",
+    "broadcaster": "Morph3us",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3519,
+    "cues": [],
+    "views": 246663,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2019-10-20T16:03:45Z"
+  },
+  {
+    "id": "z7F0GIl2VzA",
+    "title": "Hozho - Melodark Minimal Techno (2 Hours DJ Set)",
+    "artist": "Hozho",
+    "broadcaster": "Hozho",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 7212,
+    "cues": [],
+    "views": 601513,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2019-09-23T01:43:11Z"
+  },
+  {
+    "id": "NH7qvgx59lA",
+    "title": "Cosmic Gate - Live at Nature One Festival 2019",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Cosmic Gate",
+    "city": "Kastellaun",
+    "country": "Germany",
+    "venue": "Nature One",
+    "coords": [
+      50.07,
+      7.44
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5473,
+    "cues": [],
+    "views": 271083,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2019-09-12T11:44:15Z"
+  },
+  {
+    "id": "keAW7CDF3_0",
+    "title": "Tiësto - Live @ Tomorrowland 2019",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": "Boom",
+    "country": "Belgium",
+    "venue": "Tomorrowland",
+    "coords": [
+      51.09,
+      4.37
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3573,
+    "cues": [],
+    "views": 18046697,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2019-07-20T02:41:59Z"
+  },
+  {
+    "id": "xSLvyAVFINc",
+    "title": "Cosmic Gate [FULL SET] @ Luminosity Beach Festival 30-06-2019",
+    "artist": "Cosmic Gate",
+    "broadcaster": "LuminosityEvents",
+    "city": "Bloemendaal",
+    "country": "Netherlands",
+    "venue": "Luminosity Beach Festival",
+    "coords": [
+      52.4,
+      4.56
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4379,
+    "cues": [],
+    "views": 54478,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2019-07-13T17:41:51Z"
+  },
+  {
+    "id": "YeMPrHYmbYs",
+    "title": "NEELIX - FULL LIVE SET @ NIBIRII Festival 2019",
+    "artist": "Neelix",
+    "broadcaster": "Aerochrone",
+    "city": "Düren",
+    "country": "Germany",
+    "venue": "Nibirii Festival",
+    "coords": [
+      50.8,
+      6.45
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5528,
+    "cues": [],
+    "views": 2887012,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2019-07-12T14:26:27Z"
+  },
+  {
+    "id": "vqz8c4ZP3Wg",
+    "title": "Boris Brejcha at Grand Palais in Paris, France for Cercle",
+    "artist": "Boris Brejcha",
+    "broadcaster": "Cercle",
+    "city": "Paris",
+    "country": "France",
+    "venue": "Grand Palais (Cercle)",
+    "coords": [
+      48.87,
+      2.31
+    ],
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 8028,
+    "cues": [
+      0,
+      521,
+      1011,
+      1297,
+      1678,
+      2103,
+      2402,
+      2879,
+      3239,
+      3543,
+      3899,
+      4322,
+      4743,
+      5098,
+      5461,
+      5817,
+      6239,
+      6541,
+      6960,
+      7490
+    ],
+    "views": 69114819,
+    "genres": [
+      "Minimal Techno"
+    ],
+    "publishedAt": "2019-06-13T14:00:03Z"
+  },
+  {
+    "id": "Fu6aNpGxaVk",
+    "title": "Tiësto - Live @ Electric Daisy Carnival Las Vegas 2019",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": "Las Vegas",
+    "country": "United States",
+    "venue": "EDC Las Vegas",
+    "coords": [
+      36.27,
+      -115.01
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3603,
+    "cues": [],
+    "views": 5009872,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2019-05-20T04:00:00Z"
+  },
+  {
+    "id": "xC7_OZFabHQ",
+    "title": "#PHAXE & MORTEN GRANAU LIVE SET",
+    "artist": "Phaxe",
+    "broadcaster": "DNA 999",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5568,
+    "cues": [],
+    "views": 55984,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2019-05-11T07:17:15Z"
+  },
+  {
+    "id": "KvwZUQ3eB4k",
+    "title": "Tiësto - Live @ Lollapalooza Argentina 2019",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "venue": "Lollapalooza Argentina",
+    "coords": [
+      -34.48,
+      -58.52
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4532,
+    "cues": [],
+    "views": 4978441,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2019-03-31T19:23:09Z"
+  },
+  {
+    "id": "KzuB3rs4HHw",
+    "title": "Cosmic Gate live at A State Of Trance 900, Utrecht 2019",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Cosmic Gate",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "venue": "A State of Trance 900",
+    "coords": [
+      52.09,
+      5.11
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3618,
+    "cues": [],
+    "views": 1542734,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2019-03-01T17:16:30Z"
+  },
+  {
+    "id": "B6FBvq-13rs",
+    "title": "Tiesto - Live @ Cream, Amnesia Ibiza [2005-08-04] ESSENTIAL MIX BBC RADIO ONE",
+    "artist": "Tiësto",
+    "broadcaster": "Driving Music",
+    "city": "Ibiza",
+    "country": "Spain",
+    "venue": "Amnesia (Cream)",
+    "coords": [
+      38.95,
+      1.41
+    ],
+    "setting": "club",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 7112,
+    "cues": [],
+    "views": 70091,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2019-01-10T04:35:04Z"
+  },
+  {
+    "id": "J0Q1jmtUT5c",
+    "title": "Phaxe & Morten Granau - Live Set",
+    "artist": "Phaxe",
+    "broadcaster": "music collection by ms",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5568,
+    "cues": [],
+    "views": 484495,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2019-01-07T12:04:12Z"
+  },
+  {
+    "id": "4eHLdo7Wa0Y",
+    "title": "Neelix - On My Own (1hr Livemix)",
+    "artist": "Neelix",
+    "broadcaster": "music collection by ms",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3361,
+    "cues": [],
+    "views": 371764,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2019-01-02T16:29:41Z"
+  },
+  {
+    "id": "8JpcZ5Hj6So",
+    "title": "HOZHO @ BEVIP pop-up | Prague, CZ | 10.11.2018",
+    "artist": "Hozho",
+    "broadcaster": "BEVIP tube",
+    "city": "Prague",
+    "country": "Czechia",
+    "venue": "Bevip pop-up",
+    "coords": [
+      50.08,
+      14.44
+    ],
+    "setting": "club",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 8572,
+    "cues": [],
+    "views": 74377,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2018-11-16T18:13:03Z"
+  },
+  {
+    "id": "ZzBQFfjCESo",
+    "title": "Joachim Pastor - Amsterdam Live Set [2018]",
+    "artist": "Joachim Pastor",
+    "broadcaster": "Always Music",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "venue": null,
+    "coords": [
+      52.37,
+      4.9
+    ],
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3906,
+    "cues": [],
+    "views": 68756,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2018-09-07T14:30:02Z"
+  },
+  {
+    "id": "6MsUSXMGpmY",
+    "title": "Neelix | Universo Paralello Festival 2017 -2018 | By Up Audiovisual (( FULL SET ))",
+    "artist": "Neelix",
+    "broadcaster": "Up Audiovisual",
+    "city": "Ituberá",
+    "country": "Brazil",
+    "venue": "Universo Paralello",
+    "coords": [
+      -13.83,
+      -38.98
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4460,
+    "cues": [],
+    "views": 85657,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2018-08-31T15:00:00Z"
+  },
+  {
+    "id": "c9fgxjm3RX8",
+    "title": "Neelix - One Moment (1hr Mix, New Songs)",
+    "artist": "Neelix",
+    "broadcaster": "music collection by ms",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3519,
+    "cues": [],
+    "views": 885850,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2018-08-21T14:38:06Z"
+  },
+  {
+    "id": "FSNcXegRhcE",
+    "title": "Hozho - DJ Mix 03 (Live @ Jardins Efémeros, Viseu)",
+    "artist": "Hozho",
+    "broadcaster": "Hozho",
+    "city": "Viseu",
+    "country": "Portugal",
+    "venue": "Jardins Efémeros",
+    "coords": [
+      40.66,
+      -7.91
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4066,
+    "cues": [
+      0,
+      173,
+      665,
+      1096,
+      1429,
+      1935,
+      2468,
+      2805,
+      3091,
+      3560
+    ],
+    "views": 11727748,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2018-08-19T16:37:07Z"
+  },
+  {
+    "id": "buCD-_1UPn4",
+    "title": "Boris Brejcha @ Tomorrowland Belgium 2018",
+    "artist": "Boris Brejcha",
+    "broadcaster": "Boris Brejcha",
+    "city": "Boom",
+    "country": "Belgium",
+    "venue": "Tomorrowland",
+    "coords": [
+      51.09,
+      4.37
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5415,
+    "cues": [
+      0,
+      105,
+      470,
+      815,
+      1102,
+      1600,
+      1935,
+      2366,
+      2738,
+      3105,
+      3494,
+      3865,
+      4209,
+      4633,
+      5008
+    ],
+    "views": 118116652,
+    "genres": [
+      "Minimal Techno"
+    ],
+    "publishedAt": "2018-08-07T18:41:00Z"
+  },
+  {
+    "id": "gRP_uqpntHE",
+    "title": "Tiësto - Live @ Tomorrowland 2018",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": "Boom",
+    "country": "Belgium",
+    "venue": "Tomorrowland",
+    "coords": [
+      51.09,
+      4.37
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3425,
+    "cues": [],
+    "views": 12539998,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2018-07-28T18:54:07Z"
+  },
+  {
+    "id": "xF_QkfZI1mM",
+    "title": "Stephan Bodzin live for Cercle at Piz Gloria, Switzerland",
+    "artist": "Stephan Bodzin",
+    "broadcaster": "Cercle",
+    "city": "Mürren",
+    "country": "Switzerland",
+    "venue": "Piz Gloria (Cercle)",
+    "coords": [
+      46.56,
+      7.84
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 6213,
+    "cues": [
+      0,
+      295,
+      535,
+      925,
+      1006,
+      1319,
+      1570,
+      1990,
+      2440,
+      3175,
+      3470,
+      3785,
+      4202,
+      4550,
+      4858,
+      5260,
+      5679
+    ],
+    "views": 16343651,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2018-07-26T13:32:20Z"
+  },
+  {
+    "id": "h2_BtPwoYrE",
+    "title": "Phaxe & Morten , Granau Live Set 2018 (Official)",
+    "artist": "Phaxe",
+    "broadcaster": "Berlin Style",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5594,
+    "cues": [],
+    "views": 1439,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2018-06-12T17:25:50Z"
+  },
+  {
+    "id": "yz0hcsIkj1A",
+    "title": "Joachim Pastor en BudLab Barcelona",
+    "artist": "Joachim Pastor",
+    "broadcaster": "BudweiserES",
+    "city": "Barcelona",
+    "country": "Spain",
+    "venue": "BudLab",
+    "coords": [
+      41.39,
+      2.17
+    ],
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 8936,
+    "cues": [],
+    "views": 1378,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2018-05-10T20:55:22Z"
+  },
+  {
+    "id": "dyoCaiUzv7M",
+    "title": "Neelix - Mayday 2018",
+    "artist": "Neelix",
+    "broadcaster": "trancerus us",
+    "city": "Dortmund",
+    "country": "Germany",
+    "venue": "Mayday (Westfalenhallen)",
+    "coords": [
+      51.5,
+      7.46
+    ],
+    "setting": "arena",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4641,
+    "cues": [],
+    "views": 1290292,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2018-05-07T02:14:22Z"
+  },
+  {
+    "id": "C78UvlsXZXY",
+    "title": "Phaxe & Morten Granau Live Set 2018",
+    "artist": "Phaxe",
+    "broadcaster": "DoMe - OffBeat Entertainment!",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5594,
+    "cues": [],
+    "views": 1505353,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2018-05-06T12:09:58Z"
+  },
+  {
+    "id": "adEhAeILkDk",
+    "title": "Phaxe | Universo Paralello Festival 2017 -2018 FULL SET",
+    "artist": "Phaxe",
+    "broadcaster": "Up Audiovisual",
+    "city": "Ituberá",
+    "country": "Brazil",
+    "venue": "Universo Paralello",
+    "coords": [
+      -13.83,
+      -38.98
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3703,
+    "cues": [],
+    "views": 2037456,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2018-04-11T15:00:00Z"
+  },
+  {
+    "id": "eaP9eTjTHi8",
+    "title": "Stephan Bodzin (Live) @ Ultra 2018: Resistance Arcadia Spider - Day 2 (BE-AT.TV)",
+    "artist": "Stephan Bodzin",
+    "broadcaster": "BE-AT.TV",
+    "city": "Miami",
+    "country": "United States",
+    "venue": "Ultra Music Festival (Resistance)",
+    "coords": [
+      25.78,
+      -80.19
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5133,
+    "cues": [],
+    "views": 306097,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2018-03-28T13:44:38Z"
+  },
+  {
+    "id": "tj6k_NKKa-Q",
+    "title": "Tiësto - Live @ Ultra Music Festival Miami 2018",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": "Miami",
+    "country": "United States",
+    "venue": "Ultra Music Festival",
+    "coords": [
+      25.78,
+      -80.19
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5384,
+    "cues": [],
+    "views": 6955474,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2018-03-25T14:51:39Z"
+  },
+  {
+    "id": "FNjrnsh0B0M",
+    "title": "NEELIX - FULL LIVE SET @ NIBIRII Bootshaus Cologne 2018",
+    "artist": "Neelix",
+    "broadcaster": "Aerochrone",
+    "city": "Cologne",
+    "country": "Germany",
+    "venue": "Bootshaus (Nibirii)",
+    "coords": [
+      50.96,
+      6.98
+    ],
+    "setting": "club",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5343,
+    "cues": [],
+    "views": 1054210,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2018-02-07T19:09:35Z"
+  },
+  {
+    "id": "kHE-BqNT6C4",
+    "title": "Joachim Pastor @ Flashforward Hungry Music 03/11",
+    "artist": "Joachim Pastor",
+    "broadcaster": "Rockerill",
+    "city": "Charleroi",
+    "country": "Belgium",
+    "venue": "Rockerill (Hungry Music)",
+    "coords": [
+      50.41,
+      4.44
+    ],
+    "setting": "warehouse",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5018,
+    "cues": [],
+    "views": 2255,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2018-01-30T15:22:18Z"
+  },
+  {
+    "id": "vlNBMpu7Tzs",
+    "title": "Neelix - Wagga Wagga (Continuous Live Mix)",
+    "artist": "Neelix",
+    "broadcaster": "SpinTwistRecords",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3596,
+    "cues": [],
+    "views": 114504,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2018-01-26T11:02:52Z"
+  },
+  {
+    "id": "uwXB8Gp_fnw",
+    "title": "Boris Brejcha - Live Set Minimal  @SOUNDBYTESRECORDS",
+    "artist": "Boris Brejcha",
+    "broadcaster": "Sound Bytes Records",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4852,
+    "cues": [],
+    "views": 2363367,
+    "genres": [
+      "Minimal Techno"
+    ],
+    "publishedAt": "2018-01-15T22:00:08Z"
+  },
+  {
+    "id": "_uDTvap6QFY",
+    "title": "Hozho - Remember Mix 2017",
+    "artist": "Hozho",
+    "broadcaster": "Hozho",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4307,
+    "cues": [
+      0,
+      496,
+      1013,
+      1444,
+      1811,
+      2189,
+      2589,
+      3020,
+      3477,
+      3931
+    ],
+    "views": 142371,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2017-12-31T15:55:46Z"
+  },
+  {
+    "id": "pEMOSjkz7xQ",
+    "title": "Boris Brejcha live at Bevip - Music Please",
+    "artist": "Boris Brejcha",
+    "broadcaster": "Music Please",
+    "city": "Prague",
+    "country": "Czechia",
+    "venue": "Křižík Fountain (Bevip)",
+    "coords": [
+      50.11,
+      14.43
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 6247,
+    "cues": [],
+    "views": 10044599,
+    "genres": [
+      "Minimal Techno"
+    ],
+    "publishedAt": "2017-09-21T11:06:11Z"
+  },
+  {
+    "id": "rWIPn3x31aM",
+    "title": "Hozho - Chill Mix (Melodic Minimal Techno)",
+    "artist": "Hozho",
+    "broadcaster": "Hozho",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3515,
+    "cues": [],
+    "views": 2855646,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2017-09-18T18:58:32Z"
+  },
+  {
+    "id": "fNcCarsguZQ",
+    "title": "Stephan Bodzin RA.043",
+    "artist": "Stephan Bodzin",
+    "broadcaster": "петр задунайский",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5938,
+    "cues": [],
+    "views": 26814,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2017-08-19T00:02:11Z"
+  },
+  {
+    "id": "pAd9ilQ3FtE",
+    "title": "N’to b2b Joachim Pastor present Sinners | Paradise City Festival | Belgium",
+    "artist": "Joachim Pastor",
+    "broadcaster": "Dance TV",
+    "city": "Steenokkerzeel",
+    "country": "Belgium",
+    "venue": "Paradise City Festival",
+    "coords": [
+      50.92,
+      4.5
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3030,
+    "cues": [],
+    "views": 38226,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2017-08-10T00:33:02Z"
+  },
+  {
+    "id": "EZ5B6QkhSoU",
+    "title": "Teho live @ Colorado Provencal in Rustrel, France for Cercle",
+    "artist": "Teho",
+    "broadcaster": "Cercle",
+    "city": "Rustrel",
+    "country": "France",
+    "venue": "Colorado Provençal (Cercle)",
+    "coords": [
+      43.92,
+      5.48
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5337,
+    "cues": [],
+    "views": 1607248,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2017-08-02T14:21:42Z"
+  },
+  {
+    "id": "UVJ_zysu9Dc",
+    "title": "Tiësto - Live @ Tomorrowland 2017",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": "Boom",
+    "country": "Belgium",
+    "venue": "Tomorrowland",
+    "coords": [
+      51.09,
+      4.37
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3480,
+    "cues": [],
+    "views": 9422394,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2017-07-22T18:50:04Z"
+  },
+  {
+    "id": "IzUBrRpEy5o",
+    "title": "Neelix [FULL SET] @ Luminosity Beach Festival 25-06-2017",
+    "artist": "Neelix",
+    "broadcaster": "LuminosityEvents",
+    "city": "Bloemendaal",
+    "country": "Netherlands",
+    "venue": "Luminosity Beach Festival",
+    "coords": [
+      52.4,
+      4.56
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3617,
+    "cues": [],
+    "views": 207550,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2017-07-08T13:03:36Z"
+  },
+  {
+    "id": "kiwfAuT6w0c",
+    "title": "Neelix Set Milk Mix   YouTube",
+    "artist": "Neelix",
+    "broadcaster": "Berlin Style",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3822,
+    "cues": [],
+    "views": 1648,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2017-07-01T16:10:52Z"
+  },
+  {
+    "id": "M-M3rdL_WLQ",
+    "title": "Tiësto - Live @ Electric Daisy Carnival Las Vegas 2017",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": "Las Vegas",
+    "country": "United States",
+    "venue": "EDC Las Vegas",
+    "coords": [
+      36.27,
+      -115.01
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5236,
+    "cues": [],
+    "views": 2603220,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2017-06-18T11:36:36Z"
+  },
+  {
+    "id": "aQSPTQpv4TQ",
+    "title": "Hozho @ Detox Podcast 036",
+    "artist": "Hozho",
+    "broadcaster": "Hozho",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 6237,
+    "cues": [],
+    "views": 188723,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2017-05-28T22:05:51Z"
+  },
+  {
+    "id": "N-ai1H0_8lw",
+    "title": "Boris Brejcha Live  Feb 11 2017 @ Tillsammans XL, Stockholm (1 hour HQ video and audio)",
+    "artist": "Boris Brejcha",
+    "broadcaster": "Stockholm Underground",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "venue": "Tillsammans XL",
+    "coords": [
+      59.33,
+      18.07
+    ],
+    "setting": "club",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3523,
+    "cues": [],
+    "views": 1322060,
+    "genres": [
+      "Minimal Techno"
+    ],
+    "publishedAt": "2017-05-15T22:05:30Z"
+  },
+  {
+    "id": "4Rc-NGWEHdU",
+    "title": "Boris Brejcha @ Château de Fontainebleau, France for Cercle",
+    "artist": "Boris Brejcha",
+    "broadcaster": "Cercle",
+    "city": "Fontainebleau",
+    "country": "France",
+    "venue": "Château de Fontainebleau (Cercle)",
+    "coords": [
+      48.4,
+      2.7
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 6039,
+    "cues": [],
+    "views": 41616577,
+    "genres": [
+      "Minimal Techno"
+    ],
+    "publishedAt": "2017-05-04T18:58:59Z"
+  },
+  {
+    "id": "eh_UkZ26bno",
+    "title": "Neelix - Live at MAYDAY 2017",
+    "artist": "Neelix",
+    "broadcaster": "trancerus us",
+    "city": "Dortmund",
+    "country": "Germany",
+    "venue": "Mayday (Westfalenhallen)",
+    "coords": [
+      51.5,
+      7.46
+    ],
+    "setting": "arena",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3697,
+    "cues": [],
+    "views": 80476,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2017-05-03T17:09:04Z"
+  },
+  {
+    "id": "2X6bc-7DsVU",
+    "title": "Tiësto - Live @ Ultra Music Festival Miami 2017",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": "Miami",
+    "country": "United States",
+    "venue": "Ultra Music Festival",
+    "coords": [
+      25.78,
+      -80.19
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5434,
+    "cues": [],
+    "views": 17047341,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2017-03-27T03:51:18Z"
+  },
+  {
+    "id": "zL5WZOOEmkI",
+    "title": "Stephan Bodzin - Ultra Miami 2017: Resistance powered by Arcadia - Day 3 (BE-AT.TV)",
+    "artist": "Stephan Bodzin",
+    "broadcaster": "BE-AT.TV",
+    "city": "Miami",
+    "country": "United States",
+    "venue": "Ultra Music Festival (Resistance)",
+    "coords": [
+      25.78,
+      -80.19
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3460,
+    "cues": [],
+    "views": 319540,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2017-03-27T01:10:45Z"
+  },
+  {
+    "id": "-Q2KhMapMdk",
+    "title": "Hozho - DJ Mix 02",
+    "artist": "Hozho",
+    "broadcaster": "Hozho",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3754,
+    "cues": [],
+    "views": 1026845,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2017-03-26T19:15:46Z"
+  },
+  {
+    "id": "UKHSuv3hj9Q",
+    "title": "Joachim Pastor - Hibernation Festival 24/03/2017",
+    "artist": "Joachim Pastor",
+    "broadcaster": "Joe",
+    "city": null,
+    "country": null,
+    "venue": "Hibernation Festival",
+    "coords": null,
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 1862,
+    "cues": [],
+    "views": 2355,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2017-03-26T00:11:33Z"
+  },
+  {
+    "id": "b_fKzTdMViQ",
+    "title": "Sinners (N'to & Joachim Pastor) launch @ Concorde in Paris, France for Cercle",
+    "artist": "Joachim Pastor",
+    "broadcaster": "Cercle",
+    "city": "Paris",
+    "country": "France",
+    "venue": "Place de la Concorde (Cercle)",
+    "coords": [
+      48.87,
+      2.32
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4580,
+    "cues": [],
+    "views": 708265,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2017-01-11T10:17:33Z"
+  },
+  {
+    "id": "E9ja2jv4paQ",
+    "title": "Boris Brejcha - DJ Mix Number 05 - 2016",
+    "artist": "Boris Brejcha",
+    "broadcaster": "Boris Brejcha",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 7225,
+    "cues": [],
+    "views": 4736413,
+    "genres": [
+      "Minimal Techno"
+    ],
+    "publishedAt": "2016-12-24T09:58:05Z"
+  },
+  {
+    "id": "sLyctECXl0w",
+    "title": "CLUBLIFE by Tiësto Podcast 500 - First Hour",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3651,
+    "cues": [],
+    "views": 346381,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2016-11-07T18:00:05Z"
+  },
+  {
+    "id": "5TdUveM_0cE",
+    "title": "Stephan Bodzin Live @ ADE 2016: DGTL x Mosaic by Maceo (BE-AT.TV)",
+    "artist": "Stephan Bodzin",
+    "broadcaster": "BE-AT.TV",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "venue": "DGTL x Mosaic (ADE)",
+    "coords": [
+      52.37,
+      4.9
+    ],
+    "setting": "club",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3770,
+    "cues": [],
+    "views": 221833,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2016-10-26T20:59:00Z"
+  },
+  {
+    "id": "6_rFiIRC8rE",
+    "title": "Stephan Bodzin  - Vicious Live @ www.viciouslive.com",
+    "artist": "Stephan Bodzin",
+    "broadcaster": "Vicious Magazine",
+    "city": "Madrid",
+    "country": "Spain",
+    "venue": "Vicious Live",
+    "coords": [
+      40.42,
+      -3.7
+    ],
+    "setting": "club",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 7840,
+    "cues": [],
+    "views": 311368,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2016-07-05T08:01:15Z"
+  },
+  {
+    "id": "T3dd_2cnD6E",
+    "title": "1 Hour Live - Ann Clue B2B Boris Brejcha @ Smiling Sun Open Air, Stockholm 2016",
+    "artist": "Boris Brejcha",
+    "broadcaster": "Boris Brejcha",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "venue": "Smiling Sun Open Air",
+    "coords": [
+      59.33,
+      18.07
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3506,
+    "cues": [],
+    "views": 4987577,
+    "genres": [
+      "Minimal Techno"
+    ],
+    "publishedAt": "2016-06-29T08:42:52Z"
+  },
+  {
+    "id": "35Gn-yJyzcU",
+    "title": "DJ Tiesto Live At Samfundet, Trondheim, 15.09.2000.",
+    "artist": "Tiësto",
+    "broadcaster": "Tomislav Peharec",
+    "city": "Trondheim",
+    "country": "Norway",
+    "venue": "Samfundet",
+    "coords": [
+      63.42,
+      10.4
+    ],
+    "setting": "club",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 7679,
+    "cues": [
+      0,
+      406,
+      761,
+      1077,
+      1477,
+      1914,
+      2259,
+      2628,
+      3024,
+      3242,
+      3332,
+      3644,
+      4148,
+      4455,
+      4764,
+      4968,
+      5355,
+      5686,
+      5985,
+      6245,
+      6650,
+      6919,
+      7060
+    ],
+    "views": 134095,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2016-03-06T01:25:27Z"
+  },
+  {
+    "id": "TXmEdtavKJ8",
+    "title": "Hozho - DJ Mix 01",
+    "artist": "Hozho",
+    "broadcaster": "Hozho",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3609,
+    "cues": [
+      0,
+      423,
+      839,
+      1211,
+      1525,
+      1832,
+      2166,
+      2444,
+      2817,
+      3180
+    ],
+    "views": 1395567,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2016-02-28T22:59:49Z"
+  },
+  {
+    "id": "ZsZ0M0oDk8Q",
+    "title": "Joachim Pastor Live 2016",
+    "artist": "Joachim Pastor",
+    "broadcaster": "Koorräääkt",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3781,
+    "cues": [],
+    "views": 23970,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2016-02-23T01:26:09Z"
+  },
+  {
+    "id": "SOGhu5UD3fU",
+    "title": "Boris Brejcha - DJ Mix Number 04 - 2015",
+    "artist": "Boris Brejcha",
+    "broadcaster": "Boris Brejcha",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3686,
+    "cues": [
+      0,
+      415,
+      740,
+      1087,
+      1505,
+      1913,
+      2358,
+      2832,
+      3202
+    ],
+    "views": 406395,
+    "genres": [
+      "Minimal Techno"
+    ],
+    "publishedAt": "2015-12-23T13:02:44Z"
+  },
+  {
+    "id": "KEg3AHTnIKU",
+    "title": "Joachim Pastor - Live WeAre Together 2015",
+    "artist": "Joachim Pastor",
+    "broadcaster": "Dancecode Electronics",
+    "city": null,
+    "country": null,
+    "venue": "WeAre Together",
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 2280,
+    "cues": [],
+    "views": 136266,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2015-11-17T18:12:29Z"
+  },
+  {
+    "id": "Hv_oF2ol_Ks",
+    "title": "Stephan Bodzin Boiler Room Berlin Live Set",
+    "artist": "Stephan Bodzin",
+    "broadcaster": "Boiler Room",
+    "city": "Berlin",
+    "country": "Germany",
+    "venue": "Boiler Room",
+    "coords": [
+      52.52,
+      13.4
+    ],
+    "setting": "club",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4787,
+    "cues": [],
+    "views": 5924310,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2015-10-08T14:40:52Z"
+  },
+  {
+    "id": "LPJ7qjc7gCc",
+    "title": "Cosmic Gate EDC Las Vegas 2015",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Cosmic Gate",
+    "city": "Las Vegas",
+    "country": "United States",
+    "venue": "EDC Las Vegas",
+    "coords": [
+      36.27,
+      -115.01
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3621,
+    "cues": [],
+    "views": 198532,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2015-08-14T16:41:35Z"
+  },
+  {
+    "id": "ufyYHwpcFbo",
+    "title": "Boris Brejcha (Germany) /Techno/ ► Live DJ Mix @ Pioneer DJ TV",
+    "artist": "Boris Brejcha",
+    "broadcaster": "Pioneer DJ TV",
+    "city": "Novosibirsk",
+    "country": "Russia",
+    "venue": "Pioneer DJ TV (HB Re_play)",
+    "coords": [
+      55.03,
+      82.92
+    ],
+    "setting": "club",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 8441,
+    "cues": [],
+    "views": 831037,
+    "genres": [
+      "Minimal Techno"
+    ],
+    "publishedAt": "2015-05-02T11:28:10Z"
+  },
+  {
+    "id": "zpOlEmXFzt8",
+    "title": "Stephan Bodzin B2B Marc Romboy Skol Beats x Boiler Room Sao Paulo DJ Set",
+    "artist": "Stephan Bodzin",
+    "broadcaster": "Boiler Room",
+    "city": "São Paulo",
+    "country": "Brazil",
+    "venue": "Boiler Room x Skol Beats",
+    "coords": [
+      -23.55,
+      -46.63
+    ],
+    "setting": "club",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 7123,
+    "cues": [],
+    "views": 440078,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2014-08-21T15:13:18Z"
+  },
+  {
+    "id": "9upTgJt4FgY",
+    "title": "Tiësto & Hardwell B2B - Live @ Tomorrowland (Week 2) 2014 [HD]",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": "Boom",
+    "country": "Belgium",
+    "venue": "Tomorrowland",
+    "coords": [
+      51.09,
+      4.37
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 2460,
+    "cues": [],
+    "views": 1894254,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2014-07-28T03:21:59Z"
+  },
+  {
+    "id": "sQ_nGohap-Y",
+    "title": "Joachim Pastor Live - Hungry Party @ Spartacus Club - 12.04.2014",
+    "artist": "Joachim Pastor",
+    "broadcaster": "SPARTACUS CLUB",
+    "city": null,
+    "country": null,
+    "venue": "Spartacus Club (Hungry Party)",
+    "coords": null,
+    "setting": "club",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 1957,
+    "cues": [],
+    "views": 38799,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2014-05-21T11:25:28Z"
+  },
+  {
+    "id": "BWO6VDxSg4o",
+    "title": "Tiësto - Live @ Ultra Music Festival 2014",
+    "artist": "Tiësto",
+    "broadcaster": "Tiësto",
+    "city": "Miami",
+    "country": "United States",
+    "venue": "Ultra Music Festival",
+    "coords": [
+      25.78,
+      -80.19
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 5174,
+    "cues": [],
+    "views": 22428331,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2014-03-30T16:02:25Z"
+  },
+  {
+    "id": "RiLIFWkNP0A",
+    "title": "Boris Brejcha - DJ Mix Number 02 - 2013",
+    "artist": "Boris Brejcha",
+    "broadcaster": "Boris Brejcha",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3828,
+    "cues": [],
+    "views": 918939,
+    "genres": [
+      "Minimal Techno"
+    ],
+    "publishedAt": "2013-12-27T14:07:52Z"
+  },
+  {
+    "id": "KnNBxE6h0EM",
+    "title": "Phaxe X-Mas Djset 2013",
+    "artist": "Phaxe",
+    "broadcaster": "Paris Roman (Mésaventure)",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3491,
+    "cues": [],
+    "views": 20103,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2013-12-21T19:05:11Z"
+  },
+  {
+    "id": "9UQdzSMMN3w",
+    "title": "Neelix (FULL LIVE SET HD) - Luminosity & Perfecto Fluoro @ Amsterdam Dance Event 16-10-2013",
+    "artist": "Neelix",
+    "broadcaster": "LuminosityEvents",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "venue": "WesterUnie (Luminosity x Perfecto Fluoro, ADE)",
+    "coords": [
+      52.39,
+      4.87
+    ],
+    "setting": "club",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3536,
+    "cues": [],
+    "views": 131025,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2013-10-28T12:36:25Z"
+  },
+  {
+    "id": "7Jx5zC-cJvE",
+    "title": "DJ TIESTO-Live @ Cream Amnesia Ibiza 2002",
+    "artist": "Tiësto",
+    "broadcaster": "Don West",
+    "city": "Ibiza",
+    "country": "Spain",
+    "venue": "Amnesia (Cream)",
+    "coords": [
+      38.95,
+      1.41
+    ],
+    "setting": "club",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 6106,
+    "cues": [],
+    "views": 404045,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2013-06-01T17:55:29Z"
+  },
+  {
+    "id": "72IULKLzhGM",
+    "title": "Phaxe - Satya Festival 2013 - Teaser Mix",
+    "artist": "Phaxe",
+    "broadcaster": "Satyafestival",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3479,
+    "cues": [],
+    "views": 66962,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2013-02-28T19:49:20Z"
+  },
+  {
+    "id": "-umX7Iatq9M",
+    "title": "Cosmic Gate @ Trance Energy 2003 - 10th Ed",
+    "artist": "Cosmic Gate",
+    "broadcaster": "ColinZeal",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "venue": "Trance Energy (Jaarbeurs)",
+    "coords": [
+      52.09,
+      5.11
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 1930,
+    "cues": [],
+    "views": 62255,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2013-02-10T05:03:41Z"
+  },
+  {
+    "id": "6icym6RUyVI",
+    "title": "Tiësto Live @ Heineken Music Hall Amsterdam 03/12/05 SET COMPLETO!",
+    "artist": "Tiësto",
+    "broadcaster": "Chengue",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "venue": "Heineken Music Hall",
+    "coords": [
+      52.31,
+      4.94
+    ],
+    "setting": "arena",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 20725,
+    "cues": [],
+    "views": 214273,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2012-11-23T07:57:33Z"
+  },
+  {
+    "id": "ETI1UOBVLXU",
+    "title": "Neelix - DocProg Set",
+    "artist": "Neelix",
+    "broadcaster": "Don Stylo",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 9192,
+    "cues": [],
+    "views": 769525,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2012-10-26T16:59:54Z"
+  },
+  {
+    "id": "5TKbjW1N4yw",
+    "title": "DJ Tiesto Live At Club Space Miami 18.08.2002.",
+    "artist": "Tiësto",
+    "broadcaster": "Tomislav Peharec",
+    "city": "Miami",
+    "country": "United States",
+    "venue": "Club Space",
+    "coords": [
+      25.78,
+      -80.19
+    ],
+    "setting": "club",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 7511,
+    "cues": [
+      0,
+      65,
+      385,
+      612,
+      972,
+      1323,
+      1563,
+      2096,
+      2605,
+      3040,
+      3464,
+      3886,
+      4338,
+      4433,
+      4460,
+      4835,
+      5212,
+      5534,
+      5916,
+      6363,
+      6690,
+      7152
+    ],
+    "views": 349636,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2012-10-21T18:30:16Z"
+  },
+  {
+    "id": "DyBTLlpkg2I",
+    "title": "Neelix - Set 2012",
+    "artist": "Neelix",
+    "broadcaster": "KaiqueEuMsm",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3686,
+    "cues": [
+      0,
+      331,
+      611,
+      1075,
+      1301,
+      1601,
+      2021,
+      2171,
+      2370
+    ],
+    "views": 576885,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2012-05-13T06:32:16Z"
+  },
+  {
+    "id": "QNRol-KveRE",
+    "title": "Cosmic Gate Live @ Trance Energy 2002 live set",
+    "artist": "Cosmic Gate",
+    "broadcaster": "WhoIsStillAwake",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "venue": "Trance Energy (Jaarbeurs)",
+    "coords": [
+      52.09,
+      5.11
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 3280,
+    "cues": [],
+    "views": 672748,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2012-05-13T05:58:03Z"
+  },
+  {
+    "id": "caGd-e4ah1U",
+    "title": "Cosmic Gate - ASOT 550 (IEC Kiev 10.03.2012)",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Саня",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "venue": "A State of Trance 550 (IEC)",
+    "coords": [
+      50.4,
+      30.53
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4396,
+    "cues": [],
+    "views": 24373,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2012-03-18T11:23:40Z"
+  },
+  {
+    "id": "aQYn3YGLod0",
+    "title": "DJ Tiesto - Live @ Energy 2000 Complete version",
+    "artist": "Tiësto",
+    "broadcaster": "Vincent Bouwmeester",
+    "city": "Eindhoven",
+    "country": "Netherlands",
+    "venue": "Energy 2000 (Beursgebouw)",
+    "coords": [
+      51.44,
+      5.47
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-20T11:31:12.695Z",
+    "durationSec": 4921,
+    "cues": [],
+    "views": 3903183,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2011-12-09T02:31:11Z"
+  }
+]
