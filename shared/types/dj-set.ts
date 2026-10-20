@@ -43,6 +43,14 @@ export interface SetFilters {
   settings: string[]
 }
 
+export interface CityPoint {
+  city: string
+  country: string | null
+  /** Average of the city's set coordinates, [lat, lng] */
+  coords: [number, number]
+  count: number
+}
+
 export interface FacetCount {
   name: string
   count: number

@@ -15,26 +15,56 @@ const filterQuery = computed(() => ({
 }))
 const { data: pool } = await useFetch('/api/count', { query: filterQuery })
 
+const MAX_SKIPS_IN_A_ROW = 3
+const RADIO_STORAGE_KEY = 'live-dj:radio'
+
 const current = ref<DjSet | null>(null)
+const startAt = ref(0)
 const sharedId = typeof route.query.set === 'string' ? route.query.set : null
 if (sharedId) {
   const { data } = await useFetch<DjSet>(`/api/sets/${encodeURIComponent(sharedId)}`)
   current.value = data.value ?? null
+  const t = Math.floor(Number(route.query.t))
+  if (current.value && t > 0 && t < current.value.durationSec) startAt.value = t
 }
 
-const startAt = ref(0)
 const spinning = ref(false)
 const notice = ref('')
 const drawerOpen = ref(false)
 const infoOpen = ref(false)
 const drawerTab = ref<'saved' | 'history'>('saved')
+const radio = ref(false)
+let skipsInARow = 0
 
 const history = useStoredSets('live-dj:history', 50)
 const saved = useStoredSets('live-dj:saved', 200)
 
-useHead(() => ({
-  title: current.value ? `${current.value.artist} — ${current.value.title} | Deckroll` : 'Deckroll — random DJ sets',
-}))
+const siteOrigin = useRuntimeConfig().public.siteUrl
+const DEFAULT_TITLE = 'Deckroll — random DJ sets'
+const DEFAULT_DESCRIPTION = 'Roll for a random full-length DJ set. Filter by genre, city, source and venue, or drop in mid-set.'
+
+const shareTitle = computed(() => (current.value ? `${current.value.artist} — ${current.value.title}` : DEFAULT_TITLE))
+const shareDescription = computed(() => {
+  const set = current.value
+  if (!set) return DEFAULT_DESCRIPTION
+  const place = [set.venue, [set.city, set.country].filter(Boolean).join(', ')].filter(Boolean).join(' · ')
+  return [place, formatDuration(set.durationSec), 'Roll a random DJ set on Deckroll'].filter(Boolean).join(' · ')
+})
+
+useSeoMeta({
+  title: () => (current.value ? `${shareTitle.value} | Deckroll` : DEFAULT_TITLE),
+  description: shareDescription,
+  ogTitle: shareTitle,
+  ogDescription: shareDescription,
+  ogType: 'website',
+  ogUrl: () => `${siteOrigin}${route.fullPath}`,
+  ogImage: () => (current.value ? `https://i.ytimg.com/vi/${current.value.id}/hqdefault.jpg` : `${siteOrigin}/og-image.png`),
+  twitterCard: 'summary_large_image',
+})
+
+useHead({
+  link: [{ rel: 'canonical', href: () => `${siteOrigin}${current.value ? `/?set=${current.value.id}` : '/'}` }],
+})
 
 let noticeTimer: ReturnType<typeof setTimeout> | undefined
 function flash(message: string) {
@@ -66,16 +96,46 @@ async function spin(mode: SpinMode = 'random') {
   }
 }
 
+function syncUrl(set: DjSet, start: number) {
+  router.replace({ query: start > 0 ? { set: set.id, t: String(start) } : { set: set.id } })
+}
+
 function play(set: DjSet, start = 0) {
   current.value = set
   startAt.value = start
   history.add(set)
-  router.replace({ query: { set: set.id } })
+  syncUrl(set, start)
+}
+
+function restart() {
+  if (!current.value) return
+  startAt.value = 0
+  syncUrl(current.value, 0)
 }
 
 function playFromDrawer(set: DjSet) {
   play(set)
   drawerOpen.value = false
+}
+
+function playFromDialog(set: DjSet) {
+  play(set)
+  infoOpen.value = false
+}
+
+function onSetEnded() {
+  if (radio.value) spin('random')
+}
+
+function onSetError() {
+  if (radio.value && skipsInARow < MAX_SKIPS_IN_A_ROW) {
+    skipsInARow++
+    flash('This set can\'t be played here, skipping')
+    spin('random')
+  }
+  else {
+    flash('This set can\'t be played here. Roll another one.')
+  }
 }
 
 function toggleSaved(set: DjSet) {
@@ -108,33 +168,44 @@ function onKeydown(e: KeyboardEvent) {
   spin(key === 'd' ? 'drop' : 'random')
 }
 
-onMounted(() => window.addEventListener('keydown', onKeydown))
+onMounted(() => {
+  window.addEventListener('keydown', onKeydown)
+  try {
+    radio.value = localStorage.getItem(RADIO_STORAGE_KEY) === 'on'
+  }
+  catch {
+    radio.value = false
+  }
+})
 onBeforeUnmount(() => window.removeEventListener('keydown', onKeydown))
+
+watch(radio, (on) => {
+  try {
+    localStorage.setItem(RADIO_STORAGE_KEY, on ? 'on' : 'off')
+  }
+  catch {
+    // Storage unavailable: the toggle still works for this visit.
+  }
+})
 </script>
 
 <template>
   <div class="app">
-    <header class="topbar">
-      <div class="brand">
-        <AppLogo :size="30" />
-        <span class="name">Deck<span class="roll">roll</span></span>
-        <span v-if="facets" class="total">{{ facets.total }} sets</span>
-      </div>
-      <nav class="top-actions">
-        <button type="button" class="btn top-btn" @click="openDrawer('history')">
-          History <span class="top-count">{{ history.items.value.length }}</span>
-        </button>
-        <button type="button" class="btn top-btn" @click="openDrawer('saved')">
-          Saved <span class="top-count pink">{{ saved.items.value.length }}</span>
-        </button>
-      </nav>
-    </header>
+    <AppHeader :total="facets?.total">
+      <button type="button" class="btn top-btn" @click="openDrawer('history')">
+        History <span class="top-count">{{ history.items.value.length }}</span>
+      </button>
+      <button type="button" class="btn top-btn" @click="openDrawer('saved')">
+        Saved <span class="top-count pink">{{ saved.items.value.length }}</span>
+      </button>
+    </AppHeader>
 
     <div class="shell">
       <aside class="side">
         <SidebarFilters
           v-if="facets"
           v-model="filters"
+          v-model:radio="radio"
           :facets="facets"
           :matches="pool?.matches ?? null"
           :spinning="spinning"
@@ -145,14 +216,20 @@ onBeforeUnmount(() => window.removeEventListener('keydown', onKeydown))
 
       <main class="stage">
         <div class="content">
-          <SetPlayer :set="current" :start="startAt" />
+          <SetPlayer
+            :set="current"
+            :start="startAt"
+            @ended="onSetEnded"
+            @playing="skipsInARow = 0"
+            @error="onSetError"
+          />
           <SetDetails
             v-if="current"
             :set="current"
             :saved="saved.has(current.id)"
             :filters="filters"
             :start-at="startAt"
-            @restart="startAt = 0"
+            @restart="restart"
             @toggle-save="toggleSaved(current)"
             @open-info="infoOpen = true"
             @toggle-filter="toggleFilter"
@@ -164,6 +241,7 @@ onBeforeUnmount(() => window.removeEventListener('keydown', onKeydown))
             :saved="saved.has(current.id)"
             @close="infoOpen = false"
             @toggle-save="toggleSaved(current)"
+            @play="playFromDialog"
           />
         </div>
       </main>
@@ -200,44 +278,6 @@ onBeforeUnmount(() => window.removeEventListener('keydown', onKeydown))
   display: grid;
   grid-template-rows: var(--header-h) minmax(0, 1fr);
   overflow: hidden;
-}
-
-.topbar {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 12px;
-  padding: 0 16px;
-  border-bottom: 1px solid var(--border);
-  background: var(--bg);
-}
-
-.brand {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-}
-
-.name {
-  font-size: 19px;
-  font-weight: 800;
-  letter-spacing: 0.02em;
-  text-transform: uppercase;
-}
-
-.roll {
-  color: var(--accent);
-}
-
-.total {
-  font-family: var(--mono);
-  font-size: 11px;
-  color: var(--dim);
-}
-
-.top-actions {
-  display: flex;
-  gap: 8px;
 }
 
 .top-btn {
@@ -308,17 +348,6 @@ onBeforeUnmount(() => window.removeEventListener('keydown', onKeydown))
     display: block;
     overflow: visible;
     padding-bottom: 72px;
-  }
-
-  .topbar {
-    position: sticky;
-    top: 0;
-    z-index: 10;
-    height: var(--header-h);
-  }
-
-  .total {
-    display: none;
   }
 
   .shell {

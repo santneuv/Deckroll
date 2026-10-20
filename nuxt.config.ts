@@ -2,6 +2,12 @@
 export default defineNuxtConfig({
   compatibilityDate: '2025-07-15',
   devtools: { enabled: true },
+  modules: ['@vercel/analytics'],
+  runtimeConfig: {
+    public: {
+      siteUrl: 'https://deckroll.xyz',
+    },
+  },
   css: ['~/assets/css/main.css'],
   app: {
     head: {

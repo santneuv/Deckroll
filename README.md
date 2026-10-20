@@ -41,3 +41,17 @@ A full run costs about 2,000 of the 10,000 daily quota units. Place fields (`cit
 | `GET /api/count` | How many sets match the filters |
 | `GET /api/facets` | Filter options with counts |
 | `GET /api/sets/:id` | One set |
+| `GET /api/artist-sets` | Up to 12 other sets by the same artist(s) (`artist`, `exclude`), most viewed first |
+
+## Map
+
+`/map` shows every city that has sets with known coordinates. Country outlines are drawn from [Natural Earth](https://www.naturalearthdata.com/) (public domain, `public/map/countries.json`), so the map needs no tile provider or API key.
+
+| Route | Returns |
+|---|---|
+| `GET /api/cities` | Cities with coordinates and set counts |
+| `GET /api/sets` | Up to 60 sets matching the filters, most viewed first |
+
+## Sharing
+
+`/?set=<id>` opens a set and `&t=<seconds>` starts it at that point (Drop In writes both into the address bar). Set links render Open Graph tags with the video thumbnail, so they preview in chat apps and social media.

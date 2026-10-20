@@ -1,10 +1,28 @@
 <script setup lang="ts">
 const props = defineProps<{ set: DjSet, open: boolean, saved: boolean }>()
-const emit = defineEmits<{ close: [], toggleSave: [] }>()
+const emit = defineEmits<{ close: [], toggleSave: [], play: [set: DjSet] }>()
 
 const dialog = ref<HTMLDialogElement | null>(null)
+const moreSets = ref<DjSet[]>([])
 
 const place = computed(() => [props.set.city, props.set.country].filter(Boolean).join(', '))
+const artistLabel = computed(() => props.set.artist.split(' & ').join(' / '))
+
+watch(() => [props.open, props.set.id] as const, async ([open, id]) => {
+  if (!open) return
+  moreSets.value = []
+  try {
+    const res = await $fetch('/api/artist-sets', { query: { artist: props.set.artist, exclude: id } })
+    if (props.set.id === id) moreSets.value = res.sets
+  }
+  catch {
+    moreSets.value = []
+  }
+}, { immediate: true })
+
+function subtitle(set: DjSet) {
+  return [set.venue ?? set.broadcaster, set.city].filter(Boolean).join(' · ')
+}
 
 watch(() => props.open, (open) => {
   if (open && !dialog.value?.open) dialog.value?.showModal()
@@ -69,6 +87,24 @@ function onBackdropClick(e: MouseEvent) {
       <ul class="tags">
         <li v-for="g in set.genres" :key="g" class="chip">{{ g }}</li>
       </ul>
+
+      <section v-if="moreSets.length > 0" class="more">
+        <p class="label">More from {{ artistLabel }}</p>
+        <ul class="more-list">
+          <li v-for="s in moreSets" :key="s.id">
+            <button type="button" class="more-item" @click="emit('play', s)">
+              <span class="thumb">
+                <img :src="`https://i.ytimg.com/vi/${s.id}/mqdefault.jpg`" alt="" loading="lazy" width="160" height="90">
+                <span class="duration">{{ formatDuration(s.durationSec) }}</span>
+              </span>
+              <span class="more-text">
+                <strong>{{ s.title }}</strong>
+                <span>{{ subtitle(s) }}</span>
+              </span>
+            </button>
+          </li>
+        </ul>
+      </section>
 
       <footer class="actions">
         <button type="button" class="btn" :class="{ on: saved }" :aria-pressed="saved" @click="emit('toggleSave')">
@@ -194,6 +230,10 @@ function onBackdropClick(e: MouseEvent) {
   grid-column: 1 / -1;
 }
 
+.grid > div:last-child {
+  grid-column: span 2;
+}
+
 .grid dd {
   margin: 4px 0 0;
   font-family: var(--mono);
@@ -222,6 +262,87 @@ function onBackdropClick(e: MouseEvent) {
 
 .tags:empty {
   display: none;
+}
+
+.more {
+  display: grid;
+  gap: 10px;
+  padding: 14px 16px;
+  border-bottom: 1px solid var(--border);
+}
+
+.more .label {
+  margin: 0;
+}
+
+.more-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px 10px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.more-item {
+  display: grid;
+  gap: 6px;
+  width: 100%;
+  padding: 0;
+  border: 0;
+  background: none;
+  text-align: left;
+}
+
+.thumb {
+  position: relative;
+  display: block;
+  aspect-ratio: 16 / 9;
+  border: 1px solid var(--border);
+  background: #000;
+  overflow: hidden;
+}
+
+.more-item:hover .thumb {
+  border-color: var(--accent);
+}
+
+.thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.duration {
+  position: absolute;
+  right: 4px;
+  bottom: 4px;
+  padding: 0 4px;
+  background: rgb(0 0 0 / 0.8);
+  font-family: var(--mono);
+  font-size: 10px;
+}
+
+.more-text {
+  display: grid;
+  min-width: 0;
+}
+
+.more-text > * {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.more-text strong {
+  font-size: 12px;
+}
+
+.more-text span {
+  font-family: var(--mono);
+  font-size: 10px;
+  color: var(--dim);
 }
 
 .actions {

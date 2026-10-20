@@ -43,6 +43,17 @@ export function findSet(id: string): DjSet | undefined {
   return setsById.get(id)
 }
 
+const artistNames = (artist: string) => artist.split(' & ')
+
+/** Other sets sharing at least one artist (b2b sets list each artist), most viewed first */
+export function setsByArtists(artist: string, excludeId: string, limit: number): DjSet[] {
+  const names = new Set(artistNames(artist))
+  return sets
+    .filter(s => s.id !== excludeId && artistNames(s.artist).some(n => names.has(n)))
+    .sort((a, b) => b.views - a.views)
+    .slice(0, limit)
+}
+
 function countBy(values: (string | null)[]): FacetCount[] {
   const counts = new Map<string, number>()
   for (const v of values) {
@@ -51,6 +62,22 @@ function countBy(values: (string | null)[]): FacetCount[] {
   return [...counts]
     .map(([name, count]) => ({ name, count }))
     .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name))
+}
+
+let cityPoints: CityPoint[] | undefined
+
+export function getCityPoints(): CityPoint[] {
+  if (cityPoints) return cityPoints
+  const byCity = new Map<string, DjSet[]>()
+  for (const s of sets) {
+    if (s.city && s.coords) byCity.set(s.city, [...(byCity.get(s.city) ?? []), s])
+  }
+  const round = (n: number) => Math.round(n * 1000) / 1000
+  const average = (list: DjSet[], i: 0 | 1) => round(list.reduce((sum, s) => sum + s.coords![i], 0) / list.length)
+  cityPoints = [...byCity]
+    .map(([city, list]) => ({ city, country: list[0]!.country, coords: [average(list, 0), average(list, 1)] as [number, number], count: list.length }))
+    .sort((a, b) => b.count - a.count)
+  return cityPoints
 }
 
 let facets: Facets | undefined

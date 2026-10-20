@@ -1,26 +1,69 @@
 <script setup lang="ts">
 const props = withDefaults(defineProps<{ set: DjSet | null, start?: number }>(), { start: 0 })
+const emit = defineEmits<{ ended: [], playing: [], error: [code: number] }>()
 
-const embedUrl = computed(() => {
-  if (!props.set) return null
-  const start = props.start > 0 ? `&start=${props.start}` : ''
-  return `https://www.youtube-nocookie.com/embed/${props.set.id}?autoplay=1&rel=0${start}`
+const host = ref<HTMLDivElement | null>(null)
+let player: YouTubePlayer | null = null
+let ready = false
+let pending: { videoId: string, startSeconds: number } | null = null
+
+async function show(videoId: string, startSeconds: number) {
+  if (player) {
+    if (ready) player.loadVideoById({ videoId, startSeconds })
+    else pending = { videoId, startSeconds }
+    return
+  }
+  let YT
+  try {
+    YT = await loadYouTubeApi()
+  }
+  catch {
+    emit('error', -1)
+    return
+  }
+  if (player || !host.value) return
+  const target = document.createElement('div')
+  host.value.appendChild(target)
+  player = new YT.Player(target, {
+    host: 'https://www.youtube-nocookie.com',
+    videoId,
+    width: '100%',
+    height: '100%',
+    playerVars: { autoplay: 1, rel: 0, playsinline: 1, start: startSeconds },
+    events: {
+      onReady: () => {
+        ready = true
+        if (pending) player?.loadVideoById(pending)
+        pending = null
+      },
+      onStateChange: (e) => {
+        if (e.data === YT_STATE_ENDED) emit('ended')
+        if (e.data === YT_STATE_PLAYING) emit('playing')
+      },
+      onError: e => emit('error', e.data),
+    },
+  })
+}
+
+onMounted(() => {
+  if (props.set) show(props.set.id, props.start)
+})
+
+watch(() => [props.set?.id, props.start] as const, ([id, start]) => {
+  if (id) show(id, start)
+})
+
+onBeforeUnmount(() => {
+  player?.destroy()
+  player = null
 })
 </script>
 
 <template>
   <div class="frame">
     <div class="player">
-      <iframe
-        v-if="embedUrl"
-        :key="embedUrl"
-        :src="embedUrl"
-        :title="set?.title"
-        allow="autoplay; encrypted-media; picture-in-picture; fullscreen"
-        referrerpolicy="strict-origin-when-cross-origin"
-        allowfullscreen
-      />
-      <div v-else class="standby">
+      <div v-show="set" ref="host" class="host" />
+      <div v-if="!set" class="standby">
         <p class="standby-title">No signal</p>
         <p class="standby-sub">
           Hit <strong>Random set</strong> <kbd>R</kbd> or <strong class="pink">Drop in</strong> <kbd>D</kbd> to pull a set
@@ -44,7 +87,12 @@ const embedUrl = computed(() => {
   overflow: hidden;
 }
 
-iframe {
+.host {
+  width: 100%;
+  height: 100%;
+}
+
+.host :deep(iframe) {
   width: 100%;
   height: 100%;
   border: 0;

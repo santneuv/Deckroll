@@ -3,6 +3,7 @@ type FilterKey = keyof SetFilters
 
 const props = defineProps<{ facets: Facets, matches: number | null, spinning: boolean, idle: boolean }>()
 const filters = defineModel<SetFilters>({ required: true })
+const radio = defineModel<boolean>('radio', { required: true })
 defineEmits<{ spin: [mode: SpinMode] }>()
 
 const searches = reactive<Record<FilterKey, string>>({ genres: '', settings: '', broadcasters: '', cities: '' })
@@ -53,6 +54,13 @@ function clearAll() {
           Drop in
         </button>
       </div>
+      <button type="button" role="switch" class="radio" :aria-checked="radio" @click="radio = !radio">
+        <span class="radio-text">
+          <span class="radio-title">Radio mode</span>
+          <span class="radio-sub">Next set starts when this one ends</span>
+        </span>
+        <span class="switch" :class="{ on: radio }" aria-hidden="true"><span class="knob" /></span>
+      </button>
       <div class="pool">
         <span class="label">In the pool</span>
         <span class="pool-count">
@@ -191,6 +199,80 @@ function clearAll() {
 .spin:disabled {
   opacity: 0.7;
   cursor: progress;
+}
+
+.radio {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  width: 100%;
+  padding: 10px 12px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+  text-align: left;
+}
+
+.radio:hover {
+  border-color: var(--border-strong);
+}
+
+.radio[aria-checked='true'] {
+  border-color: var(--accent);
+}
+
+.radio-text {
+  display: grid;
+  gap: 2px;
+}
+
+.radio-title {
+  font-family: var(--mono);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.radio[aria-checked='true'] .radio-title {
+  color: var(--accent);
+}
+
+.radio-sub {
+  font-family: var(--mono);
+  font-size: 10px;
+  color: var(--dim);
+}
+
+.switch {
+  flex-shrink: 0;
+  position: relative;
+  width: 34px;
+  height: 18px;
+  border-radius: 999px;
+  background: var(--border-strong);
+  transition: background 0.15s;
+}
+
+.switch.on {
+  background: var(--accent);
+}
+
+.knob {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--text);
+  transition: transform 0.15s;
+}
+
+.switch.on .knob {
+  transform: translateX(16px);
+  background: var(--bg);
 }
 
 .pool {
