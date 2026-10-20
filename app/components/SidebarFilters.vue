@@ -1,7 +1,7 @@
 <script setup lang="ts">
 type FilterKey = keyof SetFilters
 
-const props = defineProps<{ facets: Facets, matches: number | null, spinning: boolean }>()
+const props = defineProps<{ facets: Facets, matches: number | null, spinning: boolean, idle: boolean }>()
 const filters = defineModel<SetFilters>({ required: true })
 defineEmits<{ spin: [mode: SpinMode] }>()
 
@@ -37,7 +37,14 @@ function clearAll() {
     <section class="block">
       <p class="label selector-label">Set selector</p>
       <div class="spin-row">
-        <button type="button" class="spin" :disabled="spinning" title="Random set from the start (R)" @click="$emit('spin', 'random')">
+        <button
+          type="button"
+          class="spin"
+          :class="{ pulse: idle }"
+          :disabled="spinning"
+          title="Random set from the start (R)"
+          @click="$emit('spin', 'random')"
+        >
           <AppLogo :size="20" />
           Random set
         </button>
@@ -108,7 +115,7 @@ function clearAll() {
 
 .spin-row {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 3fr 2fr;
   gap: 8px;
 }
 
@@ -121,33 +128,59 @@ function clearAll() {
   padding: 16px 8px;
   border: 1px solid var(--accent);
   border-radius: var(--radius);
-  background: var(--accent-soft);
-  color: var(--accent);
+  background: var(--accent);
+  color: var(--bg);
   font-family: var(--mono);
-  font-size: 12px;
+  font-size: 13px;
   font-weight: 700;
   letter-spacing: 0.1em;
   text-transform: uppercase;
   white-space: nowrap;
-  box-shadow: 0 0 24px rgb(198 255 61 / 0.12), inset 0 -3px 0 rgb(198 255 61 / 0.25);
-  transition: background 0.15s, color 0.15s;
+  box-shadow: 0 0 28px rgb(198 255 61 / 0.35), inset 0 -3px 0 rgb(0 0 0 / 0.18);
+  transition: transform 0.12s, box-shadow 0.15s, filter 0.15s;
 }
 
 .spin:hover:not(:disabled) {
-  background: var(--accent);
-  color: var(--bg);
+  filter: brightness(1.08);
+  transform: translateY(-1px);
+  box-shadow: 0 0 36px rgb(198 255 61 / 0.5), inset 0 -3px 0 rgb(0 0 0 / 0.18);
+}
+
+.spin:active:not(:disabled) {
+  transform: translateY(1px);
+}
+
+.spin.pulse {
+  animation: pulse 2.4s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  50% {
+    box-shadow: 0 0 44px rgb(198 255 61 / 0.6), inset 0 -3px 0 rgb(0 0 0 / 0.18);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .spin.pulse {
+    animation: none;
+  }
 }
 
 .spin.drop {
+  gap: 6px;
+  padding: 16px 6px;
   border-color: var(--accent-2);
-  background: var(--accent-2-soft);
+  background: transparent;
   color: var(--accent-2);
-  box-shadow: 0 0 24px rgb(255 61 139 / 0.12), inset 0 -3px 0 rgb(255 61 139 / 0.25);
+  font-size: 12px;
+  letter-spacing: 0.06em;
+  box-shadow: none;
 }
 
 .spin.drop:hover:not(:disabled) {
-  background: var(--accent-2);
-  color: var(--bg);
+  filter: none;
+  background: var(--accent-2-soft);
+  box-shadow: 0 0 20px rgb(255 61 139 / 0.2);
 }
 
 .bolt {

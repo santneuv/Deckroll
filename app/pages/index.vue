@@ -138,6 +138,7 @@ onBeforeUnmount(() => window.removeEventListener('keydown', onKeydown))
           :facets="facets"
           :matches="pool?.matches ?? null"
           :spinning="spinning"
+          :idle="!current"
           @spin="spin"
         />
       </aside>
@@ -340,7 +341,7 @@ onBeforeUnmount(() => window.removeEventListener('keydown', onKeydown))
 
   .mobile-spin {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 3fr 2fr;
     gap: 8px;
     position: fixed;
     left: 16px;
@@ -370,7 +371,8 @@ onBeforeUnmount(() => window.removeEventListener('keydown', onKeydown))
 
   .mobile-spin .drop {
     border-color: var(--accent-2);
-    background: var(--accent-2);
+    background: var(--bg);
+    color: var(--accent-2);
   }
 
   .toast {
