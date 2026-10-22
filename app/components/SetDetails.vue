@@ -13,7 +13,12 @@ const place = computed(() => [props.set.city, props.set.country].filter(Boolean)
       <dl class="meta">
         <div>
           <dt class="label">Artist</dt>
-          <dd>{{ set.artist }}</dd>
+          <dd>
+            <template v-for="(name, i) in artistNames(set.artist)" :key="name">
+              <span v-if="i > 0" class="sep">/</span>
+              <NuxtLink :to="`/artist/${artistSlug(name)}`" class="artist-link" :title="`All ${name} sets`">{{ name }}</NuxtLink>
+            </template>
+          </dd>
         </div>
         <div>
           <dt class="label">Source</dt>
@@ -139,6 +144,16 @@ const place = computed(() => [props.set.city, props.set.country].filter(Boolean)
 .place {
   text-decoration: underline;
   text-decoration-color: var(--accent-2);
+  text-underline-offset: 4px;
+}
+
+.artist-link {
+  text-decoration: none;
+}
+
+.artist-link:hover {
+  color: var(--accent);
+  text-decoration: underline;
   text-underline-offset: 4px;
 }
 

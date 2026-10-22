@@ -9,6 +9,34 @@ export const SETTING_LABELS: Record<Setting, string> = {
   other: 'Other',
 }
 
+export const DURATION_LABELS: Record<DurationBucket, string> = {
+  short: 'Up to 1h',
+  medium: '1–2h',
+  long: '2h+',
+}
+
+/** Festival slots often run a few minutes over the hour, so each bucket allows 5 minutes of slack */
+export function durationBucket(durationSec: number): DurationBucket {
+  const min = durationSec / 60
+  return min <= 65 ? 'short' : min <= 125 ? 'medium' : 'long'
+}
+
+export const REPORT_REASONS: Record<ReportReason, string> = {
+  'audience': 'Audience / phone recording',
+  'unplayable': 'Won\'t play',
+  'wrong-info': 'Wrong artist or location',
+  'not-a-set': 'Not a full DJ set',
+  'other': 'Something else',
+}
+
+/** b2b sets list every artist: "ARTBAT & Armin van Buuren" */
+export const artistNames = (artist: string) => artist.split(' & ')
+
+/** "Tiësto" -> "tiesto", "Armin van Buuren" -> "armin-van-buuren" */
+export function artistSlug(name: string): string {
+  return name.normalize('NFD').replace(/\p{Diacritic}/gu, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')
+}
+
 const fullNumber = new Intl.NumberFormat('en')
 const mediumDate = new Intl.DateTimeFormat('en', { dateStyle: 'medium', timeZone: 'UTC' })
 

@@ -1,6 +1,6 @@
 # Deckroll
 
-Roll for a random full-length DJ set. Filter by genre, venue, source and city, or **Drop in** to start a set mid-way, on a track change when the set has a tracklist.
+Roll for a random full-length DJ set. Filter by genre, artist, length, venue, source and city, or **Drop in** to start a set mid-way, on a track change when the set has a tracklist.
 
 Built with Nuxt 4. The set catalogue is a JSON file (`data/sets.json`) collected from YouTube with the Data API.
 
@@ -35,19 +35,24 @@ pnpm ingest
 
 A full run costs about 2,000 of the 10,000 daily quota units. Place fields (`city`, `country`, `venue`, `coords`, `setting`) of sets that are already in `data/sets.json` are kept; new sets arrive with `enrichedAt: null` and empty place fields.
 
-## Contact form
+## Contact form and set reports
 
-The header's **Contact** button opens a form that posts to `POST /api/contact` (`name`, `email`, `message`), which emails the message through [Resend](https://resend.com) with the sender's address as reply-to. Set `NUXT_RESEND_API_KEY` and `NUXT_CONTACT_TO` in `.env` and in the hosting environment; until both are set the form answers 503. `NUXT_CONTACT_FROM` defaults to `onboarding@resend.dev`, which only delivers to the Resend account's own address; verify a domain in Resend to send from it.
+The header's **Contact** button opens a form that posts to `POST /api/contact` (`name`, `email`, `message`), which emails the message through [Resend](https://resend.com) with the sender's address as reply-to. **Report a problem** in a set's details posts to `POST /api/report` (`id`, `reason`, optional `note`) and emails the set's links with the reason, for catalogue fixes. Set `NUXT_RESEND_API_KEY` and `NUXT_CONTACT_TO` in `.env` and in the hosting environment; until both are set both forms answer 503. `NUXT_CONTACT_FROM` defaults to `onboarding@resend.dev`, which only delivers to the Resend account's own address; verify a domain in Resend to send from it.
 
 ## API
 
 | Route | Returns |
 |---|---|
-| `GET /api/spin` | One random set matching the filters (`genre`, `city`, `broadcaster`, `setting`, repeatable), skipping `exclude` ids |
+| `GET /api/spin` | One random set matching the filters (`genre`, `artist`, `duration` (`short` / `medium` / `long`), `city`, `broadcaster`, `setting`, repeatable), skipping `exclude` ids |
 | `GET /api/count` | How many sets match the filters |
 | `GET /api/facets` | Filter options with counts |
 | `GET /api/sets/:id` | One set |
 | `GET /api/artist-sets` | Up to 12 other sets by the same artist(s) (`artist`, `exclude`), most viewed first |
+| `GET /api/artists/:slug` | An artist's name, genres and all sets, most viewed first |
+
+## Artist pages
+
+`/artist/<slug>` (for example `/artist/armin-van-buuren`) lists every set by an artist, b2b sets included, and rolls a random one. Artist names in the set details link there, and `/sitemap.xml` lists every artist page.
 
 ## Map
 

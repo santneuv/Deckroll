@@ -6,13 +6,16 @@ const filters = defineModel<SetFilters>({ required: true })
 const radio = defineModel<boolean>('radio', { required: true })
 defineEmits<{ spin: [mode: SpinMode] }>()
 
-const searches = reactive<Record<FilterKey, string>>({ genres: '', settings: '', broadcasters: '', cities: '' })
+const searches = reactive<Record<FilterKey, string>>({ genres: '', artists: '', durations: '', settings: '', broadcasters: '', cities: '' })
 
 const settingLabel = (name: string) => SETTING_LABELS[name as Setting] ?? name
+const durationLabel = (name: string) => DURATION_LABELS[name as DurationBucket] ?? name
 
 const sections = computed(() => [
   { key: 'genres' as const, label: 'Genres', options: props.facets.genres, limit: 10, searchable: true },
-  { key: 'settings' as const, label: 'Venue', options: props.facets.settings, limit: Number.POSITIVE_INFINITY, searchable: false },
+  { key: 'artists' as const, label: 'Artists', options: props.facets.artists, limit: 10, searchable: true },
+  { key: 'durations' as const, label: 'Length', options: props.facets.durations, limit: Number.POSITIVE_INFINITY, searchable: false, format: durationLabel },
+  { key: 'settings' as const, label: 'Venue', options: props.facets.settings, limit: Number.POSITIVE_INFINITY, searchable: false, format: settingLabel },
   { key: 'broadcasters' as const, label: 'Sources', options: props.facets.broadcasters, limit: 8, searchable: true },
   { key: 'cities' as const, label: 'Browse by city', options: props.facets.cities, limit: 12, searchable: true },
 ])
@@ -29,7 +32,7 @@ function clear(key: FilterKey) {
 }
 
 function clearAll() {
-  filters.value = { genres: [], settings: [], broadcasters: [], cities: [] }
+  filters.value = { genres: [], artists: [], durations: [], settings: [], broadcasters: [], cities: [] }
 }
 </script>
 
@@ -92,7 +95,7 @@ function clearAll() {
         :options="s.options"
         :limit="s.limit"
         :search="searches[s.key]"
-        :format="s.key === 'settings' ? settingLabel : undefined"
+        :format="s.format"
         @update:model-value="update(s.key, $event)"
       />
     </section>

@@ -64,7 +64,12 @@ function onBackdropClick(e: MouseEvent) {
         </div>
         <div>
           <dt class="label">Artist</dt>
-          <dd>{{ set.artist }}</dd>
+          <dd>
+            <template v-for="(name, i) in artistNames(set.artist)" :key="name">
+              <span v-if="i > 0" class="sep">/</span>
+              <NuxtLink :to="`/artist/${artistSlug(name)}`" class="artist-link" :title="`All ${name} sets`">{{ name }}</NuxtLink>
+            </template>
+          </dd>
         </div>
         <div>
           <dt class="label">Runtime</dt>
@@ -115,6 +120,8 @@ function onBackdropClick(e: MouseEvent) {
         </a>
         <button type="button" class="btn primary" @click="emit('close')">Close details</button>
       </footer>
+
+      <ReportForm :key="set.id" :set-id="set.id" />
     </div>
   </dialog>
 </template>
@@ -239,6 +246,16 @@ function onBackdropClick(e: MouseEvent) {
   font-family: var(--mono);
   font-size: 13px;
   overflow-wrap: anywhere;
+}
+
+.artist-link {
+  text-decoration: none;
+}
+
+.artist-link:hover {
+  color: var(--accent);
+  text-decoration: underline;
+  text-underline-offset: 4px;
 }
 
 .sep {

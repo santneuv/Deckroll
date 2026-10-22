@@ -6,9 +6,11 @@ const router = useRouter()
 
 const { data: facets } = await useFetch('/api/facets')
 
-const filters = ref<SetFilters>({ genres: [], settings: [], broadcasters: [], cities: [] })
+const filters = ref<SetFilters>({ genres: [], artists: [], durations: [], settings: [], broadcasters: [], cities: [] })
 const filterQuery = computed(() => ({
   genre: filters.value.genres,
+  artist: filters.value.artists,
+  duration: filters.value.durations,
   setting: filters.value.settings,
   broadcaster: filters.value.broadcasters,
   city: filters.value.cities,

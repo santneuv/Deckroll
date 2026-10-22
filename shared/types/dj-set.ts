@@ -38,9 +38,23 @@ export type SpinMode = 'random' | 'drop'
 /** Empty list means "any"; several values in one list match any of them */
 export interface SetFilters {
   genres: string[]
+  artists: string[]
+  durations: string[]
   cities: string[]
   broadcasters: string[]
   settings: string[]
+}
+
+export type DurationBucket = 'short' | 'medium' | 'long'
+
+export type ReportReason = 'audience' | 'unplayable' | 'wrong-info' | 'not-a-set' | 'other'
+
+export interface ArtistPage {
+  name: string
+  slug: string
+  genres: string[]
+  /** Most viewed first */
+  sets: DjSet[]
 }
 
 export interface CityPoint {
@@ -59,6 +73,9 @@ export interface FacetCount {
 export interface Facets {
   total: number
   genres: FacetCount[]
+  artists: FacetCount[]
+  /** In DURATION_LABELS order, not by count */
+  durations: FacetCount[]
   cities: FacetCount[]
   broadcasters: FacetCount[]
   settings: FacetCount[]
