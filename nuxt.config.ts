@@ -4,6 +4,10 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ['@vercel/analytics'],
   runtimeConfig: {
+    // Contact form email (Resend); set with NUXT_RESEND_API_KEY, NUXT_CONTACT_TO, NUXT_CONTACT_FROM
+    resendApiKey: '',
+    contactTo: '',
+    contactFrom: 'Deckroll <onboarding@resend.dev>',
     public: {
       siteUrl: 'https://deckroll.xyz',
     },

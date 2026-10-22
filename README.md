@@ -35,6 +35,10 @@ pnpm ingest
 
 A full run costs about 2,000 of the 10,000 daily quota units. Place fields (`city`, `country`, `venue`, `coords`, `setting`) of sets that are already in `data/sets.json` are kept; new sets arrive with `enrichedAt: null` and empty place fields.
 
+## Contact form
+
+The header's **Contact** button opens a form that posts to `POST /api/contact` (`name`, `email`, `message`), which emails the message through [Resend](https://resend.com) with the sender's address as reply-to. Set `NUXT_RESEND_API_KEY` and `NUXT_CONTACT_TO` in `.env` and in the hosting environment; until both are set the form answers 503. `NUXT_CONTACT_FROM` defaults to `onboarding@resend.dev`, which only delivers to the Resend account's own address; verify a domain in Resend to send from it.
+
 ## API
 
 | Route | Returns |

@@ -1,5 +1,24 @@
 [
   {
+    "id": "2Qdshji9C0k",
+    "title": "Neelix vs Sighter @ Maya Festival",
+    "artist": "Neelix",
+    "broadcaster": "Sighter",
+    "city": null,
+    "country": null,
+    "venue": "Maya Festival",
+    "coords": null,
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3635,
+    "cues": [],
+    "views": 40061,
+    "genres": [
+      "Psytrance"
+    ],
+    "publishedAt": "2026-10-20T15:00:07Z"
+  },
+  {
     "id": "2BI8l_gtZIg",
     "title": "Swedish House Mafia — Head Trip Festival 2026 (LIVESTREAM AUDIO)",
     "artist": "Swedish House Mafia",
@@ -15,7 +34,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 4342,
     "cues": [],
-    "views": 10817,
+    "views": 14965,
     "genres": [
       "EDM"
     ],
@@ -34,7 +53,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3600,
     "cues": [],
-    "views": 9333,
+    "views": 9557,
     "genres": [
       "Trance"
     ],
@@ -74,7 +93,7 @@
       3110,
       3315
     ],
-    "views": 69932,
+    "views": 71487,
     "genres": [
       "House",
       "Trance"
@@ -94,7 +113,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3600,
     "cues": [],
-    "views": 10210,
+    "views": 10334,
     "genres": [
       "Trance"
     ],
@@ -116,7 +135,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5358,
     "cues": [],
-    "views": 262232,
+    "views": 270613,
     "genres": [
       "Tech House"
     ],
@@ -135,11 +154,52 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3600,
     "cues": [],
-    "views": 9474,
+    "views": 9546,
     "genres": [
       "Trance"
     ],
     "publishedAt": "2026-09-28T16:00:35Z"
+  },
+  {
+    "id": "ij4YKYX98d0",
+    "title": "Armin van Buuren F2F Argy - Live at [UNVRS] 2026",
+    "artist": "Armin van Buuren",
+    "broadcaster": "[UNVRS] Ibiza",
+    "city": "Ibiza",
+    "country": "Spain",
+    "venue": "UNVRS",
+    "coords": [
+      38.96,
+      1.41
+    ],
+    "setting": "club",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 5388,
+    "cues": [],
+    "views": 421808,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-09-27T15:00:16Z"
+  },
+  {
+    "id": "hc14S3cdUtw",
+    "title": "A State of Trance Episode 1296 - Armin van Buuren UNFILTERED #008 (@astateoftrance)",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 7356,
+    "cues": [],
+    "views": 220634,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-09-24T20:09:31Z"
   },
   {
     "id": "TvLJ2j3oUPg",
@@ -157,7 +217,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5300,
     "cues": [],
-    "views": 179319,
+    "views": 184333,
     "genres": [
       "Minimal Techno"
     ],
@@ -176,7 +236,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3600,
     "cues": [],
-    "views": 10267,
+    "views": 10318,
     "genres": [
       "Trance"
     ],
@@ -238,7 +298,7 @@
       9289,
       9619
     ],
-    "views": 22494,
+    "views": 22670,
     "genres": [
       "EDM"
     ],
@@ -257,11 +317,33 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3600,
     "cues": [],
-    "views": 8532,
+    "views": 8554,
     "genres": [
       "Trance"
     ],
     "publishedAt": "2026-09-14T16:00:06Z"
+  },
+  {
+    "id": "GS6J1gNHhzA",
+    "title": "AFROJACK - LIVE ULTRA EUROPE 2026 (FULL SET)",
+    "artist": "Afrojack",
+    "broadcaster": "Hard EDM",
+    "city": "Split",
+    "country": "Croatia",
+    "venue": "Ultra Europe",
+    "coords": [
+      43.51,
+      16.44
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 4416,
+    "cues": [],
+    "views": 4292,
+    "genres": [
+      "EDM"
+    ],
+    "publishedAt": "2026-09-12T16:48:28Z"
   },
   {
     "id": "uJeik_CC1Vg",
@@ -279,7 +361,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 6901,
     "cues": [],
-    "views": 343416,
+    "views": 350581,
     "genres": [
       "Tech House"
     ],
@@ -301,7 +383,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 4569,
     "cues": [],
-    "views": 893939,
+    "views": 907582,
     "genres": [
       "House",
       "Trance"
@@ -354,7 +436,7 @@
       6048,
       6174
     ],
-    "views": 18525,
+    "views": 18587,
     "genres": [
       "EDM"
     ],
@@ -376,7 +458,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5191,
     "cues": [],
-    "views": 53100,
+    "views": 53675,
     "genres": [
       "House"
     ],
@@ -395,7 +477,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3600,
     "cues": [],
-    "views": 10601,
+    "views": 10614,
     "genres": [
       "Trance"
     ],
@@ -417,7 +499,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 6361,
     "cues": [],
-    "views": 181009,
+    "views": 184119,
     "genres": [
       "Techno"
     ],
@@ -455,11 +537,33 @@
       3158,
       3373
     ],
-    "views": 10180,
+    "views": 10201,
     "genres": [
       "EDM"
     ],
     "publishedAt": "2026-09-05T14:00:21Z"
+  },
+  {
+    "id": "_725YlCenqU",
+    "title": "Armin van Buuren live at Touquet Music Beach Festival 2026",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Le Touquet-Paris-Plage",
+    "country": "France",
+    "venue": "Touquet Music Beach Festival",
+    "coords": [
+      50.52,
+      1.59
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 6142,
+    "cues": [],
+    "views": 385897,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-09-04T15:00:09Z"
   },
   {
     "id": "w48yCuB-_w0",
@@ -501,11 +605,33 @@
       3114,
       3140
     ],
-    "views": 42764,
+    "views": 43246,
     "genres": [
       "Techno"
     ],
     "publishedAt": "2026-09-03T17:00:06Z"
+  },
+  {
+    "id": "BH3PJfsJIMQ",
+    "title": "Armin van Buuren live at Creamfields 2026 APEX Stage",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Daresbury",
+    "country": "United Kingdom",
+    "venue": "Creamfields",
+    "coords": [
+      53.34,
+      -2.63
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 5354,
+    "cues": [],
+    "views": 673952,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-09-02T10:00:28Z"
   },
   {
     "id": "HeWhF_du_bM",
@@ -520,11 +646,33 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3600,
     "cues": [],
-    "views": 11046,
+    "views": 11062,
     "genres": [
       "Trance"
     ],
     "publishedAt": "2026-08-31T16:00:06Z"
+  },
+  {
+    "id": "35lWO4d5KTs",
+    "title": "Armin van Buuren live at A State of Trance 2026 (Friday | Area 1 Warm Up Hour)",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "venue": "A State of Trance (Jaarbeurs)",
+    "coords": [
+      52.09,
+      5.11
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3680,
+    "cues": [],
+    "views": 349210,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-08-28T15:00:01Z"
   },
   {
     "id": "KCCba56g2Xk",
@@ -539,7 +687,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3600,
     "cues": [],
-    "views": 8211,
+    "views": 8223,
     "genres": [
       "Trance"
     ],
@@ -589,7 +737,7 @@
       6787,
       6970
     ],
-    "views": 19735,
+    "views": 19785,
     "genres": [
       "EDM"
     ],
@@ -611,7 +759,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 4295,
     "cues": [],
-    "views": 667921,
+    "views": 672154,
     "genres": [
       "House"
     ],
@@ -630,7 +778,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3600,
     "cues": [],
-    "views": 7467,
+    "views": 7478,
     "genres": [
       "Trance"
     ],
@@ -652,7 +800,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7110,
     "cues": [],
-    "views": 1085,
+    "views": 1113,
     "genres": [
       "EDM"
     ],
@@ -699,11 +847,30 @@
       6754,
       7023
     ],
-    "views": 7144,
+    "views": 7319,
     "genres": [
       "Melodic Techno"
     ],
     "publishedAt": "2026-08-17T09:00:27Z"
+  },
+  {
+    "id": "AhlwTljZafo",
+    "title": "Armin van Buuren live at A State of Trance Poland 2026",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": null,
+    "country": "Poland",
+    "venue": "A State of Trance Poland",
+    "coords": null,
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 5425,
+    "cues": [],
+    "views": 688070,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-08-15T14:00:35Z"
   },
   {
     "id": "blP5J6BUG0M",
@@ -740,7 +907,7 @@
       3392,
       3472
     ],
-    "views": 55925,
+    "views": 56109,
     "genres": [
       "House",
       "Trance"
@@ -763,7 +930,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 4571,
     "cues": [],
-    "views": 7241,
+    "views": 7342,
     "genres": [
       "EDM"
     ],
@@ -785,11 +952,30 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5360,
     "cues": [],
-    "views": 146567,
+    "views": 147738,
     "genres": [
       "Tech House"
     ],
     "publishedAt": "2026-08-12T21:50:29Z"
+  },
+  {
+    "id": "qP_GbAqnP_I",
+    "title": "Armin van Buuren F2F John Summit live at A State of Trance Poland 2026",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": null,
+    "country": "Poland",
+    "venue": "A State of Trance Poland",
+    "coords": null,
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3808,
+    "cues": [],
+    "views": 579837,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-08-12T17:00:37Z"
   },
   {
     "id": "GNzOWq53_Qw",
@@ -804,7 +990,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3600,
     "cues": [],
-    "views": 7278,
+    "views": 7294,
     "genres": [
       "Trance"
     ],
@@ -842,7 +1028,7 @@
       3166,
       3448
     ],
-    "views": 48365,
+    "views": 48536,
     "genres": [
       "House",
       "Trance"
@@ -901,7 +1087,7 @@
       6902,
       7172
     ],
-    "views": 10420,
+    "views": 10490,
     "genres": [
       "EDM"
     ],
@@ -923,7 +1109,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5360,
     "cues": [],
-    "views": 145907,
+    "views": 147323,
     "genres": [
       "Psytrance"
     ],
@@ -945,7 +1131,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 6967,
     "cues": [],
-    "views": 388903,
+    "views": 393222,
     "genres": [
       "House"
     ],
@@ -967,7 +1153,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 10776,
     "cues": [],
-    "views": 1050766,
+    "views": 1061640,
     "genres": [
       "House",
       "Trance"
@@ -990,7 +1176,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 4904,
     "cues": [],
-    "views": 435164,
+    "views": 439823,
     "genres": [
       "Tech House"
     ],
@@ -1012,7 +1198,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3508,
     "cues": [],
-    "views": 257621,
+    "views": 260352,
     "genres": [
       "Tech House"
     ],
@@ -1031,7 +1217,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3600,
     "cues": [],
-    "views": 7287,
+    "views": 7303,
     "genres": [
       "Trance"
     ],
@@ -1053,11 +1239,55 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5298,
     "cues": [],
-    "views": 262416,
+    "views": 267792,
     "genres": [
       "Melodic Techno"
     ],
     "publishedAt": "2026-07-28T15:00:36Z"
+  },
+  {
+    "id": "tg_QLGpes0k",
+    "title": "Armin van Buuren WE2 | Tomorrowland 2026",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Tomorrowland",
+    "city": "Boom",
+    "country": "Belgium",
+    "venue": "Tomorrowland",
+    "coords": [
+      51.09,
+      4.37
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3741,
+    "cues": [],
+    "views": 1502111,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-07-28T15:00:26Z"
+  },
+  {
+    "id": "pwXGm4HEQdo",
+    "title": "Armin van Buuren WE1 | Tomorrowland 2026",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Tomorrowland",
+    "city": "Boom",
+    "country": "Belgium",
+    "venue": "Tomorrowland",
+    "coords": [
+      51.09,
+      4.37
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 8808,
+    "cues": [],
+    "views": 642627,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-07-28T15:00:23Z"
   },
   {
     "id": "dmhUJYEdkKo",
@@ -1075,7 +1305,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3508,
     "cues": [],
-    "views": 319354,
+    "views": 321300,
     "genres": [
       "House"
     ],
@@ -1097,7 +1327,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3580,
     "cues": [],
-    "views": 1538888,
+    "views": 1555921,
     "genres": [
       "Minimal Techno"
     ],
@@ -1119,7 +1349,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3645,
     "cues": [],
-    "views": 378016,
+    "views": 382072,
     "genres": [
       "EDM"
     ],
@@ -1141,7 +1371,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3571,
     "cues": [],
-    "views": 1089751,
+    "views": 1102368,
     "genres": [
       "Techno"
     ],
@@ -1163,7 +1393,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5298,
     "cues": [],
-    "views": 1537573,
+    "views": 1555076,
     "genres": [
       "Melodic Techno"
     ],
@@ -1185,7 +1415,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3600,
     "cues": [],
-    "views": 8020,
+    "views": 8043,
     "genres": [
       "Trance"
     ],
@@ -1207,7 +1437,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3590,
     "cues": [],
-    "views": 188646,
+    "views": 189549,
     "genres": [
       "Minimal Techno"
     ],
@@ -1229,7 +1459,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5285,
     "cues": [],
-    "views": 39958,
+    "views": 40498,
     "genres": [
       "House"
     ],
@@ -1251,7 +1481,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7424,
     "cues": [],
-    "views": 251228,
+    "views": 252536,
     "genres": [
       "Tech House"
     ],
@@ -1298,7 +1528,7 @@
       2411,
       2571
     ],
-    "views": 304696,
+    "views": 307614,
     "genres": [
       "House"
     ],
@@ -1317,7 +1547,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3600,
     "cues": [],
-    "views": 8110,
+    "views": 8140,
     "genres": [
       "Trance"
     ],
@@ -1358,7 +1588,7 @@
       3325,
       3446
     ],
-    "views": 49348,
+    "views": 49430,
     "genres": [
       "House",
       "Trance"
@@ -1381,11 +1611,33 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5068,
     "cues": [],
-    "views": 26146,
+    "views": 26469,
     "genres": [
       "EDM"
     ],
     "publishedAt": "2026-07-16T15:41:10Z"
+  },
+  {
+    "id": "Vh8y7ro0mrQ",
+    "title": "ARMIN VAN BUUREN LIVE AT ULTRA EUROPE 2026",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Split",
+    "country": "Croatia",
+    "venue": "Ultra Europe",
+    "coords": [
+      43.51,
+      16.44
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 4659,
+    "cues": [],
+    "views": 494227,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-07-13T21:05:40Z"
   },
   {
     "id": "NpF9yBDtTXY",
@@ -1400,11 +1652,33 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3600,
     "cues": [],
-    "views": 7553,
+    "views": 7565,
     "genres": [
       "Trance"
     ],
     "publishedAt": "2026-07-13T16:00:06Z"
+  },
+  {
+    "id": "34KDt98IMxM",
+    "title": "Armin van Buuren live at Kappa FuturFestival 2026",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Kappa FuturFestival",
+    "city": "Turin",
+    "country": "Italy",
+    "venue": "Kappa FuturFestival",
+    "coords": [
+      45.03,
+      7.66
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 5261,
+    "cues": [],
+    "views": 249503,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-07-10T18:00:06Z"
   },
   {
     "id": "fiJVrvj063I",
@@ -1422,7 +1696,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7229,
     "cues": [],
-    "views": 231473,
+    "views": 232370,
     "genres": [
       "Tech House"
     ],
@@ -1441,11 +1715,76 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 4868,
     "cues": [],
-    "views": 41753,
+    "views": 41858,
     "genres": [
       "EDM"
     ],
     "publishedAt": "2026-07-03T15:00:06Z"
+  },
+  {
+    "id": "ZSmTmQKGPZY",
+    "title": "Armin van Buuren Vinyl Trance Classic Set at UNVRS [25 years of ASOT]",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Ibiza",
+    "country": "Spain",
+    "venue": "UNVRS",
+    "coords": [
+      38.96,
+      1.41
+    ],
+    "setting": "club",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3568,
+    "cues": [],
+    "views": 543066,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-07-03T10:00:06Z"
+  },
+  {
+    "id": "JQtaV79qp4k",
+    "title": "A State of Trance Episode 1284 - Armin van Buuren vinyl set from UNVRS Ibiza (@astateoftrance)",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Ibiza",
+    "country": "Spain",
+    "venue": "UNVRS",
+    "coords": [
+      38.96,
+      1.41
+    ],
+    "setting": "club",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 7180,
+    "cues": [
+      0,
+      87,
+      228,
+      408,
+      543,
+      706,
+      913,
+      1061,
+      1357,
+      1493,
+      1709,
+      1871,
+      2017,
+      2178,
+      2543,
+      2649,
+      2847,
+      3059,
+      3381,
+      3621
+    ],
+    "views": 128800,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-07-02T20:09:54Z"
   },
   {
     "id": "i18OT9vj_Pk",
@@ -1460,7 +1799,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3600,
     "cues": [],
-    "views": 6696,
+    "views": 6703,
     "genres": [
       "Trance"
     ],
@@ -1479,7 +1818,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3631,
     "cues": [],
-    "views": 143186,
+    "views": 144247,
     "genres": [
       "Trance"
     ],
@@ -1518,7 +1857,7 @@
       3181,
       3341
     ],
-    "views": 5639,
+    "views": 5641,
     "genres": [
       "EDM"
     ],
@@ -1559,7 +1898,7 @@
       3108,
       3381
     ],
-    "views": 49435,
+    "views": 49523,
     "genres": [
       "House",
       "Trance"
@@ -1579,7 +1918,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 2032,
     "cues": [],
-    "views": 99903,
+    "views": 100315,
     "genres": [
       "EDM"
     ],
@@ -1598,7 +1937,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3600,
     "cues": [],
-    "views": 7468,
+    "views": 7477,
     "genres": [
       "Trance"
     ],
@@ -1620,11 +1959,30 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3744,
     "cues": [],
-    "views": 183964,
+    "views": 185338,
     "genres": [
       "Melodic House"
     ],
     "publishedAt": "2026-06-19T16:00:06Z"
+  },
+  {
+    "id": "rrKV1sphRE0",
+    "title": "Armin van Buuren live at A State of Trance Vietnam 2026",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": null,
+    "country": "Vietnam",
+    "venue": "A State of Trance Vietnam",
+    "coords": null,
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 5411,
+    "cues": [],
+    "views": 606274,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-06-19T10:00:22Z"
   },
   {
     "id": "L42qMfBWJqc",
@@ -1639,7 +1997,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3600,
     "cues": [],
-    "views": 7572,
+    "views": 7585,
     "genres": [
       "Trance"
     ],
@@ -1661,7 +2019,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 2773,
     "cues": [],
-    "views": 5863,
+    "views": 5992,
     "genres": [
       "EDM"
     ],
@@ -1702,7 +2060,7 @@
       3373,
       3529
     ],
-    "views": 57202,
+    "views": 57282,
     "genres": [
       "House",
       "Trance"
@@ -1725,7 +2083,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7206,
     "cues": [],
-    "views": 626799,
+    "views": 631990,
     "genres": [
       "Techno"
     ],
@@ -1744,7 +2102,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3600,
     "cues": [],
-    "views": 6239,
+    "views": 6243,
     "genres": [
       "Trance"
     ],
@@ -1763,11 +2121,33 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3600,
     "cues": [],
-    "views": 14559,
+    "views": 14609,
     "genres": [
       "Melodic Techno"
     ],
     "publishedAt": "2026-06-06T16:00:25Z"
+  },
+  {
+    "id": "DzxabPIcHZE",
+    "title": "Armin van Buuren celebrating 25 years of A State of Trance at The Loft Amsterdam",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "venue": "The Loft",
+    "coords": [
+      52.37,
+      4.9
+    ],
+    "setting": "club",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 7337,
+    "cues": [],
+    "views": 420709,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-06-05T14:00:35Z"
   },
   {
     "id": "_bKZIUr9s4g",
@@ -1785,7 +2165,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7547,
     "cues": [],
-    "views": 539403,
+    "views": 541935,
     "genres": [
       "Tech House"
     ],
@@ -1829,7 +2209,7 @@
       3221,
       3455
     ],
-    "views": 149985,
+    "views": 150456,
     "genres": [
       "House"
     ],
@@ -1848,7 +2228,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3600,
     "cues": [],
-    "views": 6177,
+    "views": 6179,
     "genres": [
       "Trance"
     ],
@@ -1867,7 +2247,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7307,
     "cues": [],
-    "views": 44401,
+    "views": 44447,
     "genres": [
       "House"
     ],
@@ -1886,7 +2266,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3417,
     "cues": [],
-    "views": 6627,
+    "views": 6630,
     "genres": [
       "Trance"
     ],
@@ -1908,11 +2288,33 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3584,
     "cues": [],
-    "views": 206320,
+    "views": 207627,
     "genres": [
       "Trance"
     ],
     "publishedAt": "2026-05-23T19:56:51Z"
+  },
+  {
+    "id": "n-MhD_TdzN4",
+    "title": "Armin van Buuren live at EDC Las Vegas 2026",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Las Vegas",
+    "country": "United States",
+    "venue": "EDC Las Vegas",
+    "coords": [
+      36.27,
+      -115.01
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 4461,
+    "cues": [],
+    "views": 1255356,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-05-20T19:03:15Z"
   },
   {
     "id": "NsmhG-ec6XI",
@@ -1930,7 +2332,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 4179,
     "cues": [],
-    "views": 559184,
+    "views": 560821,
     "genres": [
       "Tech House"
     ],
@@ -1952,7 +2354,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3770,
     "cues": [],
-    "views": 13279,
+    "views": 13345,
     "genres": [
       "Melodic House"
     ],
@@ -1974,7 +2376,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 4432,
     "cues": [],
-    "views": 1271857,
+    "views": 1279292,
     "genres": [
       "Techno"
     ],
@@ -1993,7 +2395,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3600,
     "cues": [],
-    "views": 5962,
+    "views": 5965,
     "genres": [
       "Trance"
     ],
@@ -2049,7 +2451,7 @@
       5051,
       5196
     ],
-    "views": 2180030,
+    "views": 2186705,
     "genres": [
       "House",
       "Trance"
@@ -2069,7 +2471,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3600,
     "cues": [],
-    "views": 8634,
+    "views": 8648,
     "genres": [
       "Trance"
     ],
@@ -2091,7 +2493,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 4016,
     "cues": [],
-    "views": 52070,
+    "views": 52252,
     "genres": [
       "House"
     ],
@@ -2110,7 +2512,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3600,
     "cues": [],
-    "views": 8298,
+    "views": 8313,
     "genres": [
       "Trance"
     ],
@@ -2132,7 +2534,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3604,
     "cues": [],
-    "views": 1211061,
+    "views": 1259660,
     "genres": [
       "House"
     ],
@@ -2154,7 +2556,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 2549,
     "cues": [],
-    "views": 109076,
+    "views": 109341,
     "genres": [
       "EDM"
     ],
@@ -2176,7 +2578,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 10972,
     "cues": [],
-    "views": 137623,
+    "views": 138291,
     "genres": [
       "Trance"
     ],
@@ -2195,7 +2597,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3600,
     "cues": [],
-    "views": 8317,
+    "views": 8321,
     "genres": [
       "Trance"
     ],
@@ -2217,11 +2619,93 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7107,
     "cues": [],
-    "views": 355272,
+    "views": 356257,
     "genres": [
       "EDM"
     ],
     "publishedAt": "2026-04-24T11:28:01Z"
+  },
+  {
+    "id": "lWga__HKDa4",
+    "title": "Armin Van Buuren live from Framework In The Desert 2026",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Framework",
+    "city": null,
+    "country": "United States",
+    "venue": "Framework In The Desert",
+    "coords": null,
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 7284,
+    "cues": [],
+    "views": 175928,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-04-23T19:00:06Z"
+  },
+  {
+    "id": "_eWkwko4QgU",
+    "title": "Adam Beyer B2B Armin van Buuren (presenting Techno Trance) live at Coachella 2026 (Yuma)",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Indio",
+    "country": "United States",
+    "venue": "Coachella",
+    "coords": [
+      33.68,
+      -116.24
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 7175,
+    "cues": [],
+    "views": 103495,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-04-23T11:00:55Z"
+  },
+  {
+    "id": "JZ3XE_34d0U",
+    "title": "Armin van Buuren B2B Adam Beyer (presenting Techno Trance) live at Coachella 2026 (Quasar)",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Indio",
+    "country": "United States",
+    "venue": "Coachella",
+    "coords": [
+      33.68,
+      -116.24
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 7068,
+    "cues": [],
+    "views": 424756,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-04-22T15:00:36Z"
+  },
+  {
+    "id": "K7ypNIi7oJI",
+    "title": "Cosmic Gate: Wake Your Mind Radio 628",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 7804,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-04-20T16:00:06Z"
   },
   {
     "id": "AcSwUs3hUCs",
@@ -2239,7 +2723,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 2312,
     "cues": [],
-    "views": 65678,
+    "views": 65845,
     "genres": [
       "EDM"
     ],
@@ -2261,7 +2745,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3557,
     "cues": [],
-    "views": 135725,
+    "views": 136545,
     "genres": [
       "Melodic Techno"
     ],
@@ -2280,7 +2764,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5430,
     "cues": [],
-    "views": 130191,
+    "views": 130319,
     "genres": [
       "House"
     ],
@@ -2299,11 +2783,33 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3600,
     "cues": [],
-    "views": 8443,
+    "views": 8474,
     "genres": [
       "Trance"
     ],
     "publishedAt": "2026-04-13T16:00:06Z"
+  },
+  {
+    "id": "RcdwGLyNv7k",
+    "title": "Armin van Buuren live at Laroc Club Valinhos",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Laroc Club",
+    "city": "Valinhos",
+    "country": "Brazil",
+    "venue": "Laroc Club",
+    "coords": [
+      -22.97,
+      -46.99
+    ],
+    "setting": "club",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 7186,
+    "cues": [],
+    "views": 468260,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-04-09T22:58:05Z"
   },
   {
     "id": "nqAuzDbrXOo",
@@ -2318,11 +2824,33 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3600,
     "cues": [],
-    "views": 7294,
+    "views": 7302,
     "genres": [
       "Trance"
     ],
     "publishedAt": "2026-04-06T16:00:06Z"
+  },
+  {
+    "id": "VqM1CxE6lUU",
+    "title": "Armin van Buuren B2B Deep Dish live at A State of Trance 2026 (Friday | Area 1)",
+    "artist": "Armin van Buuren",
+    "broadcaster": "A State Of Trance",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "venue": "A State of Trance (Jaarbeurs)",
+    "coords": [
+      52.09,
+      5.11
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3602,
+    "cues": [],
+    "views": 220346,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-04-02T14:00:44Z"
   },
   {
     "id": "i6oge3bkCV4",
@@ -2340,11 +2868,55 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3159,
     "cues": [],
-    "views": 59570,
+    "views": 59775,
     "genres": [
       "House"
     ],
     "publishedAt": "2026-04-01T22:07:12Z"
+  },
+  {
+    "id": "ryWafbm6sl4",
+    "title": "ARMIN VAN BUUREN LIVE AT ULTRA MIAMI 2026 ASOT WORLDWIDE STAGE",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Miami",
+    "country": "United States",
+    "venue": "Ultra Music Festival",
+    "coords": [
+      25.78,
+      -80.19
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 5146,
+    "cues": [],
+    "views": 448932,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-04-01T14:01:02Z"
+  },
+  {
+    "id": "XM0zfkqLMzI",
+    "title": "ARMIN VAN BUUREN B2B MARLON HOFFSTADT LIVE AT ULTRA MIAMI 2026 ASOT WORLDWIDE STAGE",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Miami",
+    "country": "United States",
+    "venue": "Ultra Music Festival",
+    "coords": [
+      25.78,
+      -80.19
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 5386,
+    "cues": [],
+    "views": 331462,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-03-31T16:32:46Z"
   },
   {
     "id": "6gk4FD1uSCQ",
@@ -2362,7 +2934,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7209,
     "cues": [],
-    "views": 258002,
+    "views": 258658,
     "genres": [
       "House"
     ],
@@ -2384,7 +2956,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3596,
     "cues": [],
-    "views": 1222593,
+    "views": 1227556,
     "genres": [
       "Melodic Techno"
     ],
@@ -2406,11 +2978,30 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 4792,
     "cues": [],
-    "views": 1975764,
+    "views": 1984428,
     "genres": [
       "EDM"
     ],
     "publishedAt": "2026-03-30T16:43:36Z"
+  },
+  {
+    "id": "sTfWb1Pu9jM",
+    "title": "Cosmic Gate: Wake Your Mind Radio 625",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 8335,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-03-30T16:00:06Z"
   },
   {
     "id": "Wp2ZDKoU_-4",
@@ -2428,7 +3019,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3620,
     "cues": [],
-    "views": 1623013,
+    "views": 1632463,
     "genres": [
       "Techno"
     ],
@@ -2450,7 +3041,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3538,
     "cues": [],
-    "views": 771614,
+    "views": 772483,
     "genres": [
       "EDM"
     ],
@@ -2472,11 +3063,33 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3624,
     "cues": [],
-    "views": 1714738,
+    "views": 1718701,
     "genres": [
       "EDM"
     ],
     "publishedAt": "2026-03-30T06:48:22Z"
+  },
+  {
+    "id": "rcL1_PJ8l3U",
+    "title": "ARMIN VAN BUUREN LIVE AT ULTRA MIAMI 2026 MAINSTAGE",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Miami",
+    "country": "United States",
+    "venue": "Ultra Music Festival",
+    "coords": [
+      25.78,
+      -80.19
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3643,
+    "cues": [],
+    "views": 1702656,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-03-29T16:17:34Z"
   },
   {
     "id": "2dBfvEhwe2Q",
@@ -2494,7 +3107,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7347,
     "cues": [],
-    "views": 672531,
+    "views": 674165,
     "genres": [
       "Tech House"
     ],
@@ -2513,11 +3126,55 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5953,
     "cues": [],
-    "views": 8811,
+    "views": 8861,
     "genres": [
       "Minimal Techno"
     ],
     "publishedAt": "2026-03-28T16:45:06Z"
+  },
+  {
+    "id": "ifbfwHkhhFc",
+    "title": "Armin van Buuren live at A State of Trance 2026 (Saturday | Area 1)",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "venue": "A State of Trance (Jaarbeurs)",
+    "coords": [
+      52.09,
+      5.11
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 5380,
+    "cues": [],
+    "views": 1454081,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-03-18T16:10:14Z"
+  },
+  {
+    "id": "aWxPKNiEnu4",
+    "title": "Armin van Buuren f2f Funk Tribu live at A State of Trance 2026 (Friday | Area 1)",
+    "artist": "Armin van Buuren",
+    "broadcaster": "A State Of Trance",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "venue": "A State of Trance (Jaarbeurs)",
+    "coords": [
+      52.09,
+      5.11
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3239,
+    "cues": [],
+    "views": 385804,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-03-16T14:55:06Z"
   },
   {
     "id": "B6fR3ybPYBQ",
@@ -2535,11 +3192,33 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3261,
     "cues": [],
-    "views": 73999,
+    "views": 74168,
     "genres": [
       "House"
     ],
     "publishedAt": "2026-03-12T16:45:01Z"
+  },
+  {
+    "id": "zYNu_0ZG1lM",
+    "title": "Armin van Buuren b3b Oliver Heldens b3b Maddix live at A State of Trance 2026 (Saturday | Area 1)",
+    "artist": "Armin van Buuren",
+    "broadcaster": "A State Of Trance",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "venue": "A State of Trance (Jaarbeurs)",
+    "coords": [
+      52.09,
+      5.11
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3570,
+    "cues": [],
+    "views": 490465,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-03-11T17:55:07Z"
   },
   {
     "id": "2EQGqEvLAuE",
@@ -2595,7 +3274,7 @@
       7148,
       7348
     ],
-    "views": 1034517,
+    "views": 1038579,
     "genres": [
       "House",
       "Trance"
@@ -2618,11 +3297,33 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3344,
     "cues": [],
-    "views": 424575,
+    "views": 426640,
     "genres": [
       "Trance"
     ],
     "publishedAt": "2026-03-09T14:55:07Z"
+  },
+  {
+    "id": "e2Y3pFxt2zg",
+    "title": "Armin van Buuren - 25 Years Celebration Set live at A State of Trance 2026",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "venue": "A State of Trance (Jaarbeurs)",
+    "coords": [
+      52.09,
+      5.11
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 7052,
+    "cues": [],
+    "views": 1103308,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-03-03T20:25:07Z"
   },
   {
     "id": "TljfURv5ss8",
@@ -2637,7 +3338,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3600,
     "cues": [],
-    "views": 8318,
+    "views": 8320,
     "genres": [
       "Trance"
     ],
@@ -2659,7 +3360,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5074,
     "cues": [],
-    "views": 528526,
+    "views": 529761,
     "genres": [
       "House"
     ],
@@ -2678,7 +3379,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3600,
     "cues": [],
-    "views": 8153,
+    "views": 8164,
     "genres": [
       "Trance"
     ],
@@ -2697,7 +3398,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 6551,
     "cues": [],
-    "views": 91007,
+    "views": 91077,
     "genres": [
       "House"
     ],
@@ -2738,7 +3439,7 @@
       3193,
       3475
     ],
-    "views": 90734,
+    "views": 90811,
     "genres": [
       "House",
       "Trance"
@@ -2761,11 +3462,30 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 14592,
     "cues": [],
-    "views": 492216,
+    "views": 494147,
     "genres": [
       "Melodic Techno"
     ],
     "publishedAt": "2026-02-08T17:00:07Z"
+  },
+  {
+    "id": "Dh1nzcABzns",
+    "title": "Cosmic Gate: Wake Your Mind Radio 617",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3600,
+    "cues": [],
+    "views": 6473,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-02-02T17:00:06Z"
   },
   {
     "id": "xJwTqxhMjeQ",
@@ -2783,7 +3503,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3426,
     "cues": [],
-    "views": 123252,
+    "views": 123471,
     "genres": [
       "Melodic House"
     ],
@@ -2805,7 +3525,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 36243,
     "cues": [],
-    "views": 259398,
+    "views": 259444,
     "genres": [
       "EDM"
     ],
@@ -2846,12 +3566,70 @@
       3289,
       3462
     ],
-    "views": 110544,
+    "views": 110631,
     "genres": [
       "House",
       "Trance"
     ],
     "publishedAt": "2026-01-30T15:00:00Z"
+  },
+  {
+    "id": "LrLdMMrDjQU",
+    "title": "A State of Trance Episode 1262 - Armin van Buuren UNFILTERED #001 (@astateoftrance)",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 6840,
+    "cues": [
+      0,
+      45,
+      157,
+      346,
+      464,
+      631,
+      838,
+      975,
+      1132,
+      1282,
+      1485,
+      1662,
+      1834,
+      2051,
+      2226,
+      2402,
+      2538,
+      2759,
+      2909,
+      3098,
+      3317,
+      3489,
+      3667,
+      3804,
+      4010,
+      4264,
+      4729,
+      4907,
+      5112,
+      5282,
+      5529,
+      5697,
+      5814,
+      6009,
+      6243,
+      6384,
+      6697,
+      6765
+    ],
+    "views": 228015,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2026-01-29T21:00:46Z"
   },
   {
     "id": "LB91jGEXC6I",
@@ -2866,7 +3644,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3600,
     "cues": [],
-    "views": 8735,
+    "views": 8743,
     "genres": [
       "Trance"
     ],
@@ -2888,7 +3666,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7208,
     "cues": [],
-    "views": 947075,
+    "views": 948793,
     "genres": [
       "Tech House"
     ],
@@ -2907,7 +3685,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3600,
     "cues": [],
-    "views": 7280,
+    "views": 7282,
     "genres": [
       "Trance"
     ],
@@ -2929,7 +3707,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 10771,
     "cues": [],
-    "views": 534678,
+    "views": 535668,
     "genres": [
       "House"
     ],
@@ -2971,7 +3749,7 @@
       3250,
       3386
     ],
-    "views": 191292,
+    "views": 191442,
     "genres": [
       "House",
       "Trance"
@@ -2994,7 +3772,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 7163,
     "cues": [],
-    "views": 4279,
+    "views": 4319,
     "genres": [
       "Psytrance"
     ],
@@ -3016,7 +3794,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3600,
     "cues": [],
-    "views": 8050,
+    "views": 8051,
     "genres": [
       "Trance"
     ],
@@ -3057,7 +3835,7 @@
       3287,
       3402
     ],
-    "views": 237355,
+    "views": 237696,
     "genres": [
       "House",
       "Trance"
@@ -3109,7 +3887,7 @@
       3375,
       3484
     ],
-    "views": 195887,
+    "views": 196526,
     "genres": [
       "House",
       "Trance"
@@ -3146,7 +3924,7 @@
       3060,
       3344
     ],
-    "views": 7298,
+    "views": 7299,
     "genres": [
       "EDM"
     ],
@@ -3221,7 +3999,7 @@
       10161,
       10515
     ],
-    "views": 9543709,
+    "views": 9561698,
     "genres": [
       "House",
       "Trance"
@@ -3241,7 +4019,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3866,
     "cues": [],
-    "views": 113561,
+    "views": 113691,
     "genres": [
       "House"
     ],
@@ -3260,11 +4038,33 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3270,
     "cues": [],
-    "views": 568035,
+    "views": 568898,
     "genres": [
       "Minimal Techno"
     ],
     "publishedAt": "2025-12-24T11:00:06Z"
+  },
+  {
+    "id": "CN6krzBRBN4",
+    "title": "Armin van Buuren - Full Set: hypersonic festival Melbourne",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Symbiotic",
+    "city": "Melbourne",
+    "country": "Australia",
+    "venue": "Hypersonic Festival",
+    "coords": [
+      -37.81,
+      144.96
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 5286,
+    "cues": [],
+    "views": 480916,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2025-12-18T03:09:26Z"
   },
   {
     "id": "_5YcUlWqm8Y",
@@ -3282,7 +4082,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 7354,
     "cues": [],
-    "views": 156312,
+    "views": 156555,
     "genres": [
       "Trance"
     ],
@@ -3304,7 +4104,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7087,
     "cues": [],
-    "views": 213275,
+    "views": 213700,
     "genres": [
       "Tech House"
     ],
@@ -3326,7 +4126,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7210,
     "cues": [],
-    "views": 480874,
+    "views": 481960,
     "genres": [
       "House"
     ],
@@ -3372,12 +4172,31 @@
       4117,
       4323
     ],
-    "views": 15235498,
+    "views": 15243241,
     "genres": [
       "House",
       "Trance"
     ],
     "publishedAt": "2025-11-26T18:00:22Z"
+  },
+  {
+    "id": "AeF6jO4eb0g",
+    "title": "Armin van Buuren | Live at A State of Trance, Mexico 2025",
+    "artist": "Armin van Buuren",
+    "broadcaster": "A State Of Trance",
+    "city": null,
+    "country": "Mexico",
+    "venue": "A State of Trance Mexico",
+    "coords": null,
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 6645,
+    "cues": [],
+    "views": 344524,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2025-11-22T16:00:17Z"
   },
   {
     "id": "saEEH-NPUMc",
@@ -3395,11 +4214,30 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 4046,
     "cues": [],
-    "views": 257582,
+    "views": 257843,
     "genres": [
       "House"
     ],
     "publishedAt": "2025-11-17T19:00:07Z"
+  },
+  {
+    "id": "OelGMW3VOzw",
+    "title": "Armin van Buuren f2f Lilly Palmer | Live at A State of Trance, Mexico 2025",
+    "artist": "Armin van Buuren",
+    "broadcaster": "A State Of Trance",
+    "city": null,
+    "country": "Mexico",
+    "venue": "A State of Trance Mexico",
+    "coords": null,
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3785,
+    "cues": [],
+    "views": 1353427,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2025-11-16T16:00:40Z"
   },
   {
     "id": "4hnJUB_g290",
@@ -3437,7 +4275,7 @@
       4265,
       4599
     ],
-    "views": 2067387,
+    "views": 2071973,
     "genres": [
       "Melodic Techno"
     ],
@@ -3456,11 +4294,33 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 4505,
     "cues": [],
-    "views": 136419,
+    "views": 136616,
     "genres": [
       "Psytrance"
     ],
     "publishedAt": "2025-11-09T17:06:38Z"
+  },
+  {
+    "id": "7ePIRpBp4zc",
+    "title": "Armin van Buuren live at AMF 2025",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "venue": "Amsterdam Music Festival (Johan Cruijff ArenA)",
+    "coords": [
+      52.31,
+      4.94
+    ],
+    "setting": "arena",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 4588,
+    "cues": [],
+    "views": 1221565,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2025-11-05T16:00:10Z"
   },
   {
     "id": "4QVkBEPMv_Q",
@@ -3554,7 +4414,7 @@
       26422,
       26805
     ],
-    "views": 206269,
+    "views": 208115,
     "genres": [
       "House",
       "Trance"
@@ -3574,7 +4434,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3600,
     "cues": [],
-    "views": 6288,
+    "views": 6290,
     "genres": [
       "Trance"
     ],
@@ -3615,11 +4475,33 @@
       4010,
       4136
     ],
-    "views": 44084,
+    "views": 44208,
     "genres": [
       "House"
     ],
     "publishedAt": "2025-11-03T10:01:05Z"
+  },
+  {
+    "id": "WownWX6HUTs",
+    "title": "Armin van Buuren & KI/KI live at AMF 2025 (II=I)",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "venue": "Amsterdam Music Festival (Johan Cruijff ArenA)",
+    "coords": [
+      52.31,
+      4.94
+    ],
+    "setting": "arena",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 2878,
+    "cues": [],
+    "views": 740749,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2025-11-01T16:01:00Z"
   },
   {
     "id": "QThaqlzSqLw",
@@ -3637,7 +4519,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5352,
     "cues": [],
-    "views": 512467,
+    "views": 513545,
     "genres": [
       "House"
     ],
@@ -3659,7 +4541,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5655,
     "cues": [],
-    "views": 282106,
+    "views": 282329,
     "genres": [
       "Tech House"
     ],
@@ -3681,7 +4563,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3398,
     "cues": [],
-    "views": 78375,
+    "views": 78657,
     "genres": [
       "Melodic Techno"
     ],
@@ -3716,11 +4598,33 @@
       2904,
       3245
     ],
-    "views": 548053,
+    "views": 549131,
     "genres": [
       "Trance"
     ],
     "publishedAt": "2025-10-15T16:00:07Z"
+  },
+  {
+    "id": "Z-usdulSnZY",
+    "title": "Armin van Buuren | Tomorrowland Brasil 2025",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Tomorrowland",
+    "city": "Itu",
+    "country": "Brazil",
+    "venue": "Tomorrowland Brasil",
+    "coords": [
+      -23.26,
+      -47.3
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3498,
+    "cues": [],
+    "views": 570201,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2025-10-15T15:01:09Z"
   },
   {
     "id": "MT7zB-SbUl4",
@@ -3738,7 +4642,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 6897,
     "cues": [],
-    "views": 1138636,
+    "views": 1139497,
     "genres": [
       "Tech House"
     ],
@@ -3760,11 +4664,33 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7078,
     "cues": [],
-    "views": 372310,
+    "views": 372976,
     "genres": [
       "House"
     ],
     "publishedAt": "2025-09-29T18:00:07Z"
+  },
+  {
+    "id": "PzIA0aBJIhI",
+    "title": "Armin van Buuren | 08th June 2025 #Livestream at Ushuaïa Ibiza",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Ushuaïa Ibiza Official",
+    "city": "Ibiza",
+    "country": "Spain",
+    "venue": "Ushuaïa Ibiza",
+    "coords": [
+      38.88,
+      1.4
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 5330,
+    "cues": [],
+    "views": 408535,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2025-09-19T12:00:49Z"
   },
   {
     "id": "CfG21vJluvw",
@@ -3779,7 +4705,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5223,
     "cues": [],
-    "views": 602594,
+    "views": 603772,
     "genres": [
       "Psytrance"
     ],
@@ -3801,11 +4727,33 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7218,
     "cues": [],
-    "views": 1429609,
+    "views": 1431258,
     "genres": [
       "Tech House"
     ],
     "publishedAt": "2025-09-02T16:41:09Z"
+  },
+  {
+    "id": "-nNE8lDgJ4g",
+    "title": "Armin van Buuren live at UNTOLD Festival 2025",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "venue": "Untold Festival",
+    "coords": [
+      46.77,
+      23.59
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 10970,
+    "cues": [],
+    "views": 531607,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2025-08-30T15:00:00Z"
   },
   {
     "id": "XUwCeFgFKQc",
@@ -3823,7 +4771,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 6834,
     "cues": [],
-    "views": 864380,
+    "views": 865547,
     "genres": [
       "House"
     ],
@@ -3845,7 +4793,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5304,
     "cues": [],
-    "views": 507330,
+    "views": 507768,
     "genres": [
       "House"
     ],
@@ -3867,11 +4815,33 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3667,
     "cues": [],
-    "views": 328556,
+    "views": 328947,
     "genres": [
       "Trance"
     ],
     "publishedAt": "2025-08-13T16:00:07Z"
+  },
+  {
+    "id": "lOq30ufGX-8",
+    "title": "Armin van Buuren live at A State of Trance, London 2025",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "London",
+    "country": "United Kingdom",
+    "venue": "A State of Trance London",
+    "coords": [
+      51.51,
+      -0.13
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 5364,
+    "cues": [],
+    "views": 451152,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2025-08-05T14:07:41Z"
   },
   {
     "id": "mAEvuUz2Vvk",
@@ -3886,7 +4856,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3281,
     "cues": [],
-    "views": 42106,
+    "views": 42125,
     "genres": [
       "Trance"
     ],
@@ -3908,7 +4878,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5287,
     "cues": [],
-    "views": 3431686,
+    "views": 3437383,
     "genres": [
       "Melodic Techno"
     ],
@@ -3930,7 +4900,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7984,
     "cues": [],
-    "views": 2081454,
+    "views": 2085983,
     "genres": [
       "Techno"
     ],
@@ -3952,11 +4922,33 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3642,
     "cues": [],
-    "views": 4404378,
+    "views": 4414481,
     "genres": [
       "Techno"
     ],
     "publishedAt": "2025-07-30T15:01:14Z"
+  },
+  {
+    "id": "CafY1nZLKvI",
+    "title": "Armin van Buuren live at Tomorrowland 2025 (Freedom Stage, Weekend 1)",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Boom",
+    "country": "Belgium",
+    "venue": "Tomorrowland",
+    "coords": [
+      51.09,
+      4.37
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 9406,
+    "cues": [],
+    "views": 1087694,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2025-07-30T10:31:37Z"
   },
   {
     "id": "-DARPrYuxe8",
@@ -3974,7 +4966,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3798,
     "cues": [],
-    "views": 541711,
+    "views": 542291,
     "genres": [
       "Melodic Techno"
     ],
@@ -3996,7 +4988,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5467,
     "cues": [],
-    "views": 509313,
+    "views": 509622,
     "genres": [
       "House"
     ],
@@ -4018,7 +5010,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3589,
     "cues": [],
-    "views": 5998886,
+    "views": 6004989,
     "genres": [
       "EDM"
     ],
@@ -4040,11 +5032,33 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3633,
     "cues": [],
-    "views": 1809941,
+    "views": 1812950,
     "genres": [
       "Tech House"
     ],
     "publishedAt": "2025-07-29T14:59:42Z"
+  },
+  {
+    "id": "3T7PHwakags",
+    "title": "Armin van Buuren live at Tomorrowland 2025 (Mainstage, Weekend 2)",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Boom",
+    "country": "Belgium",
+    "venue": "Tomorrowland",
+    "coords": [
+      51.09,
+      4.37
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3581,
+    "cues": [],
+    "views": 1952074,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2025-07-29T14:59:00Z"
   },
   {
     "id": "Y9ZZ2dKE4XM",
@@ -4062,11 +5076,33 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7116,
     "cues": [],
-    "views": 227343,
+    "views": 227645,
     "genres": [
       "Trance"
     ],
     "publishedAt": "2025-07-23T09:22:43Z"
+  },
+  {
+    "id": "JmClyiIE9ik",
+    "title": "Armin van Buuren f2f HI-LO | live at A State of Trance, London 2025",
+    "artist": "Armin van Buuren",
+    "broadcaster": "A State Of Trance",
+    "city": "London",
+    "country": "United Kingdom",
+    "venue": "A State of Trance London",
+    "coords": [
+      51.51,
+      -0.13
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3577,
+    "cues": [],
+    "views": 527314,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2025-07-17T20:00:11Z"
   },
   {
     "id": "Hsy6QqvXmW8",
@@ -4103,7 +5139,7 @@
       5152,
       5554
     ],
-    "views": 108005,
+    "views": 108243,
     "genres": [
       "Melodic Techno"
     ],
@@ -4125,7 +5161,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5381,
     "cues": [],
-    "views": 802514,
+    "views": 803690,
     "genres": [
       "EDM"
     ],
@@ -4147,7 +5183,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3304,
     "cues": [],
-    "views": 11204,
+    "views": 11215,
     "genres": [
       "House"
     ],
@@ -4169,11 +5205,33 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3537,
     "cues": [],
-    "views": 5956,
+    "views": 5957,
     "genres": [
       "EDM"
     ],
     "publishedAt": "2025-07-13T05:51:31Z"
+  },
+  {
+    "id": "JVuABe6Bw_Q",
+    "title": "Armin van Buuren live at Ultra Europe 2025",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Split",
+    "country": "Croatia",
+    "venue": "Ultra Europe",
+    "coords": [
+      43.51,
+      16.44
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 5477,
+    "cues": [],
+    "views": 892668,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2025-07-12T18:17:33Z"
   },
   {
     "id": "tlmE_aFiqEw",
@@ -4191,7 +5249,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5403,
     "cues": [],
-    "views": 482264,
+    "views": 482584,
     "genres": [
       "House"
     ],
@@ -4213,7 +5271,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3598,
     "cues": [],
-    "views": 260959,
+    "views": 261345,
     "genres": [
       "Melodic House"
     ],
@@ -4235,7 +5293,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3520,
     "cues": [],
-    "views": 204703,
+    "views": 204941,
     "genres": [
       "House"
     ],
@@ -4257,7 +5315,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 8030,
     "cues": [],
-    "views": 252484,
+    "views": 252618,
     "genres": [
       "House"
     ],
@@ -4289,7 +5347,7 @@
       1251,
       1437
     ],
-    "views": 2037162,
+    "views": 2040101,
     "genres": [
       "Turkish Pop"
     ],
@@ -4372,7 +5430,7 @@
       9568,
       9875
     ],
-    "views": 179780,
+    "views": 180099,
     "genres": [
       "House",
       "Trance"
@@ -4395,7 +5453,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5288,
     "cues": [],
-    "views": 382924,
+    "views": 383249,
     "genres": [
       "Minimal Techno"
     ],
@@ -4414,7 +5472,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3585,
     "cues": [],
-    "views": 28917,
+    "views": 28952,
     "genres": [
       "Melodic Techno"
     ],
@@ -4433,7 +5491,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5432,
     "cues": [],
-    "views": 817538,
+    "views": 818693,
     "genres": [
       "Psytrance"
     ],
@@ -4455,7 +5513,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 4142,
     "cues": [],
-    "views": 1168409,
+    "views": 1168939,
     "genres": [
       "Tech House"
     ],
@@ -4498,7 +5556,7 @@
       4390,
       4570
     ],
-    "views": 259091,
+    "views": 259324,
     "genres": [
       "House",
       "Trance"
@@ -4521,7 +5579,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3576,
     "cues": [],
-    "views": 119040,
+    "views": 119112,
     "genres": [
       "Melodic Techno"
     ],
@@ -4543,7 +5601,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 4069,
     "cues": [],
-    "views": 543920,
+    "views": 544220,
     "genres": [
       "EDM"
     ],
@@ -4565,11 +5623,33 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3708,
     "cues": [],
-    "views": 1040440,
+    "views": 1041215,
     "genres": [
       "House"
     ],
     "publishedAt": "2025-05-19T18:00:07Z"
+  },
+  {
+    "id": "Dp7AwrAKckQ",
+    "title": "Armin van Buuren live at EDC Las Vegas 2025",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Las Vegas",
+    "country": "United States",
+    "venue": "EDC Las Vegas",
+    "coords": [
+      36.27,
+      -115.01
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 4556,
+    "cues": [],
+    "views": 950027,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2025-05-19T15:29:19Z"
   },
   {
     "id": "wFl_ttYwixk",
@@ -4587,7 +5667,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5461,
     "cues": [],
-    "views": 3392449,
+    "views": 3393179,
     "genres": [
       "House",
       "Trance"
@@ -4610,7 +5690,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3728,
     "cues": [],
-    "views": 179363,
+    "views": 179477,
     "genres": [
       "Trance"
     ],
@@ -4632,7 +5712,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5406,
     "cues": [],
-    "views": 3282648,
+    "views": 3284779,
     "genres": [
       "House",
       "Trance"
@@ -4655,7 +5735,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 7327,
     "cues": [],
-    "views": 19665,
+    "views": 19670,
     "genres": [
       "Trance"
     ],
@@ -4674,7 +5754,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 4544,
     "cues": [],
-    "views": 482418,
+    "views": 483316,
     "genres": [
       "Psytrance"
     ],
@@ -4696,11 +5776,77 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5385,
     "cues": [],
-    "views": 1170677,
+    "views": 1171243,
     "genres": [
       "Melodic Techno"
     ],
     "publishedAt": "2025-03-31T16:00:06Z"
+  },
+  {
+    "id": "tmvR1oqGZIo",
+    "title": "ARMIN VAN BUUREN LIVE B3B WITH MADDIX & OLIVER HELDENS AT ULTRA MIAMI 2025 (ASOT WORLDWIDE STAGE)",
+    "artist": "Armin van Buuren",
+    "broadcaster": "A State Of Trance",
+    "city": "Miami",
+    "country": "United States",
+    "venue": "Ultra Music Festival",
+    "coords": [
+      25.78,
+      -80.19
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3596,
+    "cues": [],
+    "views": 580703,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2025-03-31T07:09:38Z"
+  },
+  {
+    "id": "5yhR488P3bU",
+    "title": "ARMIN VAN BUUREN LIVE AT ULTRA MIAMI 2025 MAINSTAGE",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Miami",
+    "country": "United States",
+    "venue": "Ultra Music Festival",
+    "coords": [
+      25.78,
+      -80.19
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3523,
+    "cues": [],
+    "views": 1092693,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2025-03-30T15:08:08Z"
+  },
+  {
+    "id": "bTNBqr3WWdw",
+    "title": "ARMIN VAN BUUREN LIVE AT ULTRA MIAMI 2025 ASOT WORLDWIDE STAGE",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Miami",
+    "country": "United States",
+    "venue": "Ultra Music Festival",
+    "coords": [
+      25.78,
+      -80.19
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 5430,
+    "cues": [],
+    "views": 1150392,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2025-03-30T13:20:16Z"
   },
   {
     "id": "DI3OxO7fePs",
@@ -4718,7 +5864,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 4414,
     "cues": [],
-    "views": 210724,
+    "views": 210841,
     "genres": [
       "House",
       "Trance"
@@ -4741,11 +5887,33 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3658,
     "cues": [],
-    "views": 2460225,
+    "views": 2460794,
     "genres": [
       "EDM"
     ],
     "publishedAt": "2025-03-29T06:41:51Z"
+  },
+  {
+    "id": "uxv40P6DmuA",
+    "title": "Armin van Buuren live at Tomorrowland Winter 2025 (Mainstage)",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Alpe d'Huez",
+    "country": "France",
+    "venue": "Tomorrowland Winter",
+    "coords": [
+      45.09,
+      6.07
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3629,
+    "cues": [],
+    "views": 585472,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2025-03-25T12:01:24Z"
   },
   {
     "id": "R7S7EgCFFyM",
@@ -4763,7 +5931,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5474,
     "cues": [],
-    "views": 60940,
+    "views": 61119,
     "genres": [
       "House",
       "Trance"
@@ -4786,7 +5954,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3633,
     "cues": [],
-    "views": 349689,
+    "views": 349851,
     "genres": [
       "EDM"
     ],
@@ -4805,7 +5973,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 1987,
     "cues": [],
-    "views": 61417,
+    "views": 61437,
     "genres": [
       "House"
     ],
@@ -4824,7 +5992,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 6892,
     "cues": [],
-    "views": 166886,
+    "views": 166935,
     "genres": [
       "House"
     ],
@@ -4843,7 +6011,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 6487,
     "cues": [],
-    "views": 223658,
+    "views": 223813,
     "genres": [
       "House"
     ],
@@ -4852,7 +6020,7 @@
   {
     "id": "9ovSk7Ug_z8",
     "title": "Armin van Buuren B2B ARTBAT live at A State of Trance 2025 (Friday | Area 1)",
-    "artist": "ARTBAT",
+    "artist": "ARTBAT & Armin van Buuren",
     "broadcaster": "A State Of Trance",
     "city": "Utrecht",
     "country": "Netherlands",
@@ -4865,9 +6033,10 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3691,
     "cues": [],
-    "views": 651265,
+    "views": 651856,
     "genres": [
-      "Melodic Techno"
+      "Melodic Techno",
+      "Trance"
     ],
     "publishedAt": "2025-03-12T17:00:11Z"
   },
@@ -4884,7 +6053,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 6304,
     "cues": [],
-    "views": 299189,
+    "views": 299335,
     "genres": [
       "House"
     ],
@@ -4906,7 +6075,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3467,
     "cues": [],
-    "views": 113944,
+    "views": 113991,
     "genres": [
       "Trance"
     ],
@@ -4928,7 +6097,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 7387,
     "cues": [],
-    "views": 1430899,
+    "views": 1432520,
     "genres": [
       "Trance"
     ],
@@ -4970,12 +6139,56 @@
       3654,
       3872
     ],
-    "views": 2429551,
+    "views": 2430243,
     "genres": [
       "House",
       "Trance"
     ],
     "publishedAt": "2025-03-03T16:15:04Z"
+  },
+  {
+    "id": "2-s3hXbDu7Y",
+    "title": "Armin van Buuren F2F Maddix live at A State of Trance 2025 (Friday | Area 1)",
+    "artist": "Armin van Buuren",
+    "broadcaster": "A State Of Trance",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "venue": "A State of Trance (Jaarbeurs)",
+    "coords": [
+      52.09,
+      5.11
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3444,
+    "cues": [],
+    "views": 997657,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2025-03-01T11:00:02Z"
+  },
+  {
+    "id": "k32Cc4koohY",
+    "title": "Armin van Buuren live at A State of Trance 2025 (Saturday | Area 1)",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "venue": "A State of Trance (Jaarbeurs)",
+    "coords": [
+      52.09,
+      5.11
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 6910,
+    "cues": [],
+    "views": 2796556,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2025-02-27T17:01:01Z"
   },
   {
     "id": "mao2oVsWSxA",
@@ -4993,7 +6206,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 1965,
     "cues": [],
-    "views": 2515996,
+    "views": 2520032,
     "genres": [
       "Techno"
     ],
@@ -5015,7 +6228,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 14813,
     "cues": [],
-    "views": 316554,
+    "views": 316726,
     "genres": [
       "House",
       "Trance"
@@ -5038,7 +6251,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5462,
     "cues": [],
-    "views": 394636,
+    "views": 394820,
     "genres": [
       "Tech House"
     ],
@@ -5079,7 +6292,7 @@
       4893,
       5299
     ],
-    "views": 290698,
+    "views": 290782,
     "genres": [
       "Melodic Techno"
     ],
@@ -5101,7 +6314,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5287,
     "cues": [],
-    "views": 316705,
+    "views": 317057,
     "genres": [
       "Melodic Techno"
     ],
@@ -5123,11 +6336,47 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5376,
     "cues": [],
-    "views": 421425,
+    "views": 423519,
     "genres": [
       "Psytrance"
     ],
     "publishedAt": "2025-01-26T17:30:06Z"
+  },
+  {
+    "id": "jnw1ETdp6fw",
+    "title": "Cosmic Gate: Wake Your Mind Radio 563 [ASOT NL 2024 Set]",
+    "artist": "Cosmic Gate",
+    "broadcaster": "Wake Your Mind Radio",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "venue": "A State of Trance (Jaarbeurs)",
+    "coords": [
+      52.09,
+      5.11
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3600,
+    "cues": [
+      0,
+      52,
+      487,
+      834,
+      1170,
+      1530,
+      1804,
+      2087,
+      2355,
+      2710,
+      3069,
+      3381,
+      3576
+    ],
+    "views": 12848,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2025-01-20T17:00:06Z"
   },
   {
     "id": "hOhhVxIDZIg",
@@ -5145,7 +6394,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 4446,
     "cues": [],
-    "views": 851871,
+    "views": 852583,
     "genres": [
       "Psytrance"
     ],
@@ -5167,7 +6416,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 6092,
     "cues": [],
-    "views": 15173,
+    "views": 15243,
     "genres": [
       "House",
       "Trance"
@@ -5190,7 +6439,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3540,
     "cues": [],
-    "views": 42413,
+    "views": 42454,
     "genres": [
       "EDM"
     ],
@@ -5221,7 +6470,7 @@
       3322,
       3580
     ],
-    "views": 1187701,
+    "views": 1188620,
     "genres": [
       "Minimal Techno"
     ],
@@ -5275,11 +6524,33 @@
       3188,
       3395
     ],
-    "views": 28194,
+    "views": 28212,
     "genres": [
       "House"
     ],
     "publishedAt": "2024-12-05T02:07:08Z"
+  },
+  {
+    "id": "uJXkrRp1XDo",
+    "title": "Afrojack - Ultra Japan 2024 (Full Set)",
+    "artist": "Afrojack",
+    "broadcaster": "INSANEDJSets",
+    "city": "Tokyo",
+    "country": "Japan",
+    "venue": "Ultra Japan",
+    "coords": [
+      35.63,
+      139.78
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 4433,
+    "cues": [],
+    "views": 1232,
+    "genres": [
+      "EDM"
+    ],
+    "publishedAt": "2024-11-24T08:51:24Z"
   },
   {
     "id": "Lyb48-ggdG8",
@@ -5297,7 +6568,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3570,
     "cues": [],
-    "views": 1165035,
+    "views": 1165891,
     "genres": [
       "House"
     ],
@@ -5319,7 +6590,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5024,
     "cues": [],
-    "views": 2385530,
+    "views": 2387498,
     "genres": [
       "Tech House"
     ],
@@ -5341,7 +6612,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3399,
     "cues": [],
-    "views": 26824,
+    "views": 26853,
     "genres": [
       "House"
     ],
@@ -5363,7 +6634,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 14304,
     "cues": [],
-    "views": 2516194,
+    "views": 2518665,
     "genres": [
       "House",
       "Trance"
@@ -5386,7 +6657,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 8933,
     "cues": [],
-    "views": 1065954,
+    "views": 1067275,
     "genres": [
       "Melodic Techno"
     ],
@@ -5408,7 +6679,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5359,
     "cues": [],
-    "views": 262130,
+    "views": 262310,
     "genres": [
       "Melodic Techno"
     ],
@@ -5430,7 +6701,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 4590,
     "cues": [],
-    "views": 184262,
+    "views": 184316,
     "genres": [
       "Trance"
     ],
@@ -5452,7 +6723,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3751,
     "cues": [],
-    "views": 405503,
+    "views": 405713,
     "genres": [
       "House"
     ],
@@ -5474,11 +6745,33 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 4432,
     "cues": [],
-    "views": 377840,
+    "views": 378176,
     "genres": [
       "House"
     ],
     "publishedAt": "2024-10-21T18:08:19Z"
+  },
+  {
+    "id": "Ayw0QBMJBhw",
+    "title": "Cosmic Gate - LIVE @ ADE 2024 (DJ-set) 🔥 | SLAM!",
+    "artist": "Cosmic Gate",
+    "broadcaster": "SLAM! - Music",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "venue": "SLAM! MixMarathon (ADE)",
+    "coords": [
+      52.37,
+      4.9
+    ],
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 2690,
+    "cues": [],
+    "views": 116047,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2024-10-20T18:00:07Z"
   },
   {
     "id": "fgipozjOI10",
@@ -5496,7 +6789,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3540,
     "cues": [],
-    "views": 114231,
+    "views": 114283,
     "genres": [
       "House",
       "Trance"
@@ -5519,7 +6812,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 4051,
     "cues": [],
-    "views": 10765976,
+    "views": 10774858,
     "genres": [
       "Techno"
     ],
@@ -5541,7 +6834,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5278,
     "cues": [],
-    "views": 560909,
+    "views": 561218,
     "genres": [
       "Psytrance"
     ],
@@ -5563,7 +6856,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3888,
     "cues": [],
-    "views": 1121174,
+    "views": 1121755,
     "genres": [
       "House"
     ],
@@ -5585,7 +6878,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 4191,
     "cues": [],
-    "views": 1793334,
+    "views": 1794079,
     "genres": [
       "Tech House"
     ],
@@ -5607,11 +6900,33 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3622,
     "cues": [],
-    "views": 228128,
+    "views": 228268,
     "genres": [
       "Melodic House"
     ],
     "publishedAt": "2024-09-29T15:00:29Z"
+  },
+  {
+    "id": "VH9fZgX1hJM",
+    "title": "ARMIN VAN BUUREN LIVE @ ULTRA JAPAN 2024",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Tokyo",
+    "country": "Japan",
+    "venue": "Ultra Japan",
+    "coords": [
+      35.63,
+      139.78
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 4606,
+    "cues": [],
+    "views": 979559,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2024-09-24T13:23:47Z"
   },
   {
     "id": "JPe51rCPJgo",
@@ -5626,7 +6941,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 6606,
     "cues": [],
-    "views": 513529,
+    "views": 513754,
     "genres": [
       "House"
     ],
@@ -5648,7 +6963,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5316,
     "cues": [],
-    "views": 1322109,
+    "views": 1322754,
     "genres": [
       "House"
     ],
@@ -5670,7 +6985,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5440,
     "cues": [],
-    "views": 1132900,
+    "views": 1133176,
     "genres": [
       "Melodic Techno"
     ],
@@ -5692,7 +7007,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5423,
     "cues": [],
-    "views": 608597,
+    "views": 608721,
     "genres": [
       "Tech House"
     ],
@@ -5714,7 +7029,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 7031,
     "cues": [],
-    "views": 7217,
+    "views": 7233,
     "genres": [
       "Melodic Techno"
     ],
@@ -5736,7 +7051,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3465,
     "cues": [],
-    "views": 50875,
+    "views": 50947,
     "genres": [
       "EDM"
     ],
@@ -5758,7 +7073,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 2259,
     "cues": [],
-    "views": 458852,
+    "views": 459088,
     "genres": [
       "House"
     ],
@@ -5797,7 +7112,7 @@
       4133,
       4582
     ],
-    "views": 1079515,
+    "views": 1080207,
     "genres": [
       "Trance"
     ],
@@ -5819,7 +7134,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 14271,
     "cues": [],
-    "views": 430291,
+    "views": 430472,
     "genres": [
       "House"
     ],
@@ -5841,7 +7156,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3553,
     "cues": [],
-    "views": 1484928,
+    "views": 1485040,
     "genres": [
       "EDM"
     ],
@@ -5863,12 +7178,34 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3560,
     "cues": [],
-    "views": 7210509,
+    "views": 7213525,
     "genres": [
       "House",
       "Trance"
     ],
     "publishedAt": "2024-07-31T15:34:28Z"
+  },
+  {
+    "id": "o8cZPumXJsk",
+    "title": "Armin van Buuren live at Tomorrowland 2024 (Weekend 2)",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Boom",
+    "country": "Belgium",
+    "venue": "Tomorrowland",
+    "coords": [
+      51.09,
+      4.37
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3542,
+    "cues": [],
+    "views": 1584557,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2024-07-29T15:00:47Z"
   },
   {
     "id": "dSK13X9oGi8",
@@ -5886,7 +7223,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3595,
     "cues": [],
-    "views": 6769476,
+    "views": 6772831,
     "genres": [
       "EDM"
     ],
@@ -5908,7 +7245,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3453,
     "cues": [],
-    "views": 7118851,
+    "views": 7122719,
     "genres": [
       "Minimal Techno"
     ],
@@ -5930,7 +7267,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 7549,
     "cues": [],
-    "views": 116535,
+    "views": 116573,
     "genres": [
       "Melodic House"
     ],
@@ -5952,11 +7289,33 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3897,
     "cues": [],
-    "views": 83481,
+    "views": 83492,
     "genres": [
       "House"
     ],
     "publishedAt": "2024-07-27T05:19:43Z"
+  },
+  {
+    "id": "J-VP1Jy7RDg",
+    "title": "Armin van Buuren live at Tomorrowland 2024 (Weekend 1)",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Boom",
+    "country": "Belgium",
+    "venue": "Tomorrowland",
+    "coords": [
+      51.09,
+      4.37
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3518,
+    "cues": [],
+    "views": 3112480,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2024-07-26T16:30:03Z"
   },
   {
     "id": "TKAGZagLIrI",
@@ -5974,11 +7333,33 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 1943,
     "cues": [],
-    "views": 1073808,
+    "views": 1074510,
     "genres": [
       "House"
     ],
     "publishedAt": "2024-07-24T16:00:07Z"
+  },
+  {
+    "id": "MzO7JaIRNPo",
+    "title": "Armin van Buuren live at Parookaville 2024",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Weeze",
+    "country": "Germany",
+    "venue": "Parookaville",
+    "coords": [
+      51.61,
+      6.12
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 4534,
+    "cues": [],
+    "views": 1105589,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2024-07-22T12:30:08Z"
   },
   {
     "id": "zzyg0m0dn70",
@@ -5996,7 +7377,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5311,
     "cues": [],
-    "views": 1960737,
+    "views": 1960935,
     "genres": [
       "House",
       "Trance"
@@ -6035,7 +7416,7 @@
       3165,
       3420
     ],
-    "views": 822601,
+    "views": 822874,
     "genres": [
       "Techno"
     ],
@@ -6057,7 +7438,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7428,
     "cues": [],
-    "views": 519960,
+    "views": 520071,
     "genres": [
       "House"
     ],
@@ -6079,7 +7460,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5533,
     "cues": [],
-    "views": 2594981,
+    "views": 2595703,
     "genres": [
       "Tech House"
     ],
@@ -6110,7 +7491,7 @@
       3242,
       3542
     ],
-    "views": 1696192,
+    "views": 1698189,
     "genres": [
       "Melodic Techno"
     ],
@@ -6132,7 +7513,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 4314,
     "cues": [],
-    "views": 4124632,
+    "views": 4124745,
     "genres": [
       "House",
       "Trance"
@@ -6152,7 +7533,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 1967,
     "cues": [],
-    "views": 13705,
+    "views": 13711,
     "genres": [
       "Melodic Techno"
     ],
@@ -6174,7 +7555,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 1896,
     "cues": [],
-    "views": 22473,
+    "views": 22478,
     "genres": [
       "Psytrance"
     ],
@@ -6196,7 +7577,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3669,
     "cues": [],
-    "views": 428390,
+    "views": 429244,
     "genres": [
       "Psytrance"
     ],
@@ -6232,7 +7613,7 @@
       3398,
       3669
     ],
-    "views": 1584726,
+    "views": 1585753,
     "genres": [
       "Melodic House"
     ],
@@ -6254,7 +7635,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3396,
     "cues": [],
-    "views": 1104066,
+    "views": 1104461,
     "genres": [
       "House"
     ],
@@ -6276,7 +7657,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7162,
     "cues": [],
-    "views": 1056618,
+    "views": 1057015,
     "genres": [
       "House"
     ],
@@ -6298,7 +7679,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3236,
     "cues": [],
-    "views": 178643,
+    "views": 178658,
     "genres": [
       "Trance"
     ],
@@ -6320,7 +7701,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 7100,
     "cues": [],
-    "views": 977992,
+    "views": 979029,
     "genres": [
       "Trance"
     ],
@@ -6342,7 +7723,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 1862,
     "cues": [],
-    "views": 1023798,
+    "views": 1024167,
     "genres": [
       "House"
     ],
@@ -6364,7 +7745,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5453,
     "cues": [],
-    "views": 1379494,
+    "views": 1379741,
     "genres": [
       "Melodic Techno"
     ],
@@ -6386,11 +7767,33 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3602,
     "cues": [],
-    "views": 482606,
+    "views": 482650,
     "genres": [
       "EDM"
     ],
     "publishedAt": "2024-03-25T16:00:43Z"
+  },
+  {
+    "id": "gnyvzMfADm4",
+    "title": "ARMIN VAN BUUREN LIVE @ ULTRA MUSIC FESTIVAL MIAMI 2024 | UMF",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Miami",
+    "country": "United States",
+    "venue": "Ultra Music Festival",
+    "coords": [
+      25.78,
+      -80.19
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 4705,
+    "cues": [],
+    "views": 3095720,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2024-03-25T09:06:16Z"
   },
   {
     "id": "5E-xBzy9cmg",
@@ -6408,7 +7811,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 4554,
     "cues": [],
-    "views": 2266414,
+    "views": 2266791,
     "genres": [
       "EDM"
     ],
@@ -6466,7 +7869,7 @@
       3447,
       3635
     ],
-    "views": 6742629,
+    "views": 6744504,
     "genres": [
       "House",
       "Trance"
@@ -6489,7 +7892,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5403,
     "cues": [],
-    "views": 28221,
+    "views": 28229,
     "genres": [
       "Psytrance"
     ],
@@ -6511,7 +7914,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 25475,
     "cues": [],
-    "views": 407400,
+    "views": 407582,
     "genres": [
       "House"
     ],
@@ -6533,7 +7936,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 4360,
     "cues": [],
-    "views": 1068906,
+    "views": 1069083,
     "genres": [
       "House"
     ],
@@ -6565,7 +7968,7 @@
       3065,
       3372
     ],
-    "views": 2138273,
+    "views": 2140455,
     "genres": [
       "Melodic House"
     ],
@@ -6587,11 +7990,33 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3627,
     "cues": [],
-    "views": 587384,
+    "views": 587540,
     "genres": [
       "Trance"
     ],
     "publishedAt": "2024-03-02T16:00:12Z"
+  },
+  {
+    "id": "ha43z-S-bnA",
+    "title": "Armin van Buuren live at A State of Trance 2024 (Saturday  - Area 1)",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "venue": "A State of Trance (Jaarbeurs)",
+    "coords": [
+      52.09,
+      5.11
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 5382,
+    "cues": [],
+    "views": 2488616,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2024-02-27T19:41:19Z"
   },
   {
     "id": "93u6FE8XACw",
@@ -6609,11 +8034,33 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3633,
     "cues": [],
-    "views": 66580,
+    "views": 66590,
     "genres": [
       "Trance"
     ],
     "publishedAt": "2024-02-27T18:00:09Z"
+  },
+  {
+    "id": "WI-up6fuJd8",
+    "title": "Armin van Buuren - DESTINATION set - live at A State of Trance 2024 (Friday | Area 1)",
+    "artist": "Armin van Buuren",
+    "broadcaster": "A State Of Trance",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "venue": "A State of Trance (Jaarbeurs)",
+    "coords": [
+      52.09,
+      5.11
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 7149,
+    "cues": [],
+    "views": 1016616,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2024-02-26T14:00:31Z"
   },
   {
     "id": "kqE8H_zYeE4",
@@ -6631,7 +8078,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 8585,
     "cues": [],
-    "views": 983098,
+    "views": 983330,
     "genres": [
       "House"
     ],
@@ -6653,7 +8100,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7245,
     "cues": [],
-    "views": 517209,
+    "views": 517386,
     "genres": [
       "House"
     ],
@@ -6672,7 +8119,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 6851,
     "cues": [],
-    "views": 14783,
+    "views": 14817,
     "genres": [
       "Melodic Techno"
     ],
@@ -6694,7 +8141,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3595,
     "cues": [],
-    "views": 334218,
+    "views": 334277,
     "genres": [
       "House"
     ],
@@ -6716,7 +8163,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 4112,
     "cues": [],
-    "views": 352428,
+    "views": 352486,
     "genres": [
       "House"
     ],
@@ -6738,7 +8185,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7348,
     "cues": [],
-    "views": 854819,
+    "views": 855048,
     "genres": [
       "House"
     ],
@@ -6760,11 +8207,41 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5498,
     "cues": [],
-    "views": 509184,
+    "views": 509276,
     "genres": [
       "House"
     ],
     "publishedAt": "2023-12-29T19:00:23Z"
+  },
+  {
+    "id": "NsZmEWU8bhc",
+    "title": "Boris Brejcha - Christmas Mix 2023",
+    "artist": "Boris Brejcha",
+    "broadcaster": "Boris Brejcha",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "other",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3772,
+    "cues": [
+      0,
+      410,
+      805,
+      1158,
+      1487,
+      1874,
+      2209,
+      2592,
+      2977,
+      3340
+    ],
+    "views": 1080725,
+    "genres": [
+      "Minimal Techno"
+    ],
+    "publishedAt": "2023-12-24T11:00:07Z"
   },
   {
     "id": "uvpa3VDffco",
@@ -6782,7 +8259,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5308,
     "cues": [],
-    "views": 462048,
+    "views": 462182,
     "genres": [
       "House"
     ],
@@ -6804,7 +8281,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 6761,
     "cues": [],
-    "views": 1092259,
+    "views": 1093013,
     "genres": [
       "Trance"
     ],
@@ -6826,7 +8303,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5435,
     "cues": [],
-    "views": 517346,
+    "views": 517500,
     "genres": [
       "House"
     ],
@@ -6845,7 +8322,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5413,
     "cues": [],
-    "views": 724427,
+    "views": 724696,
     "genres": [
       "House"
     ],
@@ -6867,7 +8344,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3466,
     "cues": [],
-    "views": 544133,
+    "views": 544336,
     "genres": [
       "House"
     ],
@@ -6889,7 +8366,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7089,
     "cues": [],
-    "views": 221698,
+    "views": 221769,
     "genres": [
       "House"
     ],
@@ -6908,7 +8385,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7255,
     "cues": [],
-    "views": 197365,
+    "views": 197421,
     "genres": [
       "Melodic Techno"
     ],
@@ -6930,7 +8407,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 10439,
     "cues": [],
-    "views": 562435,
+    "views": 562623,
     "genres": [
       "House"
     ],
@@ -6952,7 +8429,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3589,
     "cues": [],
-    "views": 206789,
+    "views": 206968,
     "genres": [
       "House"
     ],
@@ -6974,7 +8451,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3559,
     "cues": [],
-    "views": 456158,
+    "views": 456281,
     "genres": [
       "EDM"
     ],
@@ -6996,11 +8473,33 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3450,
     "cues": [],
-    "views": 2905239,
+    "views": 2906270,
     "genres": [
       "Techno"
     ],
     "publishedAt": "2023-10-24T08:00:26Z"
+  },
+  {
+    "id": "oS7d05crWdU",
+    "title": "James Hype live at AMF 2023",
+    "artist": "James Hype",
+    "broadcaster": "James Hype",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "venue": "Amsterdam Music Festival (Johan Cruijff ArenA)",
+    "coords": [
+      52.31,
+      4.94
+    ],
+    "setting": "arena",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3483,
+    "cues": [],
+    "views": 1271738,
+    "genres": [
+      "House"
+    ],
+    "publishedAt": "2023-10-23T16:00:12Z"
   },
   {
     "id": "40XFMMvJ-s4",
@@ -7018,7 +8517,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3660,
     "cues": [],
-    "views": 328983,
+    "views": 329061,
     "genres": [
       "House"
     ],
@@ -7040,7 +8539,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5227,
     "cues": [],
-    "views": 1414615,
+    "views": 1414788,
     "genres": [
       "Tech House"
     ],
@@ -7087,7 +8586,7 @@
       6687,
       7026
     ],
-    "views": 2011550,
+    "views": 2012511,
     "genres": [
       "Trance"
     ],
@@ -7109,7 +8608,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5118,
     "cues": [],
-    "views": 400634,
+    "views": 400690,
     "genres": [
       "Melodic Techno"
     ],
@@ -7131,11 +8630,33 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5386,
     "cues": [],
-    "views": 259428,
+    "views": 259467,
     "genres": [
       "House"
     ],
     "publishedAt": "2023-09-29T17:00:08Z"
+  },
+  {
+    "id": "l-TUrm26VzQ",
+    "title": "Armin van Buuren live at Ushuaïa, Ibiza 2023",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Ibiza",
+    "country": "Spain",
+    "venue": "Ushuaïa Ibiza",
+    "coords": [
+      38.88,
+      1.4
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 8865,
+    "cues": [],
+    "views": 7518707,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2023-09-27T15:00:43Z"
   },
   {
     "id": "tBvllfEXio4",
@@ -7153,7 +8674,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 2011,
     "cues": [],
-    "views": 1725176,
+    "views": 1726062,
     "genres": [
       "House"
     ],
@@ -7175,7 +8696,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3433,
     "cues": [],
-    "views": 378527,
+    "views": 378685,
     "genres": [
       "House"
     ],
@@ -7197,7 +8718,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 4381,
     "cues": [],
-    "views": 5755414,
+    "views": 5756674,
     "genres": [
       "Tech House"
     ],
@@ -7219,7 +8740,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5310,
     "cues": [],
-    "views": 479511,
+    "views": 479635,
     "genres": [
       "House"
     ],
@@ -7241,7 +8762,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5173,
     "cues": [],
-    "views": 108232,
+    "views": 108275,
     "genres": [
       "House"
     ],
@@ -7277,7 +8798,7 @@
       3150,
       3391
     ],
-    "views": 1746315,
+    "views": 1747185,
     "genres": [
       "Melodic House"
     ],
@@ -7299,11 +8820,33 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5415,
     "cues": [],
-    "views": 577276,
+    "views": 577371,
     "genres": [
       "Psytrance"
     ],
     "publishedAt": "2023-08-11T13:51:08Z"
+  },
+  {
+    "id": "KxWqzZJZcbo",
+    "title": "Armin van Buuren live at UNTOLD Festival 2023",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "venue": "Untold Festival",
+    "coords": [
+      46.77,
+      23.59
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 18779,
+    "cues": [],
+    "views": 1371358,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2023-08-08T08:31:42Z"
   },
   {
     "id": "nkBJzfHpq_A",
@@ -7321,7 +8864,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3701,
     "cues": [],
-    "views": 6382354,
+    "views": 6383086,
     "genres": [
       "House",
       "Trance"
@@ -7344,11 +8887,33 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7107,
     "cues": [],
-    "views": 370777,
+    "views": 370826,
     "genres": [
       "House"
     ],
     "publishedAt": "2023-08-03T19:00:07Z"
+  },
+  {
+    "id": "cJhq3MPMNJ4",
+    "title": "Armin van Buuren live at Tomorrowland 2023 (Freedom Stage)",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Boom",
+    "country": "Belgium",
+    "venue": "Tomorrowland",
+    "coords": [
+      51.09,
+      4.37
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 10971,
+    "cues": [],
+    "views": 2190035,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2023-08-02T09:20:26Z"
   },
   {
     "id": "Vm0lZAelVAk",
@@ -7387,7 +8952,7 @@
       4565,
       5084
     ],
-    "views": 3510863,
+    "views": 3515066,
     "genres": [
       "Melodic House"
     ],
@@ -7409,7 +8974,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7081,
     "cues": [],
-    "views": 586822,
+    "views": 586872,
     "genres": [
       "House"
     ],
@@ -7428,7 +8993,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7618,
     "cues": [],
-    "views": 537654,
+    "views": 537712,
     "genres": [
       "House"
     ],
@@ -7461,7 +9026,7 @@
       3373,
       3639
     ],
-    "views": 3454640,
+    "views": 3456162,
     "genres": [
       "Melodic House"
     ],
@@ -7483,7 +9048,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3602,
     "cues": [],
-    "views": 567266,
+    "views": 567391,
     "genres": [
       "House"
     ],
@@ -7505,7 +9070,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3603,
     "cues": [],
-    "views": 11583,
+    "views": 11637,
     "genres": [
       "House",
       "Trance"
@@ -7528,7 +9093,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3533,
     "cues": [],
-    "views": 1007952,
+    "views": 1008158,
     "genres": [
       "House"
     ],
@@ -7550,7 +9115,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 4684,
     "cues": [],
-    "views": 6629165,
+    "views": 6629733,
     "genres": [
       "House",
       "Trance"
@@ -7573,7 +9138,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7248,
     "cues": [],
-    "views": 909058,
+    "views": 909144,
     "genres": [
       "Tech House"
     ],
@@ -7592,7 +9157,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5298,
     "cues": [],
-    "views": 2413955,
+    "views": 2414926,
     "genres": [
       "Psytrance"
     ],
@@ -7614,7 +9179,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3438,
     "cues": [],
-    "views": 1315163,
+    "views": 1315279,
     "genres": [
       "Trance"
     ],
@@ -7636,7 +9201,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3579,
     "cues": [],
-    "views": 8980205,
+    "views": 8983050,
     "genres": [
       "Techno"
     ],
@@ -7658,7 +9223,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5571,
     "cues": [],
-    "views": 893323,
+    "views": 893415,
     "genres": [
       "House"
     ],
@@ -7680,7 +9245,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 1896,
     "cues": [],
-    "views": 2727160,
+    "views": 2728457,
     "genres": [
       "House"
     ],
@@ -7702,7 +9267,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 7770,
     "cues": [],
-    "views": 2964716,
+    "views": 2965473,
     "genres": [
       "Melodic Techno"
     ],
@@ -7742,7 +9307,7 @@
       4560,
       4980
     ],
-    "views": 1791,
+    "views": 1793,
     "genres": [
       "Melodic Techno"
     ],
@@ -7764,7 +9329,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 4300,
     "cues": [],
-    "views": 3869093,
+    "views": 3870625,
     "genres": [
       "EDM"
     ],
@@ -7786,7 +9351,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3661,
     "cues": [],
-    "views": 289815,
+    "views": 289835,
     "genres": [
       "EDM"
     ],
@@ -7808,7 +9373,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3481,
     "cues": [],
-    "views": 129969,
+    "views": 129980,
     "genres": [
       "EDM"
     ],
@@ -7843,11 +9408,53 @@
       3045,
       3325
     ],
-    "views": 265927,
+    "views": 265998,
     "genres": [
       "Trance"
     ],
     "publishedAt": "2023-03-26T11:00:06Z"
+  },
+  {
+    "id": "7LwfID7If0k",
+    "title": "ARMIN VAN BUUREN LIVE @ ULTRA MUSIC FESTIVAL MIAMI 2023 | UMF",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Miami",
+    "country": "United States",
+    "venue": "Ultra Music Festival",
+    "coords": [
+      25.78,
+      -80.19
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3485,
+    "cues": [
+      0,
+      297,
+      530,
+      735,
+      917,
+      1042,
+      1178,
+      1380,
+      1491,
+      1669,
+      1832,
+      1985,
+      2163,
+      2339,
+      2515,
+      2673,
+      2886,
+      3044,
+      3188
+    ],
+    "views": 5472948,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2023-03-26T09:14:43Z"
   },
   {
     "id": "GrJs8aLfA94",
@@ -7865,7 +9472,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3509,
     "cues": [],
-    "views": 5410834,
+    "views": 5411597,
     "genres": [
       "EDM"
     ],
@@ -7887,11 +9494,123 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7224,
     "cues": [],
-    "views": 1716722,
+    "views": 1717087,
     "genres": [
       "House"
     ],
     "publishedAt": "2023-03-17T19:00:10Z"
+  },
+  {
+    "id": "Uht6xAGabCA",
+    "title": "Armin van Buuren live at A State of Trance - Celebration Weekend (Friday | 6 Hour Classics Set)",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "venue": "A State of Trance (Jaarbeurs)",
+    "coords": [
+      52.09,
+      5.11
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 21179,
+    "cues": [
+      0,
+      267,
+      655,
+      970,
+      1239,
+      1518,
+      1776,
+      2000,
+      2264,
+      2460,
+      2698,
+      2820,
+      3030,
+      3260,
+      3595,
+      3757,
+      4020,
+      4230,
+      4474,
+      4753,
+      5081,
+      5310,
+      5502,
+      5726,
+      5932,
+      6221,
+      6360,
+      6687,
+      6897,
+      7093,
+      7285,
+      7440,
+      7710,
+      7910,
+      8129,
+      8410,
+      8711,
+      9020,
+      9277,
+      9545,
+      9764,
+      9977,
+      10160,
+      10325,
+      10534,
+      10740,
+      11006,
+      11278,
+      11524,
+      11822,
+      12055,
+      12316,
+      12563,
+      12746,
+      12932,
+      13156,
+      13351,
+      13582,
+      13866,
+      14074,
+      14397,
+      14581,
+      14745,
+      15003,
+      15373,
+      15712,
+      15895,
+      16061,
+      16283,
+      16437,
+      16689,
+      16847,
+      17073,
+      17317,
+      17546,
+      17866,
+      18074,
+      18302,
+      18500,
+      18642,
+      18827,
+      19134,
+      19490,
+      19797,
+      19953,
+      20200,
+      20550,
+      20801,
+      21072
+    ],
+    "views": 3066202,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2023-03-15T13:00:20Z"
   },
   {
     "id": "RPdVAKnAk5c",
@@ -7909,7 +9628,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5391,
     "cues": [],
-    "views": 842973,
+    "views": 843080,
     "genres": [
       "House"
     ],
@@ -7969,7 +9688,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 7111,
     "cues": [],
-    "views": 2766992,
+    "views": 2767544,
     "genres": [
       "Trance"
     ],
@@ -7991,7 +9710,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3729,
     "cues": [],
-    "views": 247084,
+    "views": 247180,
     "genres": [
       "Psytrance"
     ],
@@ -8013,7 +9732,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 1929,
     "cues": [],
-    "views": 2316173,
+    "views": 2318751,
     "genres": [
       "House"
     ],
@@ -8035,11 +9754,33 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 4985,
     "cues": [],
-    "views": 3198636,
+    "views": 3200832,
     "genres": [
       "Psytrance"
     ],
     "publishedAt": "2023-01-25T17:00:07Z"
+  },
+  {
+    "id": "r03mKulgwEM",
+    "title": "AFROJACK Live At NEON Countdown 2022",
+    "artist": "Afrojack",
+    "broadcaster": "NEON Music & Art Festival",
+    "city": "Singapore",
+    "country": "Singapore",
+    "venue": "NEON Countdown",
+    "coords": [
+      1.29,
+      103.86
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3307,
+    "cues": [],
+    "views": 139557,
+    "genres": [
+      "EDM"
+    ],
+    "publishedAt": "2022-12-30T16:14:42Z"
   },
   {
     "id": "ZEW7nRoX1jc",
@@ -8064,7 +9805,7 @@
       3158,
       3582
     ],
-    "views": 3072700,
+    "views": 3073383,
     "genres": [
       "Minimal Techno"
     ],
@@ -8096,7 +9837,7 @@
       3168,
       3465
     ],
-    "views": 275186,
+    "views": 275269,
     "genres": [
       "Melodic House"
     ],
@@ -8118,7 +9859,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3695,
     "cues": [],
-    "views": 952717,
+    "views": 953182,
     "genres": [
       "Psytrance"
     ],
@@ -8140,7 +9881,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5780,
     "cues": [],
-    "views": 558554,
+    "views": 558688,
     "genres": [
       "House"
     ],
@@ -8162,7 +9903,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3560,
     "cues": [],
-    "views": 387809,
+    "views": 387880,
     "genres": [
       "Melodic Techno"
     ],
@@ -8184,7 +9925,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3648,
     "cues": [],
-    "views": 230528,
+    "views": 230547,
     "genres": [
       "EDM"
     ],
@@ -8206,7 +9947,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3807,
     "cues": [],
-    "views": 2002652,
+    "views": 2004198,
     "genres": [
       "Techno"
     ],
@@ -8228,7 +9969,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3541,
     "cues": [],
-    "views": 563182,
+    "views": 563241,
     "genres": [
       "Melodic Techno"
     ],
@@ -8250,11 +9991,33 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5230,
     "cues": [],
-    "views": 2253827,
+    "views": 2254825,
     "genres": [
       "House"
     ],
     "publishedAt": "2022-09-22T16:18:13Z"
+  },
+  {
+    "id": "ZtmIokzkeyA",
+    "title": "Armin van Buuren (full set) - Mainstage - Mysteryland 2022",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Mysteryland",
+    "city": "Haarlemmermeer",
+    "country": "Netherlands",
+    "venue": "Mysteryland",
+    "coords": [
+      52.33,
+      4.75
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 5016,
+    "cues": [],
+    "views": 13667543,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2022-09-20T10:36:36Z"
   },
   {
     "id": "D_Kl-Q8y8D4",
@@ -8272,7 +10035,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 2436,
     "cues": [],
-    "views": 207252,
+    "views": 207357,
     "genres": [
       "House"
     ],
@@ -8328,7 +10091,7 @@
       10370,
       11002
     ],
-    "views": 571676,
+    "views": 572433,
     "genres": [
       "House",
       "Trance"
@@ -8351,7 +10114,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 6926,
     "cues": [],
-    "views": 3634873,
+    "views": 3635217,
     "genres": [
       "Melodic Techno"
     ],
@@ -8413,7 +10176,7 @@
       12166,
       12342
     ],
-    "views": 1375319,
+    "views": 1377393,
     "genres": [
       "House",
       "Trance"
@@ -8433,7 +10196,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3798,
     "cues": [],
-    "views": 7945,
+    "views": 7946,
     "genres": [
       "EDM"
     ],
@@ -8455,7 +10218,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3566,
     "cues": [],
-    "views": 2870682,
+    "views": 2870827,
     "genres": [
       "EDM"
     ],
@@ -8477,7 +10240,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3740,
     "cues": [],
-    "views": 4155161,
+    "views": 4155506,
     "genres": [
       "Tech House"
     ],
@@ -8499,7 +10262,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7019,
     "cues": [],
-    "views": 4407886,
+    "views": 4408766,
     "genres": [
       "Techno"
     ],
@@ -8521,7 +10284,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3614,
     "cues": [],
-    "views": 5343102,
+    "views": 5344413,
     "genres": [
       "Techno"
     ],
@@ -8543,11 +10306,54 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3517,
     "cues": [],
-    "views": 5658765,
+    "views": 5659531,
     "genres": [
       "Minimal Techno"
     ],
     "publishedAt": "2022-08-01T16:00:38Z"
+  },
+  {
+    "id": "QrSebQAbytY",
+    "title": "Armin van Buuren live at Tomorrowland 2022 (Weekend 1)",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Boom",
+    "country": "Belgium",
+    "venue": "Tomorrowland",
+    "coords": [
+      51.09,
+      4.37
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3631,
+    "cues": [
+      0,
+      268,
+      438,
+      497,
+      662,
+      818,
+      983,
+      1127,
+      1316,
+      1465,
+      1713,
+      1832,
+      1956,
+      2140,
+      2284,
+      2508,
+      2710,
+      2879,
+      3089,
+      3291
+    ],
+    "views": 4937377,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2022-08-01T16:00:12Z"
   },
   {
     "id": "JcPeIt2Cehg",
@@ -8565,7 +10371,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 7160,
     "cues": [],
-    "views": 1292166,
+    "views": 1292450,
     "genres": [
       "Melodic Techno"
     ],
@@ -8587,7 +10393,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5181,
     "cues": [],
-    "views": 640182,
+    "views": 640335,
     "genres": [
       "House"
     ],
@@ -8606,7 +10412,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3536,
     "cues": [],
-    "views": 4006,
+    "views": 4008,
     "genres": [
       "House"
     ],
@@ -8628,7 +10434,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3491,
     "cues": [],
-    "views": 1310623,
+    "views": 1310859,
     "genres": [
       "EDM"
     ],
@@ -8650,7 +10456,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3653,
     "cues": [],
-    "views": 6723,
+    "views": 6784,
     "genres": [
       "House"
     ],
@@ -8672,7 +10478,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3821,
     "cues": [],
-    "views": 1565710,
+    "views": 1565920,
     "genres": [
       "House"
     ],
@@ -8694,7 +10500,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 4394,
     "cues": [],
-    "views": 1515598,
+    "views": 1515804,
     "genres": [
       "Techno"
     ],
@@ -8716,7 +10522,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5226,
     "cues": [],
-    "views": 4146001,
+    "views": 4146093,
     "genres": [
       "House",
       "Trance"
@@ -8757,7 +10563,7 @@
       5260,
       5640
     ],
-    "views": 27436489,
+    "views": 27446536,
     "genres": [
       "Minimal Techno"
     ],
@@ -8779,7 +10585,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3304,
     "cues": [],
-    "views": 221202,
+    "views": 221229,
     "genres": [
       "Techno"
     ],
@@ -8801,7 +10607,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3639,
     "cues": [],
-    "views": 73352,
+    "views": 73366,
     "genres": [
       "Trance"
     ],
@@ -8823,7 +10629,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5532,
     "cues": [],
-    "views": 3187446,
+    "views": 3188092,
     "genres": [
       "House"
     ],
@@ -8845,7 +10651,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3574,
     "cues": [],
-    "views": 4512657,
+    "views": 4513150,
     "genres": [
       "Tech House"
     ],
@@ -8864,7 +10670,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3585,
     "cues": [],
-    "views": 16770,
+    "views": 16771,
     "genres": [
       "EDM"
     ],
@@ -8886,7 +10692,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 2826,
     "cues": [],
-    "views": 9071565,
+    "views": 9072534,
     "genres": [
       "House",
       "Trance"
@@ -8909,11 +10715,33 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3649,
     "cues": [],
-    "views": 3750462,
+    "views": 3751007,
     "genres": [
       "Techno"
     ],
     "publishedAt": "2022-03-28T09:20:36Z"
+  },
+  {
+    "id": "BZJ5Ti-nQvg",
+    "title": "Armin van Buuren live at Ultra Music Festival Miami 2022 | UMF (ASOT Stage)",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Miami",
+    "country": "United States",
+    "venue": "Ultra Music Festival",
+    "coords": [
+      25.78,
+      -80.19
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 5216,
+    "cues": [],
+    "views": 4252067,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2022-03-27T09:27:19Z"
   },
   {
     "id": "3f1HGbbAA9A",
@@ -8931,11 +10759,33 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3548,
     "cues": [],
-    "views": 7079896,
+    "views": 7080500,
     "genres": [
       "EDM"
     ],
     "publishedAt": "2022-03-27T04:04:27Z"
+  },
+  {
+    "id": "DfLntFvBYDQ",
+    "title": "Afrojack at Mainstage | Tomorrowland Winter 2022",
+    "artist": "Afrojack",
+    "broadcaster": "Tomorrowland",
+    "city": "Alpe d'Huez",
+    "country": "France",
+    "venue": "Tomorrowland Winter",
+    "coords": [
+      45.09,
+      6.07
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3530,
+    "cues": [],
+    "views": 636422,
+    "genres": [
+      "EDM"
+    ],
+    "publishedAt": "2022-03-24T19:19:02Z"
   },
   {
     "id": "X-lm0GggydE",
@@ -8953,7 +10803,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3592,
     "cues": [],
-    "views": 8958,
+    "views": 8959,
     "genres": [
       "Melodic Techno"
     ],
@@ -8975,7 +10825,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3546,
     "cues": [],
-    "views": 315989,
+    "views": 316016,
     "genres": [
       "Tech House"
     ],
@@ -8997,7 +10847,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 6182,
     "cues": [],
-    "views": 413499,
+    "views": 413537,
     "genres": [
       "House"
     ],
@@ -9016,7 +10866,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7197,
     "cues": [],
-    "views": 4537,
+    "views": 4543,
     "genres": [
       "Melodic Techno"
     ],
@@ -9050,7 +10900,7 @@
       3935,
       4223
     ],
-    "views": 511949,
+    "views": 514808,
     "genres": [
       "House",
       "Trance"
@@ -9073,7 +10923,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7062,
     "cues": [],
-    "views": 356336,
+    "views": 356368,
     "genres": [
       "House"
     ],
@@ -9108,7 +10958,7 @@
       3950,
       4327
     ],
-    "views": 583041,
+    "views": 584984,
     "genres": [
       "House",
       "Trance"
@@ -9131,7 +10981,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3752,
     "cues": [],
-    "views": 14409292,
+    "views": 14412138,
     "genres": [
       "House",
       "Trance"
@@ -9154,7 +11004,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7000,
     "cues": [],
-    "views": 803829,
+    "views": 803985,
     "genres": [
       "House"
     ],
@@ -9197,7 +11047,7 @@
       5977,
       6738
     ],
-    "views": 971038,
+    "views": 971209,
     "genres": [
       "Trance"
     ],
@@ -9235,7 +11085,7 @@
       2570,
       2874
     ],
-    "views": 357386,
+    "views": 357420,
     "genres": [
       "House"
     ],
@@ -9257,7 +11107,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7178,
     "cues": [],
-    "views": 543741,
+    "views": 543800,
     "genres": [
       "Trance"
     ],
@@ -9276,7 +11126,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 2791,
     "cues": [],
-    "views": 298253,
+    "views": 298284,
     "genres": [
       "House"
     ],
@@ -9298,7 +11148,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5342,
     "cues": [],
-    "views": 3593194,
+    "views": 3593343,
     "genres": [
       "House",
       "Trance"
@@ -9321,7 +11171,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3757,
     "cues": [],
-    "views": 396437,
+    "views": 396468,
     "genres": [
       "Trance"
     ],
@@ -9355,7 +11205,7 @@
       3956,
       4282
     ],
-    "views": 666614,
+    "views": 668567,
     "genres": [
       "House",
       "Trance"
@@ -9378,7 +11228,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5457,
     "cues": [],
-    "views": 4887837,
+    "views": 4888019,
     "genres": [
       "House",
       "Trance"
@@ -9398,7 +11248,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7217,
     "cues": [],
-    "views": 25294,
+    "views": 25301,
     "genres": [
       "Techno"
     ],
@@ -9442,7 +11292,7 @@
       6225,
       6615
     ],
-    "views": 17323026,
+    "views": 17329354,
     "genres": [
       "Trance"
     ],
@@ -9461,7 +11311,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3572,
     "cues": [],
-    "views": 58217,
+    "views": 58218,
     "genres": [
       "Melodic Techno"
     ],
@@ -9480,7 +11330,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3760,
     "cues": [],
-    "views": 258539,
+    "views": 258565,
     "genres": [
       "EDM"
     ],
@@ -9499,7 +11349,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 4396,
     "cues": [],
-    "views": 1920116,
+    "views": 1920714,
     "genres": [
       "Techno"
     ],
@@ -9521,7 +11371,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 1939,
     "cues": [],
-    "views": 88249,
+    "views": 88256,
     "genres": [
       "House"
     ],
@@ -9608,11 +11458,33 @@
       6662,
       7043
     ],
-    "views": 5486488,
+    "views": 5487425,
     "genres": [
       "Trance"
     ],
     "publishedAt": "2021-05-19T18:24:06Z"
+  },
+  {
+    "id": "3sm-W9b89XY",
+    "title": "Afrojack Live at Ultra Japan 2015 (Full Live Set)",
+    "artist": "Afrojack",
+    "broadcaster": "Spinnin' Records Deleted Videos",
+    "city": "Tokyo",
+    "country": "Japan",
+    "venue": "Ultra Japan",
+    "coords": [
+      35.63,
+      139.78
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 5105,
+    "cues": [],
+    "views": 18320,
+    "genres": [
+      "EDM"
+    ],
+    "publishedAt": "2021-05-19T02:45:55Z"
   },
   {
     "id": "-G_nX3n_sog",
@@ -9630,7 +11502,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5386,
     "cues": [],
-    "views": 1857762,
+    "views": 1858290,
     "genres": [
       "Techno"
     ],
@@ -9668,7 +11540,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3248,
     "cues": [],
-    "views": 67310,
+    "views": 67354,
     "genres": [
       "Melodic Techno"
     ],
@@ -9690,7 +11562,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3641,
     "cues": [],
-    "views": 2841712,
+    "views": 2842601,
     "genres": [
       "Melodic Techno"
     ],
@@ -9712,7 +11584,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 1934,
     "cues": [],
-    "views": 567402,
+    "views": 567501,
     "genres": [
       "House"
     ],
@@ -9731,7 +11603,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3360,
     "cues": [],
-    "views": 999938,
+    "views": 999981,
     "genres": [
       "House"
     ],
@@ -9753,7 +11625,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 7164,
     "cues": [],
-    "views": 4846733,
+    "views": 4848395,
     "genres": [
       "Trance"
     ],
@@ -9789,7 +11661,7 @@
       3289,
       3599
     ],
-    "views": 197092,
+    "views": 197109,
     "genres": [
       "Melodic House"
     ],
@@ -9831,7 +11703,7 @@
       6259,
       6560
     ],
-    "views": 1568716,
+    "views": 1568978,
     "genres": [
       "Minimal Techno"
     ],
@@ -9850,7 +11722,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5442,
     "cues": [],
-    "views": 57882,
+    "views": 57901,
     "genres": [
       "House"
     ],
@@ -9872,7 +11744,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3686,
     "cues": [],
-    "views": 506031,
+    "views": 506127,
     "genres": [
       "Techno"
     ],
@@ -9904,7 +11776,7 @@
       2950,
       3229
     ],
-    "views": 229130,
+    "views": 229170,
     "genres": [
       "Melodic House"
     ],
@@ -9939,7 +11811,7 @@
       4546,
       4916
     ],
-    "views": 1433111,
+    "views": 1433147,
     "genres": [
       "Minimal Techno"
     ],
@@ -9961,7 +11833,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 7194,
     "cues": [],
-    "views": 397489,
+    "views": 397566,
     "genres": [
       "Trance"
     ],
@@ -9983,7 +11855,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5558,
     "cues": [],
-    "views": 71341,
+    "views": 71352,
     "genres": [
       "Melodic Techno"
     ],
@@ -10002,7 +11874,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 7155,
     "cues": [],
-    "views": 248134,
+    "views": 248148,
     "genres": [
       "Melodic Techno"
     ],
@@ -10024,7 +11896,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5257,
     "cues": [],
-    "views": 1935809,
+    "views": 1935974,
     "genres": [
       "Tech House"
     ],
@@ -10068,7 +11940,7 @@
       6414,
       6827
     ],
-    "views": 12327658,
+    "views": 12329668,
     "genres": [
       "Trance"
     ],
@@ -10087,7 +11959,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 4187,
     "cues": [],
-    "views": 436367,
+    "views": 436412,
     "genres": [
       "House"
     ],
@@ -10109,7 +11981,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3813,
     "cues": [],
-    "views": 205865,
+    "views": 205877,
     "genres": [
       "House"
     ],
@@ -10128,7 +12000,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3825,
     "cues": [],
-    "views": 35322,
+    "views": 35334,
     "genres": [
       "Psytrance"
     ],
@@ -10183,7 +12055,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 7705,
     "cues": [],
-    "views": 94940,
+    "views": 95230,
     "genres": [
       "House",
       "Trance"
@@ -10206,7 +12078,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 7501,
     "cues": [],
-    "views": 557988,
+    "views": 559129,
     "genres": [
       "House",
       "Trance"
@@ -10229,11 +12101,74 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3601,
     "cues": [],
-    "views": 2796,
+    "views": 2798,
     "genres": [
       "Melodic Techno"
     ],
     "publishedAt": "2020-11-12T12:00:00Z"
+  },
+  {
+    "id": "TjIu2cBs3N8",
+    "title": "Two Is One (Afrojack b2b Nicky Romero) | AMF Presents Top 100 DJs Awards 2020",
+    "artist": "Afrojack",
+    "broadcaster": "Afrojack",
+    "city": "Zandvoort",
+    "country": "Netherlands",
+    "venue": "Circuit Zandvoort (Top 100 DJs Awards)",
+    "coords": [
+      52.39,
+      4.54
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 1892,
+    "cues": [],
+    "views": 331584,
+    "genres": [
+      "EDM"
+    ],
+    "publishedAt": "2020-11-09T08:55:26Z"
+  },
+  {
+    "id": "8XskjcJhFVY",
+    "title": "Armin van Buuren live at AMF presents Top 100 DJs Awards 2020 | from CM.com Circuit Zandvoort",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Zandvoort",
+    "country": "Netherlands",
+    "venue": "Circuit Zandvoort (Top 100 DJs Awards)",
+    "coords": [
+      52.39,
+      4.54
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3486,
+    "cues": [
+      0,
+      301,
+      469,
+      606,
+      865,
+      1074,
+      1226,
+      1432,
+      1604,
+      1832,
+      1954,
+      2061,
+      2342,
+      2503,
+      2669,
+      2856,
+      3093,
+      3212
+    ],
+    "views": 6211536,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2020-11-08T11:55:43Z"
   },
   {
     "id": "MErMw-ewnKA",
@@ -10248,7 +12183,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3316,
     "cues": [],
-    "views": 155070,
+    "views": 155103,
     "genres": [
       "House"
     ],
@@ -10267,7 +12202,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3612,
     "cues": [],
-    "views": 68743,
+    "views": 68747,
     "genres": [
       "Melodic House"
     ],
@@ -10286,7 +12221,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3496,
     "cues": [],
-    "views": 89290,
+    "views": 89293,
     "genres": [
       "House"
     ],
@@ -10308,7 +12243,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5216,
     "cues": [],
-    "views": 9080208,
+    "views": 9083146,
     "genres": [
       "Techno"
     ],
@@ -10346,7 +12281,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5645,
     "cues": [],
-    "views": 640331,
+    "views": 640424,
     "genres": [
       "Techno"
     ],
@@ -10379,7 +12314,7 @@
       2764,
       3126
     ],
-    "views": 136282,
+    "views": 136317,
     "genres": [
       "Melodic Techno"
     ],
@@ -10398,7 +12333,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3628,
     "cues": [],
-    "views": 2089231,
+    "views": 2089409,
     "genres": [
       "House"
     ],
@@ -10420,7 +12355,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3656,
     "cues": [],
-    "views": 2480492,
+    "views": 2480614,
     "genres": [
       "Tech House"
     ],
@@ -10466,7 +12401,7 @@
       7501,
       7975
     ],
-    "views": 1379119,
+    "views": 1379340,
     "genres": [
       "Minimal Techno"
     ],
@@ -10485,7 +12420,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 4857,
     "cues": [],
-    "views": 182798,
+    "views": 182936,
     "genres": [
       "Melodic Techno"
     ],
@@ -10519,7 +12454,7 @@
       3607,
       4007
     ],
-    "views": 456358,
+    "views": 457621,
     "genres": [
       "House",
       "Trance"
@@ -10558,7 +12493,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3639,
     "cues": [],
-    "views": 32500,
+    "views": 32502,
     "genres": [
       "House"
     ],
@@ -10580,7 +12515,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 4975,
     "cues": [],
-    "views": 2954528,
+    "views": 2955212,
     "genres": [
       "Techno"
     ],
@@ -10602,7 +12537,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5264,
     "cues": [],
-    "views": 2616822,
+    "views": 2617322,
     "genres": [
       "Trance"
     ],
@@ -10621,7 +12556,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3724,
     "cues": [],
-    "views": 1402671,
+    "views": 1402991,
     "genres": [
       "House"
     ],
@@ -10640,7 +12575,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3937,
     "cues": [],
-    "views": 1563990,
+    "views": 1564669,
     "genres": [
       "Melodic Techno"
     ],
@@ -10659,7 +12594,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3436,
     "cues": [],
-    "views": 180977,
+    "views": 181191,
     "genres": [
       "Psytrance"
     ],
@@ -10681,7 +12616,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5361,
     "cues": [],
-    "views": 33227,
+    "views": 33232,
     "genres": [
       "EDM"
     ],
@@ -10700,7 +12635,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3424,
     "cues": [],
-    "views": 708179,
+    "views": 708237,
     "genres": [
       "Minimal Techno"
     ],
@@ -10719,7 +12654,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 4870,
     "cues": [],
-    "views": 378879,
+    "views": 378960,
     "genres": [
       "Melodic Techno"
     ],
@@ -10758,7 +12693,7 @@
       3135,
       3422
     ],
-    "views": 737007,
+    "views": 737108,
     "genres": [
       "Psytrance"
     ],
@@ -10780,7 +12715,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 6264,
     "cues": [],
-    "views": 1826500,
+    "views": 1826686,
     "genres": [
       "Techno"
     ],
@@ -10799,7 +12734,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3563,
     "cues": [],
-    "views": 297926,
+    "views": 297959,
     "genres": [
       "House"
     ],
@@ -10818,7 +12753,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7198,
     "cues": [],
-    "views": 940945,
+    "views": 941024,
     "genres": [
       "Tech House"
     ],
@@ -10837,7 +12772,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3632,
     "cues": [],
-    "views": 432869,
+    "views": 432943,
     "genres": [
       "House",
       "Trance"
@@ -10860,7 +12795,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 4880,
     "cues": [],
-    "views": 2433921,
+    "views": 2434485,
     "genres": [
       "Techno"
     ],
@@ -10903,7 +12838,7 @@
       6595,
       6837
     ],
-    "views": 3247022,
+    "views": 3247360,
     "genres": [
       "Trance"
     ],
@@ -10922,7 +12857,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3604,
     "cues": [],
-    "views": 1088839,
+    "views": 1088957,
     "genres": [
       "House"
     ],
@@ -10941,7 +12876,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3341,
     "cues": [],
-    "views": 127305,
+    "views": 127424,
     "genres": [
       "Psytrance"
     ],
@@ -10960,11 +12895,33 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 2125,
     "cues": [],
-    "views": 146653,
+    "views": 146682,
     "genres": [
       "Psytrance"
     ],
     "publishedAt": "2020-04-19T08:06:21Z"
+  },
+  {
+    "id": "DtaZsqKDlBo",
+    "title": "Armin van Buuren live at FSOE 500 (The Great Pyramids Of Giza, Egypt) 🇪🇬 (September 15, 2017)",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Giza",
+    "country": "Egypt",
+    "venue": "Pyramids of Giza",
+    "coords": [
+      29.98,
+      31.13
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 7175,
+    "cues": [],
+    "views": 9643437,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2020-04-18T19:00:10Z"
   },
   {
     "id": "Rn2qYYV9gsw",
@@ -10982,7 +12939,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3626,
     "cues": [],
-    "views": 403333,
+    "views": 403338,
     "genres": [
       "House"
     ],
@@ -11018,7 +12975,7 @@
       3148,
       3399
     ],
-    "views": 347664,
+    "views": 347713,
     "genres": [
       "Psytrance"
     ],
@@ -11040,7 +12997,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 10773,
     "cues": [],
-    "views": 297769,
+    "views": 297862,
     "genres": [
       "Melodic Techno"
     ],
@@ -11059,7 +13016,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3604,
     "cues": [],
-    "views": 333434,
+    "views": 333474,
     "genres": [
       "House"
     ],
@@ -11078,7 +13035,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3643,
     "cues": [],
-    "views": 713532,
+    "views": 713654,
     "genres": [
       "Melodic Techno"
     ],
@@ -11138,7 +13095,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3736,
     "cues": [],
-    "views": 1150717,
+    "views": 1150818,
     "genres": [
       "Techno"
     ],
@@ -11160,7 +13117,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 7171,
     "cues": [],
-    "views": 205439,
+    "views": 205483,
     "genres": [
       "Melodic Techno"
     ],
@@ -11212,7 +13169,7 @@
       6800,
       6991
     ],
-    "views": 824920,
+    "views": 824967,
     "genres": [
       "Techno"
     ],
@@ -11252,7 +13209,7 @@
       3453,
       3594
     ],
-    "views": 1831429,
+    "views": 1831902,
     "genres": [
       "Psytrance"
     ],
@@ -11274,7 +13231,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3297,
     "cues": [],
-    "views": 3511825,
+    "views": 3512142,
     "genres": [
       "Techno"
     ],
@@ -11296,7 +13253,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 4480,
     "cues": [],
-    "views": 363172,
+    "views": 363190,
     "genres": [
       "Trance"
     ],
@@ -11334,7 +13291,7 @@
       3833,
       4168
     ],
-    "views": 273505,
+    "views": 273514,
     "genres": [
       "Trance"
     ],
@@ -11353,7 +13310,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3987,
     "cues": [],
-    "views": 296788,
+    "views": 296866,
     "genres": [
       "Psytrance"
     ],
@@ -11372,7 +13329,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3519,
     "cues": [],
-    "views": 246665,
+    "views": 246681,
     "genres": [
       "Psytrance"
     ],
@@ -11391,7 +13348,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 7212,
     "cues": [],
-    "views": 601513,
+    "views": 601678,
     "genres": [
       "Melodic Techno"
     ],
@@ -11413,11 +13370,33 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5473,
     "cues": [],
-    "views": 271084,
+    "views": 271106,
     "genres": [
       "Trance"
     ],
     "publishedAt": "2019-09-12T11:44:15Z"
+  },
+  {
+    "id": "cFqWyWr-SII",
+    "title": "Armin van Buuren live at UNTOLD Festival 2019",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "venue": "Untold Festival",
+    "coords": [
+      46.77,
+      23.59
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 26756,
+    "cues": [],
+    "views": 2610019,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2019-08-03T05:53:10Z"
   },
   {
     "id": "6E3TKJ3scww",
@@ -11435,7 +13414,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5548,
     "cues": [],
-    "views": 4056146,
+    "views": 4056599,
     "genres": [
       "Techno"
     ],
@@ -11457,7 +13436,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3498,
     "cues": [],
-    "views": 11634272,
+    "views": 11635129,
     "genres": [
       "Techno"
     ],
@@ -11479,11 +13458,52 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3352,
     "cues": [],
-    "views": 3809722,
+    "views": 3809808,
     "genres": [
       "EDM"
     ],
     "publishedAt": "2019-07-22T13:27:09Z"
+  },
+  {
+    "id": "ScYoXjpQgcc",
+    "title": "Armin van Buuren live at Tomorrowland 2019",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Boom",
+    "country": "Belgium",
+    "venue": "Tomorrowland",
+    "coords": [
+      51.09,
+      4.37
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3438,
+    "cues": [
+      0,
+      277,
+      425,
+      557,
+      709,
+      891,
+      1113,
+      1267,
+      1496,
+      1598,
+      1743,
+      1900,
+      2094,
+      2335,
+      2496,
+      2640,
+      2829,
+      3120
+    ],
+    "views": 14944751,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2019-07-21T15:07:39Z"
   },
   {
     "id": "keAW7CDF3_0",
@@ -11501,7 +13521,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3573,
     "cues": [],
-    "views": 18046697,
+    "views": 18047336,
     "genres": [
       "House",
       "Trance"
@@ -11524,7 +13544,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 4399,
     "cues": [],
-    "views": 11173,
+    "views": 11197,
     "genres": [
       "House",
       "Trance"
@@ -11547,7 +13567,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5316,
     "cues": [],
-    "views": 1808528,
+    "views": 1808601,
     "genres": [
       "EDM"
     ],
@@ -11569,7 +13589,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 4379,
     "cues": [],
-    "views": 54478,
+    "views": 54481,
     "genres": [
       "Trance"
     ],
@@ -11591,7 +13611,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5528,
     "cues": [],
-    "views": 2887012,
+    "views": 2887187,
     "genres": [
       "Psytrance"
     ],
@@ -11634,7 +13654,7 @@
       6960,
       7490
     ],
-    "views": 69115279,
+    "views": 69138137,
     "genres": [
       "Minimal Techno"
     ],
@@ -11656,7 +13676,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3603,
     "cues": [],
-    "views": 5009872,
+    "views": 5010093,
     "genres": [
       "House",
       "Trance"
@@ -11676,7 +13696,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5568,
     "cues": [],
-    "views": 55984,
+    "views": 55985,
     "genres": [
       "Psytrance"
     ],
@@ -11698,7 +13718,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 6906,
     "cues": [],
-    "views": 1059242,
+    "views": 1059473,
     "genres": [
       "Techno"
     ],
@@ -11720,7 +13740,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 2841,
     "cues": [],
-    "views": 10348529,
+    "views": 10349585,
     "genres": [
       "Techno"
     ],
@@ -11742,11 +13762,33 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5393,
     "cues": [],
-    "views": 824331,
+    "views": 824364,
     "genres": [
       "Trance"
     ],
     "publishedAt": "2019-04-03T15:21:44Z"
+  },
+  {
+    "id": "xr40tgMaD1k",
+    "title": "Armin van Buuren live at Ultra Music Festival Miami 2019 (ASOT Stage)",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Miami",
+    "country": "United States",
+    "venue": "Ultra Music Festival",
+    "coords": [
+      25.78,
+      -80.19
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 12348,
+    "cues": [],
+    "views": 6345251,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2019-04-02T08:57:00Z"
   },
   {
     "id": "uDgeqwSZlqw",
@@ -11764,7 +13806,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5178,
     "cues": [],
-    "views": 9439458,
+    "views": 9440055,
     "genres": [
       "EDM"
     ],
@@ -11786,12 +13828,34 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 4532,
     "cues": [],
-    "views": 4978444,
+    "views": 4978522,
     "genres": [
       "House",
       "Trance"
     ],
     "publishedAt": "2019-03-31T19:23:09Z"
+  },
+  {
+    "id": "aq95kcb-M8A",
+    "title": "Armin van Buuren live at Tomorrowland Winter 2019",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Alpe d'Huez",
+    "country": "France",
+    "venue": "Tomorrowland Winter",
+    "coords": [
+      45.09,
+      6.07
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3351,
+    "cues": [],
+    "views": 14050871,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2019-03-16T17:22:46Z"
   },
   {
     "id": "4fpjEE1iNUU",
@@ -11809,7 +13873,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3982,
     "cues": [],
-    "views": 323863,
+    "views": 323882,
     "genres": [
       "Techno"
     ],
@@ -11847,7 +13911,7 @@
       4568,
       4971
     ],
-    "views": 36497238,
+    "views": 36504897,
     "genres": [
       "Melodic Techno"
     ],
@@ -11869,11 +13933,33 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3618,
     "cues": [],
-    "views": 1542749,
+    "views": 1543003,
     "genres": [
       "Trance"
     ],
     "publishedAt": "2019-03-01T17:16:30Z"
+  },
+  {
+    "id": "XLGpZUvzRpE",
+    "title": "Armin van Buuren live at ASOT900 (Jaarbeurs, Utrecht - The Netherlands)",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "venue": "A State of Trance 900",
+    "coords": [
+      52.09,
+      5.11
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 5363,
+    "cues": [],
+    "views": 5049696,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2019-02-25T18:53:37Z"
   },
   {
     "id": "B6FBvq-13rs",
@@ -11891,7 +13977,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 7112,
     "cues": [],
-    "views": 70100,
+    "views": 70266,
     "genres": [
       "House",
       "Trance"
@@ -11911,7 +13997,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5568,
     "cues": [],
-    "views": 484495,
+    "views": 484624,
     "genres": [
       "Psytrance"
     ],
@@ -11930,7 +14016,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3361,
     "cues": [],
-    "views": 371764,
+    "views": 371816,
     "genres": [
       "Psytrance"
     ],
@@ -11952,7 +14038,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 8572,
     "cues": [],
-    "views": 74377,
+    "views": 74386,
     "genres": [
       "Melodic Techno"
     ],
@@ -11974,7 +14060,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5472,
     "cues": [],
-    "views": 2983441,
+    "views": 2983634,
     "genres": [
       "Techno"
     ],
@@ -11996,7 +14082,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3906,
     "cues": [],
-    "views": 68756,
+    "views": 68763,
     "genres": [
       "Melodic Techno"
     ],
@@ -12018,7 +14104,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 4460,
     "cues": [],
-    "views": 85657,
+    "views": 85684,
     "genres": [
       "Psytrance"
     ],
@@ -12040,7 +14126,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7168,
     "cues": [],
-    "views": 2852687,
+    "views": 2852983,
     "genres": [
       "Techno"
     ],
@@ -12059,7 +14145,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3519,
     "cues": [],
-    "views": 885850,
+    "views": 885909,
     "genres": [
       "Psytrance"
     ],
@@ -12092,11 +14178,33 @@
       3091,
       3560
     ],
-    "views": 11727798,
+    "views": 11730310,
     "genres": [
       "Melodic Techno"
     ],
     "publishedAt": "2018-08-19T16:37:07Z"
+  },
+  {
+    "id": "3PsmFqdPsMY",
+    "title": "Armin van Buuren live at Hï Ibiza (6 Hours Set)",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Ibiza",
+    "country": "Spain",
+    "venue": "Hï Ibiza",
+    "coords": [
+      38.88,
+      1.4
+    ],
+    "setting": "club",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 21770,
+    "cues": [],
+    "views": 1694048,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2018-08-10T13:20:16Z"
   },
   {
     "id": "buCD-_1UPn4",
@@ -12130,11 +14238,33 @@
       4633,
       5008
     ],
-    "views": 118117155,
+    "views": 118138160,
     "genres": [
       "Minimal Techno"
     ],
     "publishedAt": "2018-08-07T18:41:00Z"
+  },
+  {
+    "id": "OC7a4NKp2hQ",
+    "title": "Armin van Buuren live at Tomorrowland 2018 (ASOT Stage)",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Boom",
+    "country": "Belgium",
+    "venue": "Tomorrowland",
+    "coords": [
+      51.09,
+      4.37
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 8979,
+    "cues": [],
+    "views": 7145335,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2018-07-29T09:53:53Z"
   },
   {
     "id": "PR6DEZXgf-o",
@@ -12152,7 +14282,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3477,
     "cues": [],
-    "views": 5809630,
+    "views": 5809798,
     "genres": [
       "EDM"
     ],
@@ -12174,7 +14304,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3425,
     "cues": [],
-    "views": 12539998,
+    "views": 12540470,
     "genres": [
       "House",
       "Trance"
@@ -12197,7 +14327,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3708,
     "cues": [],
-    "views": 864855,
+    "views": 864882,
     "genres": [
       "Trance"
     ],
@@ -12237,11 +14367,33 @@
       5260,
       5679
     ],
-    "views": 16343721,
+    "views": 16346646,
     "genres": [
       "Melodic Techno"
     ],
     "publishedAt": "2018-07-26T13:32:20Z"
+  },
+  {
+    "id": "79nFO8dTJfY",
+    "title": "Armin van Buuren live at Tomorrowland 2018",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Boom",
+    "country": "Belgium",
+    "venue": "Tomorrowland",
+    "coords": [
+      51.09,
+      4.37
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3502,
+    "cues": [],
+    "views": 29375066,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2018-07-22T12:38:22Z"
   },
   {
     "id": "mWvdsMwnGmM",
@@ -12259,11 +14411,33 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3348,
     "cues": [],
-    "views": 28788449,
+    "views": 28789680,
     "genres": [
       "Techno"
     ],
     "publishedAt": "2018-07-20T22:46:18Z"
+  },
+  {
+    "id": "s5FbZ2FvVU4",
+    "title": "AFROJACK ULTRA MUSIC FESTIVAL SINGAPORE 2018 FULL SET LIVE MAIN STAGE",
+    "artist": "Afrojack",
+    "broadcaster": "roow420",
+    "city": "Singapore",
+    "country": "Singapore",
+    "venue": "Ultra Singapore",
+    "coords": [
+      1.29,
+      103.86
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 5078,
+    "cues": [],
+    "views": 45537,
+    "genres": [
+      "EDM"
+    ],
+    "publishedAt": "2018-06-16T16:10:28Z"
   },
   {
     "id": "76-L4L4-ZO0",
@@ -12319,7 +14493,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3478,
     "cues": [],
-    "views": 1316651,
+    "views": 1316665,
     "genres": [
       "EDM"
     ],
@@ -12363,7 +14537,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 4641,
     "cues": [],
-    "views": 1290292,
+    "views": 1290370,
     "genres": [
       "Psytrance"
     ],
@@ -12382,7 +14556,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5594,
     "cues": [],
-    "views": 1505370,
+    "views": 1505626,
     "genres": [
       "Psytrance"
     ],
@@ -12404,7 +14578,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3703,
     "cues": [],
-    "views": 2037473,
+    "views": 2037690,
     "genres": [
       "Psytrance"
     ],
@@ -12426,7 +14600,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5133,
     "cues": [],
-    "views": 306097,
+    "views": 306104,
     "genres": [
       "Melodic Techno"
     ],
@@ -12448,7 +14622,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 4218,
     "cues": [],
-    "views": 379832,
+    "views": 379875,
     "genres": [
       "EDM"
     ],
@@ -12470,7 +14644,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5384,
     "cues": [],
-    "views": 6955487,
+    "views": 6955738,
     "genres": [
       "House",
       "Trance"
@@ -12493,7 +14667,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3549,
     "cues": [],
-    "views": 4859920,
+    "views": 4860092,
     "genres": [
       "EDM"
     ],
@@ -12515,11 +14689,55 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5257,
     "cues": [],
-    "views": 1520600,
+    "views": 1520760,
     "genres": [
       "Techno"
     ],
     "publishedAt": "2018-03-07T22:40:55Z"
+  },
+  {
+    "id": "VeE0mrHRDF4",
+    "title": "Armin van Buuren live at A State Of Trance 850 (Jaarbeurs, Utrecht - The Netherlands) [Warm Up Set]",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "venue": "A State of Trance 850",
+    "coords": [
+      52.09,
+      5.11
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3528,
+    "cues": [],
+    "views": 903721,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2018-02-25T17:00:02Z"
+  },
+  {
+    "id": "nMeugAP9OUw",
+    "title": "Armin van Buuren live at ASOT850 (Jaarbeurs, Utrecht - The Netherlands)",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "venue": "A State of Trance 850",
+    "coords": [
+      52.09,
+      5.11
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 7272,
+    "cues": [],
+    "views": 6052776,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2018-02-19T10:59:08Z"
   },
   {
     "id": "FNjrnsh0B0M",
@@ -12537,7 +14755,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5343,
     "cues": [],
-    "views": 1054210,
+    "views": 1054262,
     "genres": [
       "Psytrance"
     ],
@@ -12581,7 +14799,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 6967,
     "cues": [],
-    "views": 125073,
+    "views": 125136,
     "genres": [
       "EDM"
     ],
@@ -12600,7 +14818,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3596,
     "cues": [],
-    "views": 114505,
+    "views": 114515,
     "genres": [
       "Psytrance"
     ],
@@ -12619,7 +14837,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 4852,
     "cues": [],
-    "views": 2363367,
+    "views": 2363416,
     "genres": [
       "Minimal Techno"
     ],
@@ -12649,7 +14867,7 @@
       3477,
       3931
     ],
-    "views": 142372,
+    "views": 142402,
     "genres": [
       "Melodic Techno"
     ],
@@ -12668,7 +14886,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3570,
     "cues": [],
-    "views": 122448,
+    "views": 122479,
     "genres": [
       "Techno"
     ],
@@ -12690,7 +14908,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3488,
     "cues": [],
-    "views": 155225,
+    "views": 155247,
     "genres": [
       "Techno"
     ],
@@ -12712,7 +14930,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 6247,
     "cues": [],
-    "views": 10044599,
+    "views": 10045538,
     "genres": [
       "Minimal Techno"
     ],
@@ -12731,7 +14949,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3515,
     "cues": [],
-    "views": 2855709,
+    "views": 2856508,
     "genres": [
       "Melodic Techno"
     ],
@@ -12750,11 +14968,33 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5938,
     "cues": [],
-    "views": 26815,
+    "views": 26831,
     "genres": [
       "Melodic Techno"
     ],
     "publishedAt": "2017-08-19T00:02:11Z"
+  },
+  {
+    "id": "DjQCkSSblIk",
+    "title": "Armin van Buuren live at Untold Festival 2017",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "venue": "Untold Festival",
+    "coords": [
+      46.77,
+      23.59
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 18778,
+    "cues": [],
+    "views": 7980745,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2017-08-12T13:00:03Z"
   },
   {
     "id": "pAd9ilQ3FtE",
@@ -12772,7 +15012,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3030,
     "cues": [],
-    "views": 38226,
+    "views": 38237,
     "genres": [
       "Melodic Techno"
     ],
@@ -12794,11 +15034,33 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5337,
     "cues": [],
-    "views": 1607248,
+    "views": 1607464,
     "genres": [
       "Melodic Techno"
     ],
     "publishedAt": "2017-08-02T14:21:42Z"
+  },
+  {
+    "id": "m_u0BouEWrM",
+    "title": "Armin van Buuren live at Tomorrowland 2017 (ASOT Stage)",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Boom",
+    "country": "Belgium",
+    "venue": "Tomorrowland",
+    "coords": [
+      51.09,
+      4.37
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 5293,
+    "cues": [],
+    "views": 1281735,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2017-07-29T17:34:43Z"
   },
   {
     "id": "jtVF4MFS5tA",
@@ -12816,11 +15078,33 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3491,
     "cues": [],
-    "views": 3690103,
+    "views": 3690263,
     "genres": [
       "EDM"
     ],
     "publishedAt": "2017-07-29T16:57:24Z"
+  },
+  {
+    "id": "9vQ6X_xFSYw",
+    "title": "Armin van Buuren live at Tomorrowland 2017",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Boom",
+    "country": "Belgium",
+    "venue": "Tomorrowland",
+    "coords": [
+      51.09,
+      4.37
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3468,
+    "cues": [],
+    "views": 13414255,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2017-07-24T08:46:34Z"
   },
   {
     "id": "UVJ_zysu9Dc",
@@ -12838,7 +15122,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3480,
     "cues": [],
-    "views": 9422394,
+    "views": 9422877,
     "genres": [
       "House",
       "Trance"
@@ -12861,7 +15145,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3495,
     "cues": [],
-    "views": 2501202,
+    "views": 2501325,
     "genres": [
       "Trance"
     ],
@@ -12883,7 +15167,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5320,
     "cues": [],
-    "views": 5850910,
+    "views": 5851159,
     "genres": [
       "Techno"
     ],
@@ -12905,7 +15189,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3617,
     "cues": [],
-    "views": 207550,
+    "views": 207551,
     "genres": [
       "Psytrance"
     ],
@@ -12924,7 +15208,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3822,
     "cues": [],
-    "views": 1648,
+    "views": 1650,
     "genres": [
       "Psytrance"
     ],
@@ -12946,7 +15230,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5236,
     "cues": [],
-    "views": 2603220,
+    "views": 2603354,
     "genres": [
       "House",
       "Trance"
@@ -12969,7 +15253,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5644,
     "cues": [],
-    "views": 164487,
+    "views": 164491,
     "genres": [
       "EDM"
     ],
@@ -12991,7 +15275,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 6110,
     "cues": [],
-    "views": 2743658,
+    "views": 2743949,
     "genres": [
       "EDM"
     ],
@@ -13010,7 +15294,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 6237,
     "cues": [],
-    "views": 188722,
+    "views": 188763,
     "genres": [
       "Melodic Techno"
     ],
@@ -13032,7 +15316,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3523,
     "cues": [],
-    "views": 1322061,
+    "views": 1322175,
     "genres": [
       "Minimal Techno"
     ],
@@ -13054,7 +15338,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 6039,
     "cues": [],
-    "views": 41616711,
+    "views": 41623221,
     "genres": [
       "Minimal Techno"
     ],
@@ -13076,7 +15360,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3697,
     "cues": [],
-    "views": 80476,
+    "views": 80486,
     "genres": [
       "Psytrance"
     ],
@@ -13098,11 +15382,33 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5230,
     "cues": [],
-    "views": 1404007,
+    "views": 1404511,
     "genres": [
       "Techno"
     ],
     "publishedAt": "2017-04-27T17:16:31Z"
+  },
+  {
+    "id": "cLcKew4cQq4",
+    "title": "Armin van Buuren live at Ultra Music Festival Miami 2017 (ASOT Stage)",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Miami",
+    "country": "United States",
+    "venue": "Ultra Music Festival",
+    "coords": [
+      25.78,
+      -80.19
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 7193,
+    "cues": [],
+    "views": 11456268,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2017-04-01T18:00:13Z"
   },
   {
     "id": "2X6bc-7DsVU",
@@ -13120,7 +15426,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5434,
     "cues": [],
-    "views": 17047341,
+    "views": 17048106,
     "genres": [
       "House",
       "Trance"
@@ -13143,7 +15449,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3460,
     "cues": [],
-    "views": 319541,
+    "views": 319548,
     "genres": [
       "Melodic Techno"
     ],
@@ -13162,7 +15468,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3754,
     "cues": [],
-    "views": 1026847,
+    "views": 1027091,
     "genres": [
       "Melodic Techno"
     ],
@@ -13184,11 +15490,33 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3528,
     "cues": [],
-    "views": 7533412,
+    "views": 7533688,
     "genres": [
       "EDM"
     ],
     "publishedAt": "2017-03-26T11:44:40Z"
+  },
+  {
+    "id": "VYcR1iyIydY",
+    "title": "Armin van Buuren live at Ultra Music Festival Miami 2017",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Miami",
+    "country": "United States",
+    "venue": "Ultra Music Festival",
+    "coords": [
+      25.78,
+      -80.19
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3671,
+    "cues": [],
+    "views": 10194456,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2017-03-25T21:04:29Z"
   },
   {
     "id": "-4G5EXjLgwk",
@@ -13203,7 +15531,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3884,
     "cues": [],
-    "views": 237758,
+    "views": 237770,
     "genres": [
       "Techno"
     ],
@@ -13222,7 +15550,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 7110,
     "cues": [],
-    "views": 1699710,
+    "views": 1699790,
     "genres": [
       "Techno"
     ],
@@ -13244,7 +15572,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5029,
     "cues": [],
-    "views": 2870851,
+    "views": 2871173,
     "genres": [
       "Techno"
     ],
@@ -13266,7 +15594,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 4580,
     "cues": [],
-    "views": 708265,
+    "views": 708342,
     "genres": [
       "Melodic Techno"
     ],
@@ -13285,7 +15613,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 7225,
     "cues": [],
-    "views": 4736431,
+    "views": 4736817,
     "genres": [
       "Minimal Techno"
     ],
@@ -13304,7 +15632,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3651,
     "cues": [],
-    "views": 346381,
+    "views": 346600,
     "genres": [
       "House",
       "Trance"
@@ -13327,7 +15655,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3770,
     "cues": [],
-    "views": 221833,
+    "views": 221844,
     "genres": [
       "Melodic Techno"
     ],
@@ -13349,7 +15677,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5441,
     "cues": [],
-    "views": 1569974,
+    "views": 1570060,
     "genres": [
       "House"
     ],
@@ -13371,7 +15699,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3333,
     "cues": [],
-    "views": 2944188,
+    "views": 2944227,
     "genres": [
       "EDM"
     ],
@@ -13393,7 +15721,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 7840,
     "cues": [],
-    "views": 311368,
+    "views": 311395,
     "genres": [
       "Melodic Techno"
     ],
@@ -13415,7 +15743,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3506,
     "cues": [],
-    "views": 4987592,
+    "views": 4988467,
     "genres": [
       "Minimal Techno"
     ],
@@ -13437,7 +15765,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 5202,
     "cues": [],
-    "views": 79850,
+    "views": 79852,
     "genres": [
       "EDM"
     ],
@@ -13459,11 +15787,33 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3562,
     "cues": [],
-    "views": 6619450,
+    "views": 6619659,
     "genres": [
       "EDM"
     ],
     "publishedAt": "2016-03-20T15:15:36Z"
+  },
+  {
+    "id": "QqbsWgQVSko",
+    "title": "Armin van Buuren live at Ultra Music Festival Miami 2016",
+    "artist": "Armin van Buuren",
+    "broadcaster": "Armin van Buuren",
+    "city": "Miami",
+    "country": "United States",
+    "venue": "Ultra Music Festival",
+    "coords": [
+      25.78,
+      -80.19
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3726,
+    "cues": [],
+    "views": 7091572,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2016-03-19T12:30:01Z"
   },
   {
     "id": "35Gn-yJyzcU",
@@ -13505,7 +15855,7 @@
       6919,
       7060
     ],
-    "views": 134109,
+    "views": 134327,
     "genres": [
       "House",
       "Trance"
@@ -13536,7 +15886,7 @@
       2817,
       3180
     ],
-    "views": 1395567,
+    "views": 1395886,
     "genres": [
       "Melodic Techno"
     ],
@@ -13555,7 +15905,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3781,
     "cues": [],
-    "views": 23970,
+    "views": 23972,
     "genres": [
       "Melodic Techno"
     ],
@@ -13584,7 +15934,7 @@
       2832,
       3202
     ],
-    "views": 406401,
+    "views": 406459,
     "genres": [
       "Minimal Techno"
     ],
@@ -13603,7 +15953,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 2280,
     "cues": [],
-    "views": 136266,
+    "views": 136271,
     "genres": [
       "Melodic Techno"
     ],
@@ -13625,7 +15975,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 2968,
     "cues": [],
-    "views": 29204,
+    "views": 29207,
     "genres": [
       "EDM"
     ],
@@ -13647,7 +15997,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 4787,
     "cues": [],
-    "views": 5924310,
+    "views": 5924989,
     "genres": [
       "Melodic Techno"
     ],
@@ -13669,7 +16019,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3621,
     "cues": [],
-    "views": 198532,
+    "views": 198543,
     "genres": [
       "Trance"
     ],
@@ -13691,7 +16041,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3417,
     "cues": [],
-    "views": 602479,
+    "views": 602513,
     "genres": [
       "EDM"
     ],
@@ -13713,7 +16063,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3774,
     "cues": [],
-    "views": 440864,
+    "views": 440878,
     "genres": [
       "EDM"
     ],
@@ -13735,7 +16085,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3496,
     "cues": [],
-    "views": 1105467,
+    "views": 1105519,
     "genres": [
       "EDM"
     ],
@@ -13757,7 +16107,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 8441,
     "cues": [],
-    "views": 831037,
+    "views": 831067,
     "genres": [
       "Minimal Techno"
     ],
@@ -13779,11 +16129,33 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3503,
     "cues": [],
-    "views": 4595249,
+    "views": 4595583,
     "genres": [
       "EDM"
     ],
     "publishedAt": "2015-03-29T11:37:33Z"
+  },
+  {
+    "id": "yJr8pxaEm_I",
+    "title": "Afrojack live at Creamfields 2014 1.5 hour",
+    "artist": "Afrojack",
+    "broadcaster": "Daily Driver NL",
+    "city": "Daresbury",
+    "country": "United Kingdom",
+    "venue": "Creamfields",
+    "coords": [
+      53.34,
+      -2.63
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 5256,
+    "cues": [],
+    "views": 1881,
+    "genres": [
+      "EDM"
+    ],
+    "publishedAt": "2014-10-02T17:27:18Z"
   },
   {
     "id": "zpOlEmXFzt8",
@@ -13801,7 +16173,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 7123,
     "cues": [],
-    "views": 440078,
+    "views": 440093,
     "genres": [
       "Melodic Techno"
     ],
@@ -13823,7 +16195,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 2460,
     "cues": [],
-    "views": 1894254,
+    "views": 1894284,
     "genres": [
       "House",
       "Trance"
@@ -13843,7 +16215,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 1957,
     "cues": [],
-    "views": 38799,
+    "views": 38800,
     "genres": [
       "Melodic Techno"
     ],
@@ -13865,7 +16237,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 5174,
     "cues": [],
-    "views": 22428331,
+    "views": 22428872,
     "genres": [
       "House",
       "Trance"
@@ -13885,7 +16257,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3828,
     "cues": [],
-    "views": 918939,
+    "views": 919061,
     "genres": [
       "Minimal Techno"
     ],
@@ -13904,7 +16276,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3491,
     "cues": [],
-    "views": 20103,
+    "views": 20104,
     "genres": [
       "Psytrance"
     ],
@@ -13926,11 +16298,34 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3536,
     "cues": [],
-    "views": 131025,
+    "views": 131036,
     "genres": [
       "Psytrance"
     ],
     "publishedAt": "2013-10-28T12:36:25Z"
+  },
+  {
+    "id": "sSkKwVD9z3w",
+    "title": "Tiesto Live @ Creamfields 2013 - 25.08.13 - Full Video Set",
+    "artist": "Tiësto",
+    "broadcaster": "EDM Sets",
+    "city": "Daresbury",
+    "country": "United Kingdom",
+    "venue": "Creamfields",
+    "coords": [
+      53.34,
+      -2.63
+    ],
+    "setting": "festival",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 5261,
+    "cues": [],
+    "views": 7988,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2013-08-27T23:11:01Z"
   },
   {
     "id": "7Jx5zC-cJvE",
@@ -13948,7 +16343,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 6106,
     "cues": [],
-    "views": 404055,
+    "views": 404150,
     "genres": [
       "House",
       "Trance"
@@ -13993,7 +16388,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3560,
     "cues": [],
-    "views": 37066,
+    "views": 37069,
     "genres": [
       "EDM"
     ],
@@ -14041,6 +16436,73 @@
     "publishedAt": "2013-01-13T19:46:57Z"
   },
   {
+    "id": "lSWsz0kZt2I",
+    "title": "Cosmic Gate - BBC Radio One Essential Mix Full Set (2-12-2011)",
+    "artist": "Cosmic Gate",
+    "broadcaster": "CTSendOffPartyVEVO",
+    "city": "London",
+    "country": "United Kingdom",
+    "venue": "BBC Radio 1 Essential Mix",
+    "coords": [
+      51.51,
+      -0.13
+    ],
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 7190,
+    "cues": [
+      0,
+      127,
+      213,
+      573,
+      797,
+      1083,
+      1380,
+      1703,
+      1922,
+      2249,
+      2627,
+      2991,
+      3203,
+      3532,
+      3809,
+      4173,
+      4406,
+      4715,
+      4920,
+      5263,
+      5707,
+      6042,
+      6316,
+      6602,
+      6905
+    ],
+    "views": 52767,
+    "genres": [
+      "Trance"
+    ],
+    "publishedAt": "2012-12-28T00:32:25Z"
+  },
+  {
+    "id": "x_XMHC-Q-Lg",
+    "title": "Stephan Bodzin - Tronic 020",
+    "artist": "Stephan Bodzin",
+    "broadcaster": "Secret Society Sets",
+    "city": null,
+    "country": null,
+    "venue": null,
+    "coords": null,
+    "setting": "radio_studio",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 3522,
+    "cues": [],
+    "views": 27899,
+    "genres": [
+      "Melodic Techno"
+    ],
+    "publishedAt": "2012-12-20T11:24:13Z"
+  },
+  {
     "id": "6icym6RUyVI",
     "title": "Tiësto Live @ Heineken Music Hall Amsterdam 03/12/05 SET COMPLETO!",
     "artist": "Tiësto",
@@ -14056,7 +16518,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 20725,
     "cues": [],
-    "views": 214286,
+    "views": 214391,
     "genres": [
       "House",
       "Trance"
@@ -14076,7 +16538,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 3547,
     "cues": [],
-    "views": 110949,
+    "views": 110951,
     "genres": [
       "Psytrance"
     ],
@@ -14095,7 +16557,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 9192,
     "cues": [],
-    "views": 769525,
+    "views": 769533,
     "genres": [
       "Psytrance"
     ],
@@ -14140,7 +16602,7 @@
       6690,
       7152
     ],
-    "views": 349636,
+    "views": 349749,
     "genres": [
       "House",
       "Trance"
@@ -14160,7 +16622,7 @@
     "enrichedAt": "2026-10-20T12:56:10.773Z",
     "durationSec": 2321,
     "cues": [],
-    "views": 590319,
+    "views": 590325,
     "genres": [
       "EDM"
     ],
@@ -14211,7 +16673,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 3280,
     "cues": [],
-    "views": 672748,
+    "views": 672941,
     "genres": [
       "Trance"
     ],
@@ -14233,11 +16695,34 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 4396,
     "cues": [],
-    "views": 24373,
+    "views": 24376,
     "genres": [
       "Trance"
     ],
     "publishedAt": "2012-03-18T11:23:40Z"
+  },
+  {
+    "id": "yrsx2PFvilY",
+    "title": "DJ Tiesto - Live set Moscow MTV Open Air.mpg",
+    "artist": "Tiësto",
+    "broadcaster": "Александр Рыжий",
+    "city": "Moscow",
+    "country": "Russia",
+    "venue": "MTV Open Air",
+    "coords": [
+      55.76,
+      37.62
+    ],
+    "setting": "outdoor",
+    "enrichedAt": "2026-10-22T08:59:09.091Z",
+    "durationSec": 2512,
+    "cues": [],
+    "views": 89162,
+    "genres": [
+      "House",
+      "Trance"
+    ],
+    "publishedAt": "2011-12-13T13:04:31Z"
   },
   {
     "id": "aQYn3YGLod0",
@@ -14255,7 +16740,7 @@
     "enrichedAt": "2026-10-20T11:31:12.695Z",
     "durationSec": 4921,
     "cues": [],
-    "views": 3903183,
+    "views": 3903530,
     "genres": [
       "House",
       "Trance"

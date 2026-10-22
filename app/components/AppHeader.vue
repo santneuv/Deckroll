@@ -1,5 +1,7 @@
 <script setup lang="ts">
 defineProps<{ total?: number }>()
+
+const contactOpen = ref(false)
 </script>
 
 <template>
@@ -15,7 +17,11 @@ defineProps<{ total?: number }>()
     </nav>
     <div class="actions">
       <slot />
+      <button type="button" class="btn contact" aria-label="Contact" @click="contactOpen = true">
+        <span aria-hidden="true">✉</span><span class="contact-text">Contact</span>
+      </button>
     </div>
+    <ContactDialog :open="contactOpen" @close="contactOpen = false" />
   </header>
 </template>
 
@@ -91,6 +97,11 @@ defineProps<{ total?: number }>()
   margin-left: auto;
 }
 
+.contact {
+  padding: 0.45rem 0.8rem;
+  font-size: 11px;
+}
+
 @media (max-width: 900px) {
   .topbar {
     position: sticky;
@@ -110,6 +121,39 @@ defineProps<{ total?: number }>()
 
   .tab {
     padding: 7px 10px;
+  }
+
+  .contact-text {
+    display: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .topbar {
+    gap: 8px;
+    padding: 0 10px;
+  }
+
+  .actions {
+    gap: 6px;
+  }
+
+  .tab {
+    padding: 7px 8px;
+    letter-spacing: 0.08em;
+  }
+
+  .actions :slotted(.btn),
+  .contact {
+    padding: 0.45rem 0.55rem;
+    letter-spacing: 0.04em;
+  }
+}
+
+/* Roulette tab links home too, so the logo can go to fit the header on small phones */
+@media (max-width: 400px) {
+  .brand {
+    display: none;
   }
 }
 </style>

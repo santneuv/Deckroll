@@ -170,6 +170,12 @@
       "genres": [
         "Techno"
       ]
+    },
+    {
+      "name": "Armin van Buuren",
+      "genres": [
+        "Trance"
+      ]
     }
   ],
   "excludedVideos": [
@@ -177,6 +183,8 @@
     "-kns-gawoxg",
     "-umX7Iatq9M",
     "00YKA3lGqhs",
+    "0lj_DWcaM5E",
+    "1G_qlBcOnXM",
     "1aMg2VnBX0c",
     "26GDMD89woM",
     "2phZVCk5kjs",
@@ -206,6 +214,7 @@
     "BlEySbGtvq0",
     "BmBsDGFhwYU",
     "CCsaEHL55do",
+    "CIBXghgRwuA",
     "CWOCBGoaFX0",
     "CdzuT1eW32U",
     "DIdhqrNyRTM",
@@ -249,17 +258,25 @@
     "MUAy0gBznRc",
     "MjfIETEOaqE",
     "NJYsIXSa9T8",
+    "NfvpgabxSUI",
     "Ntx3hRCBJvA",
     "Nwp8PrtD9Jg",
+    "OBBSJZZy0_U",
     "ONH8Wdhl0Yk",
+    "OkD3PkxCqnE",
+    "PJDDzLy46TE",
+    "PusR-LgSOvM",
     "PwMPnTgp-wQ",
     "Q7RRbjXorq0",
     "Q87GpBjP26Q",
     "Q9lAUKE6d-k",
     "QG94l_aqI6M",
     "QJLMWVPMkN0",
+    "QuzqmbJJluI",
     "R-3pnfonPmg",
     "RwyA4YAsuAY",
+    "S5gdkno5b8s",
+    "S7UAJ1nnk0E",
     "SLJbGTLj65E",
     "SNJQmCgxQP4",
     "SR4ypKUn8N4",
@@ -268,6 +285,8 @@
     "UKHSuv3hj9Q",
     "UOpBQTeyQMk",
     "UQbm9UcVVN0",
+    "USeYohRv0Ds",
+    "Ugn8HXpsh7U",
     "UlmwtupGi_c",
     "Us_WFLtWzwo",
     "UscMb6X2bdw",
@@ -282,6 +301,7 @@
     "WtSoZF1WU-8",
     "XDqBOfiMPBk",
     "Xj0VAj5SbUw",
+    "XnJ-56c8KQw",
     "YHrEUZkb3Dg",
     "YO6wjpsYR5w",
     "ZEXEOK9i75A",
@@ -304,6 +324,7 @@
     "e-BjHOZj20s",
     "e60urSYhgBI",
     "ecMom08wTLA",
+    "egXdXI5uAHc",
     "ermt3UbI6Mo",
     "f0XXKvNO60Y",
     "f0su7CuPBEc",
@@ -325,6 +346,7 @@
     "iez8z4iDZkA",
     "iqmg8B8T_Tw",
     "j1OPWsAhW9c",
+    "jxTbsW1Isjw",
     "jzjOWQETuzw",
     "kDfHESoKnEE",
     "kLRsrZUD2EE",
@@ -356,6 +378,7 @@
     "qE6bh0sWhk4",
     "qXvTMr4tvFY",
     "qwm0ZSMo1LE",
+    "r9MIV8I6EF0",
     "rAE_mIIn_uQ",
     "rGXE9eBgHm8",
     "rHMG6VxbDos",
@@ -373,7 +396,10 @@
     "uxYEjo9hKyc",
     "v23eD_dU7qs",
     "vJVmjYdMwL0",
+    "vMv08pC9zoI",
     "vhe58uobP_k",
+    "vmJ2Cn37wyQ",
+    "w5Crkosd1mk",
     "w6JTGOlJf4k",
     "wET46KvB5r0",
     "wfP5E3WHALg",
@@ -383,11 +409,13 @@
     "xMkV6u102Ho",
     "x_W-6IVESLo",
     "yjRiBzNbQSk",
+    "z0Z2rf7Dc1w",
     "zTguJJfadGQ",
     "zbk6kANyqv4",
     "zcldlAlF-jw",
     "zjxsMUmpopU",
-    "zkTAr2Bbm6Y"
+    "zkTAr2Bbm6Y",
+    "zuVv-6A2Aqk"
   ],
   "pinnedVideos": [
     {
