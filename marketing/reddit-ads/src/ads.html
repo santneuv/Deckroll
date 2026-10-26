@@ -1,0 +1,219 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Deckroll ads</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&family=Space+Mono:wght@400;700&display=swap">
+<style>
+  :root {
+    --bg: #0a0a0c; --surface: #16161a; --border: #25252b; --border-strong: #34343c;
+    --text: #ededf0; --muted: #8d8d98; --dim: #5d5d68;
+    --accent: #c6ff3d; --accent-2: #ff3d8b;
+    --sans: 'Inter', system-ui, sans-serif; --mono: 'Space Mono', monospace;
+  }
+  * { box-sizing: border-box; margin: 0; }
+  html, body { background: var(--bg); color: var(--text); font-family: var(--sans); -webkit-font-smoothing: antialiased; overflow: hidden; }
+  .ad { position: relative; overflow: hidden; background: var(--bg); display: none; }
+  .ad.on { display: block; }
+  .sq { width: 1080px; height: 1080px; }
+  .wide { width: 1200px; height: 628px; }
+
+  .map { position: absolute; max-width: none; }
+  .shade { position: absolute; inset: 0; }
+
+  .brand { display: flex; align-items: center; gap: 14px; }
+  .brand b { font-weight: 800; letter-spacing: -0.01em; }
+  .brand b i { font-style: normal; color: var(--accent); }
+  .url { font-family: var(--mono); color: var(--muted); letter-spacing: 0.04em; }
+
+  .label { font-family: var(--mono); font-weight: 700; text-transform: uppercase; letter-spacing: 0.16em; }
+  .h { font-weight: 900; letter-spacing: -0.035em; line-height: 0.95; }
+  .h em { font-style: normal; color: var(--accent); }
+
+  .btn { display: inline-flex; align-items: center; gap: 12px; font-family: var(--mono); font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; border-radius: 4px; border: 2px solid; }
+  .btn.primary { background: var(--accent); color: #0a0a0c; border-color: var(--accent); box-shadow: 0 0 40px rgb(198 255 61 / 0.35); }
+  .btn.ghost { color: var(--accent-2); border-color: var(--accent-2); }
+
+  .card { background: rgb(22 22 26 / 0.92); border: 1px solid var(--border-strong); border-radius: 6px; }
+  .card .meta { font-family: var(--mono); color: var(--muted); }
+  .card .t { font-weight: 800; letter-spacing: -0.01em; line-height: 1.15; }
+  .bar { height: 6px; background: var(--border-strong); border-radius: 3px; overflow: hidden; }
+  .bar span { display: block; height: 100%; background: var(--accent-2); }
+
+  .chip { display: inline-flex; gap: 10px; align-items: baseline; font-family: var(--mono); font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; border: 1px solid var(--border-strong); border-radius: 4px; background: rgb(22 22 26 / 0.85); color: var(--text); }
+  .chip small { color: var(--accent-2); font-weight: 400; }
+
+  .ring { position: absolute; width: 0; height: 0; transform: scale(var(--s, 1)); }
+  .ring::before, .ring::after { content: ''; position: absolute; border-radius: 50%; border: 3px solid var(--accent); }
+  .ring::before { inset: -22px; box-shadow: 0 0 24px rgb(198 255 61 / .6); }
+  .ring::after { inset: -42px; opacity: .35; }
+  .pick { position: absolute; transform: translateY(-50%); display: flex; gap: 10px; align-items: baseline; padding: 6px 12px; background: #16161a; border: 1px solid var(--accent); border-left-width: 4px; font-family: var(--mono); font-weight: 700; font-size: 17px; letter-spacing: .1em; box-shadow: 0 6px 24px rgb(0 0 0 / .6); }
+  .pick small { color: var(--accent); font-weight: 400; }
+</style>
+</head>
+<body>
+
+<template id="logo">
+  <svg viewBox="0 0 64 64" aria-hidden="true">
+    <rect x="3" y="3" width="58" height="58" rx="14" fill="#0a0a0c" stroke="#c6ff3d" stroke-width="4" />
+    <circle cx="17" cy="17" r="4.5" fill="#c6ff3d" /><circle cx="47" cy="17" r="4.5" fill="#c6ff3d" />
+    <circle cx="17" cy="47" r="4.5" fill="#c6ff3d" /><circle cx="47" cy="47" r="4.5" fill="#c6ff3d" />
+    <circle cx="32" cy="32" r="11" fill="#c6ff3d" />
+    <circle cx="32" cy="32" r="8" fill="none" stroke="#0a0a0c" stroke-width="1.2" stroke-opacity="0.45" />
+    <circle cx="32" cy="32" r="4.5" fill="#ff3d8b" /><circle cx="32" cy="32" r="1.3" fill="#0a0a0c" />
+  </svg>
+</template>
+
+<!-- A · MAP · square -->
+<section class="ad sq" id="map-sq">
+  <img class="map" src="map.png" style="width:1700px; left:-30px; top:-20px">
+  <div class="shade" style="background:linear-gradient(180deg, #0a0a0c 0%, rgb(10 10 12 / .85) 18%, rgb(10 10 12 / 0) 36%, rgb(10 10 12 / 0) 80%, #0a0a0c 95%)"></div>
+  <i class="ring" style="left:767px; top:475px"></i>
+  <span class="pick" style="left:776px; top:476px">IBIZA <small>24</small></span>
+  <div style="position:absolute; left:72px; top:72px; right:72px">
+    <p class="label" style="font-size:20px; color:var(--accent-2); margin-bottom:22px">683 full DJ sets · 123 cities</p>
+    <h1 class="h" style="font-size:118px">Pick a city.<br><em>Press play.</em></h1>
+  </div>
+  <div style="position:absolute; left:72px; right:72px; bottom:64px; display:flex; justify-content:space-between; align-items:center">
+    <div class="brand"><i data-logo style="width:56px;height:56px"></i><b style="font-size:40px">DECK<i>ROLL</i></b></div>
+    <span class="url" style="font-size:24px">deckroll.xyz</span>
+  </div>
+</section>
+
+<!-- A · MAP · wide -->
+<section class="ad wide" id="map-wide">
+  <img class="map" src="map.png" style="width:1560px; left:-60px; top:-200px">
+  <div class="shade" style="background:linear-gradient(90deg, #0a0a0c 0%, rgb(10 10 12 / .94) 34%, rgb(10 10 12 / 0) 58%)"></div>
+  <i class="ring" style="left:672px; top:254px; --s:.8"></i>
+  <span class="pick" style="left:678px; top:255px; font-size:14px; padding:5px 10px">IBIZA <small>24</small></span>
+  <div style="position:absolute; left:64px; top:0; bottom:0; width:520px; display:flex; flex-direction:column; justify-content:center">
+    <p class="label" style="font-size:15px; color:var(--accent-2); margin-bottom:18px">683 full DJ sets · 123 cities</p>
+    <h1 class="h" style="font-size:80px">Pick a city.<br><em>Press play.</em></h1>
+    <div class="brand" style="margin-top:44px"><i data-logo style="width:40px;height:40px"></i><b style="font-size:28px">DECK<i>ROLL</i></b></div>
+  </div>
+</section>
+
+<!-- B · ROLL · square -->
+<section class="ad sq" id="roll-sq">
+  <div class="shade" style="background:radial-gradient(circle at 50% 46%, rgb(198 255 61 / .10), transparent 45%)"></div>
+  <div style="position:absolute; left:72px; right:72px; top:72px; text-align:center">
+    <p class="label" style="font-size:22px; color:var(--accent-2); margin-bottom:20px">Can't pick a set?</p>
+    <h1 class="h" style="font-size:132px">Roll <em>one.</em></h1>
+  </div>
+  <div style="position:absolute; left:0; right:0; top:330px; display:flex; flex-direction:column; align-items:center">
+    <div class="card" style="width:760px; padding:22px 28px 44px; opacity:.35; transform:scale(.9); margin-bottom:-34px">
+      <p class="t" style="font-size:28px">Boris Brejcha at Grand Palais</p>
+      <p class="meta" style="font-size:18px">Grand Palais (Cercle), Paris · 2:13:48</p>
+    </div>
+    <div class="card" style="width:820px; padding:30px 34px; border-color:var(--accent); box-shadow:0 0 0 1px var(--accent), 0 30px 80px rgb(0 0 0 / .6); position:relative">
+      <p class="label" style="font-size:16px; color:var(--accent); margin-bottom:14px">▶ Now playing · random</p>
+      <p class="t" style="font-size:40px">Armin van Buuren live at Untold Festival</p>
+      <p class="meta" style="font-size:20px; margin:12px 0 22px">Cluj-Napoca · Trance · 5:12:58 full set</p>
+      <div class="bar"><span style="width:38%"></span></div>
+    </div>
+    <div class="card" style="width:760px; padding:44px 28px 22px; opacity:.35; transform:scale(.9); margin-top:-34px">
+      <p class="meta" style="font-size:18px">Pyramids of Giza · 2:59:34</p>
+      <p class="t" style="font-size:28px">Tiësto live at the Great Pyramids of Giza</p>
+    </div>
+  </div>
+  <div style="position:absolute; left:0; right:0; bottom:150px; display:flex; justify-content:center; gap:20px">
+    <span class="btn primary" style="font-size:26px; padding:22px 36px"><i data-logo style="width:34px;height:34px"></i>Random set</span>
+    <span class="btn ghost" style="font-size:26px; padding:22px 36px">⚡ Drop in</span>
+  </div>
+  <div style="position:absolute; left:72px; right:72px; bottom:56px; display:flex; justify-content:space-between; align-items:center">
+    <div class="brand"><b style="font-size:32px">DECK<i>ROLL</i></b></div>
+    <span class="url" style="font-size:22px">deckroll.xyz</span>
+  </div>
+</section>
+
+<!-- B · ROLL · wide -->
+<section class="ad wide" id="roll-wide">
+  <div class="shade" style="background:radial-gradient(circle at 74% 50%, rgb(198 255 61 / .10), transparent 42%)"></div>
+  <div style="position:absolute; left:64px; top:0; bottom:0; width:470px; display:flex; flex-direction:column; justify-content:center">
+    <p class="label" style="font-size:16px; color:var(--accent-2); margin-bottom:16px">Can't pick a set?</p>
+    <h1 class="h" style="font-size:104px">Roll <em>one.</em></h1>
+    <div style="display:flex; gap:14px; margin-top:36px">
+      <span class="btn primary" style="font-size:18px; padding:15px 22px"><i data-logo style="width:24px;height:24px"></i>Random set</span>
+      <span class="btn ghost" style="font-size:18px; padding:15px 22px">⚡ Drop in</span>
+    </div>
+  </div>
+  <div style="position:absolute; right:56px; top:0; bottom:0; width:600px; display:flex; flex-direction:column; justify-content:center">
+    <div class="card" style="padding:16px 22px 34px; opacity:.35; transform:scale(.92); margin-bottom:-22px">
+      <p class="t" style="font-size:21px">Boris Brejcha at Grand Palais</p>
+      <p class="meta" style="font-size:14px">Grand Palais (Cercle), Paris · 2:13:48</p>
+    </div>
+    <div class="card" style="padding:24px 26px; border-color:var(--accent); box-shadow:0 0 0 1px var(--accent), 0 24px 60px rgb(0 0 0 / .6); position:relative">
+      <p class="label" style="font-size:13px; color:var(--accent); margin-bottom:10px">▶ Now playing · random</p>
+      <p class="t" style="font-size:30px">Armin van Buuren live at Untold Festival</p>
+      <p class="meta" style="font-size:16px; margin:10px 0 18px">Cluj-Napoca · Trance · 5:12:58 full set</p>
+      <div class="bar"><span style="width:38%"></span></div>
+    </div>
+    <div class="card" style="padding:34px 22px 16px; opacity:.35; transform:scale(.92); margin-top:-22px">
+      <p class="meta" style="font-size:14px">Pyramids of Giza · 2:59:34</p>
+      <p class="t" style="font-size:21px">Tiësto live at the Great Pyramids of Giza</p>
+    </div>
+  </div>
+  <div class="brand" style="position:absolute; left:64px; bottom:36px"><b style="font-size:22px">DECK<i>ROLL</i></b><span class="url" style="font-size:16px; margin-left:8px">deckroll.xyz</span></div>
+</section>
+
+<!-- C · NUMBER · square -->
+<section class="ad sq" id="num-sq">
+  <img class="map" src="map.png" style="width:2100px; left:-480px; top:60px; opacity:.32">
+  <div class="shade" style="background:linear-gradient(180deg, #0a0a0c 30%, rgb(10 10 12 / .6) 60%, #0a0a0c 100%)"></div>
+  <div style="position:absolute; left:72px; right:72px; top:80px">
+    <p class="h" style="font-family:var(--mono); font-weight:700; font-size:300px; letter-spacing:-0.06em; line-height:.9; color:var(--accent)">968<span style="font-size:110px; letter-spacing:-0.02em">h</span></p>
+    <h1 class="h" style="font-size:84px; margin-top:16px">of full-length<br>DJ sets.</h1>
+    <p class="label" style="font-size:20px; color:var(--muted); margin-top:30px">Festivals · clubs · radio — 683 sets, 123 cities</p>
+  </div>
+  <div style="position:absolute; left:72px; right:72px; top:690px; display:flex; flex-wrap:wrap; gap:14px">
+    <span class="chip" style="font-size:22px; padding:12px 18px">House <small>299</small></span>
+    <span class="chip" style="font-size:22px; padding:12px 18px">Trance <small>237</small></span>
+    <span class="chip" style="font-size:22px; padding:12px 18px">Tech house <small>120</small></span>
+    <span class="chip" style="font-size:22px; padding:12px 18px">Techno <small>111</small></span>
+    <span class="chip" style="font-size:22px; padding:12px 18px">Melodic techno <small>94</small></span>
+    <span class="chip" style="font-size:22px; padding:12px 18px">Psytrance <small>49</small></span>
+  </div>
+  <div style="position:absolute; left:72px; right:72px; bottom:64px; display:flex; justify-content:space-between; align-items:center">
+    <div class="brand"><i data-logo style="width:56px;height:56px"></i><b style="font-size:40px">DECK<i>ROLL</i></b></div>
+    <span class="url" style="font-size:24px">deckroll.xyz</span>
+  </div>
+</section>
+
+<!-- C · NUMBER · wide -->
+<section class="ad wide" id="num-wide">
+  <img class="map" src="map.png" style="width:1700px; left:-100px; top:-120px; opacity:.6">
+  <div class="shade" style="background:linear-gradient(90deg, #0a0a0c 34%, rgb(10 10 12 / .3) 100%)"></div>
+  <div style="position:absolute; left:64px; top:0; bottom:0; display:flex; flex-direction:column; justify-content:center">
+    <p class="h" style="font-family:var(--mono); font-weight:700; font-size:210px; letter-spacing:-0.06em; line-height:.85; color:var(--accent)">968<span style="font-size:80px; letter-spacing:-0.02em">h</span></p>
+    <h1 class="h" style="font-size:64px; margin-top:14px">of full-length DJ sets.</h1>
+    <p class="label" style="font-size:16px; color:var(--muted); margin-top:22px">Festivals · clubs · radio — 683 sets, 123 cities</p>
+    <div class="brand" style="margin-top:40px"><i data-logo style="width:40px;height:40px"></i><b style="font-size:28px">DECK<i>ROLL</i></b><span class="url" style="font-size:18px; margin-left:8px">deckroll.xyz</span></div>
+  </div>
+</section>
+
+<!-- THUMBNAILS · no text, read at ~100px -->
+<section class="ad sq" id="thumb-map">
+  <img class="map" src="map-europe-raw.png" style="width:1543px; left:-347px; top:-86px">
+  <div class="shade" style="background:radial-gradient(circle at 39% 72%, transparent 30%, rgb(10 10 12 / .55) 85%)"></div>
+  <i class="ring" style="left:424px; top:773px; --s:2.2"></i>
+</section>
+
+<section class="ad sq" id="thumb-logo">
+  <div class="shade" style="background:radial-gradient(circle at 50% 50%, rgb(198 255 61 / .16), transparent 55%)"></div>
+  <i data-logo style="position:absolute; width:600px; height:600px; left:240px; top:240px; filter:drop-shadow(0 0 50px rgb(198 255 61 / .45))"></i>
+</section>
+
+<section class="ad sq" id="thumb-mix">
+  <img class="map" src="map-europe-raw.png" style="width:1543px; left:-347px; top:-86px; opacity:.55">
+  <div class="shade" style="background:radial-gradient(circle at 50% 50%, rgb(10 10 12 / .85) 22%, rgb(10 10 12 / .2) 70%)"></div>
+  <i data-logo style="position:absolute; width:480px; height:480px; left:300px; top:300px; filter:drop-shadow(0 0 50px rgb(198 255 61 / .45))"></i>
+</section>
+
+<script>
+  const tpl = document.getElementById('logo').innerHTML
+  document.querySelectorAll('[data-logo]').forEach(el => { el.style.display = 'inline-block'; el.innerHTML = tpl; el.firstElementChild.style.cssText = 'width:100%;height:100%;display:block' })
+  const id = new URLSearchParams(location.search).get('ad') || 'map-sq'
+  document.getElementById(id).classList.add('on')
+</script>
+</body>
+</html>
