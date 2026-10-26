@@ -99,9 +99,12 @@ export function getCityPoints(): CityPoint[] {
   return cityPoints
 }
 
+/** Uploaded by the artist themselves, e.g. a set on the "FISHER" channel */
+const onOwnChannel = (s: DjSet) => artistNames(s.artist).some(n => artistSlug(n) === artistSlug(s.broadcaster))
+
 let facets: Facets | undefined
 
-/** The data is static per deploy, so facets are computed once. */
+/** The data is static per deploy, so facets are computed once. Sources lists only third-party channels; artists' own channels are already covered by the artist filter. */
 export function getFacets(): Facets {
   facets ??= {
     total: sets.length,
@@ -110,7 +113,7 @@ export function getFacets(): Facets {
     durations: (Object.keys(DURATION_LABELS) as DurationBucket[])
       .map(name => ({ name, count: sets.filter(s => durationBucket(s.durationSec) === name).length })),
     cities: countBy(sets.map(s => s.city)),
-    broadcasters: countBy(sets.map(s => s.broadcaster)),
+    broadcasters: countBy(sets.filter(s => !onOwnChannel(s)).map(s => s.broadcaster)),
     settings: countBy(sets.map(s => s.setting)),
   }
   return facets
