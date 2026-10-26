@@ -6,7 +6,7 @@ const dialog = ref<HTMLDialogElement | null>(null)
 const moreSets = ref<DjSet[]>([])
 
 const place = computed(() => [props.set.city, props.set.country].filter(Boolean).join(', '))
-const artistLabel = computed(() => props.set.artist.split(' & ').join(' / '))
+const artistLabel = computed(() => artistNames(props.set.artist).join(' / '))
 
 watch(() => [props.open, props.set.id] as const, async ([open, id]) => {
   if (!open) return

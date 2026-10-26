@@ -1,5 +1,6 @@
 import { readFileSync, writeFileSync } from 'node:fs'
 import type { DjSet } from '../shared/types/dj-set.ts'
+import { ARTIST_SEPARATOR, artistNames } from '../shared/utils/dj-set.ts'
 import { parseTracklistCues } from './lib/cues.ts'
 
 interface Artist {
@@ -11,6 +12,17 @@ interface Artist {
   search?: boolean
 }
 
+interface Channel {
+  id: string
+  name: string
+  /** For uploads by artists not in the artists list */
+  genres: string[]
+  /** Every upload is by this artist */
+  artist?: string
+  /** Pulls the artist out of an upload title via the "artist" group; b2b pairs are split */
+  artistPattern?: string
+}
+
 interface Sources {
   minDurationMin: number
   minViews: number
@@ -19,7 +31,7 @@ interface Sources {
   excludedVideos: string[]
   /** Always in the catalogue while playable, regardless of length and views */
   pinnedVideos: { id: string, artist: string }[]
-  channels: { id: string, name: string }[]
+  channels: Channel[]
   artists: Artist[]
 }
 
@@ -118,7 +130,16 @@ function parseIsoDuration(iso: string): number {
   return ((d! * 24 + h!) * 60 + min!) * 60 + s!
 }
 
-async function scanChannel(channel: Sources['channels'][number], match: ReturnType<typeof artistMatcher>, found: Map<string, Candidate>) {
+/** Listed artists named in the credit win, so their genres apply; otherwise the credit itself names the artists */
+function channelArtists(channel: Channel, title: string, match: ReturnType<typeof artistMatcher>): Artist[] {
+  const credit = channel.artist ?? (channel.artistPattern && title.match(new RegExp(channel.artistPattern))?.groups?.artist?.trim())
+  if (!credit) return match(title)
+  const listed = match(credit)
+  if (listed.length > 0) return listed
+  return credit.replace(/^"|"$/g, '').split(/\s+b2b\s+/i).map(name => ({ name, genres: channel.genres }))
+}
+
+async function scanChannel(channel: Channel, match: ReturnType<typeof artistMatcher>, found: Map<string, Candidate>) {
   let scanned = 0
   let hits = 0
   let pageToken = ''
@@ -131,7 +152,7 @@ async function scanChannel(channel: Sources['channels'][number], match: ReturnTy
     })
     for (const item of page.items) {
       scanned++
-      const artists = match(item.snippet.title)
+      const artists = channelArtists(channel, item.snippet.title, match)
       if (artists.length > 0) {
         hits++
         found.set(item.snippet.resourceId.videoId, { artists, trusted: true })
@@ -139,7 +160,7 @@ async function scanChannel(channel: Sources['channels'][number], match: ReturnTy
     }
     pageToken = page.nextPageToken ?? ''
   } while (pageToken)
-  console.log(`channel ${channel.name}: ${scanned} uploads scanned, ${hits} mention an artist`)
+  console.log(`channel ${channel.name}: ${scanned} uploads scanned, ${hits} credited to an artist`)
 }
 
 async function searchArtist(artist: Artist, pages: number, match: ReturnType<typeof artistMatcher>, found: Map<string, Candidate>) {
@@ -184,7 +205,7 @@ async function main() {
   const artistsByName = new Map(sources.artists.map(a => [a.name, a]))
   let kept = 0
   for (const s of previous) {
-    const artists = s.artist.split(' & ').map(n => artistsByName.get(n)).filter((a): a is Artist => a !== undefined)
+    const artists = artistNames(s.artist).map(n => artistsByName.get(n)).filter((a): a is Artist => a !== undefined)
     if (artists.length === 0) continue
     found.set(s.id, { artists: found.get(s.id)?.artists ?? artists, trusted: true })
     kept++
@@ -221,7 +242,7 @@ async function main() {
       sets.push({
         id,
         title: video.snippet.title,
-        artist: candidate.artists.map(a => a.name).join(' & '),
+        artist: candidate.artists.map(a => a.name).join(ARTIST_SEPARATOR),
         broadcaster: video.snippet.channelTitle,
         ...EMPTY_PLACE,
         ...(known && {

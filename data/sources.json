@@ -41,36 +41,61 @@
   "channels": [
     {
       "id": "UCjzbiSwCHDVJz-Cx0RU5rKA",
-      "name": "Plant Bass"
+      "name": "Plant Bass",
+      "genres": [
+        "House"
+      ],
+      "artistPattern": "[|:] (?<artist>[^|:]+?)(?:\\.? Vol\\.? ?\\d+\\.?)?$"
     },
     {
       "id": "UCRcbFA_6luBw6Tc4WK54Rpg",
-      "name": "PUTYOUON MUSIC GROUP"
+      "name": "PUTYOUON MUSIC GROUP",
+      "genres": [
+        "House",
+        "Tech House"
+      ],
+      "artistPattern": "^(?<artist>[^|]+?)(?: (?:Vinyl Set|\\(DJ Set\\)|Ski Window Pop Up))? \\| "
     },
     {
       "id": "UCLmaR7ew57x0XJEe_-REUyg",
-      "name": "Book Club Radio"
+      "name": "Book Club Radio",
+      "genres": [
+        "House"
+      ],
+      "artistPattern": "[|:] (?<artist>[^|:]+)$"
     },
     {
       "id": "UC3_wlMNxKBG4c_P39zFH6Hw",
-      "name": "KREAM"
+      "name": "KREAM",
+      "genres": [
+        "Melodic House",
+        "Tech House"
+      ],
+      "artist": "KREAM"
     },
     {
       "id": "UCPKT_csvP72boVX0XrMtagQ",
-      "name": "Cercle"
+      "name": "Cercle",
+      "genres": [
+        "Melodic House",
+        "Melodic Techno"
+      ],
+      "artistPattern": "^(?:Cercle présente )?(?<artist>.+?) (?:live|at|@|for Cercle|feat\\.?|vinyl|Solo|Spring Mix|\\d+%) "
     }
   ],
   "artists": [
     {
       "name": "Stephan Bodzin",
       "genres": [
-        "Melodic Techno"
+        "Melodic Techno",
+        "Techno"
       ]
     },
     {
       "name": "Joachim Pastor",
       "genres": [
-        "Melodic Techno"
+        "Melodic Techno",
+        "Melodic House"
       ]
     },
     {
@@ -94,44 +119,51 @@
     {
       "name": "Boris Brejcha",
       "genres": [
-        "Minimal Techno"
+        "Minimal Techno",
+        "Techno"
       ]
     },
     {
       "name": "Hozho",
       "genres": [
-        "Melodic Techno"
+        "Melodic Techno",
+        "Melodic House"
       ]
     },
     {
       "name": "Teho",
       "genres": [
-        "Melodic Techno"
+        "Melodic Techno",
+        "Melodic House"
       ]
     },
     {
       "name": "Tiësto",
       "genres": [
         "House",
-        "Trance"
+        "Trance",
+        "EDM"
       ]
     },
     {
       "name": "Chris Luno",
       "genres": [
-        "Melodic House"
+        "Melodic House",
+        "Melodic Techno"
       ]
     },
     {
       "name": "Fisher",
       "genres": [
-        "Tech House"
+        "Tech House",
+        "House"
       ]
     },
     {
       "name": "ARTBAT",
       "genres": [
-        "Melodic Techno"
+        "Melodic Techno",
+        "Techno"
       ]
     },
     {
@@ -143,7 +175,8 @@
     {
       "name": "James Hype",
       "genres": [
-        "House"
+        "House",
+        "Tech House"
       ]
     },
     {
@@ -156,13 +189,15 @@
     {
       "name": "Afrojack",
       "genres": [
-        "EDM"
+        "EDM",
+        "House"
       ]
     },
     {
       "name": "Swedish House Mafia",
       "genres": [
-        "EDM"
+        "EDM",
+        "House"
       ]
     },
     {
@@ -174,7 +209,8 @@
     {
       "name": "Armin van Buuren",
       "genres": [
-        "Trance"
+        "Trance",
+        "EDM"
       ]
     }
   ],

@@ -29,8 +29,11 @@ export const REPORT_REASONS: Record<ReportReason, string> = {
   'other': 'Something else',
 }
 
-/** b2b sets list every artist: "ARTBAT & Armin van Buuren" */
-export const artistNames = (artist: string) => artist.split(' & ')
+/** Not "&", which is part of names like "Above & Beyond" */
+export const ARTIST_SEPARATOR = ' b2b '
+
+/** b2b sets list every artist: "ARTBAT b2b Armin van Buuren" */
+export const artistNames = (artist: string) => artist.split(ARTIST_SEPARATOR)
 
 /** "Tiësto" -> "tiesto", "Armin van Buuren" -> "armin-van-buuren" */
 export function artistSlug(name: string): string {
